@@ -1,0 +1,62 @@
+[
+ {
+   "University Name": "Harward University",
+   "Long": "42.3770° N",
+   "Lat": "71.1167° W"
+ },
+ {
+   "University Name": "Stanford University",
+   "Long": "37.4275° N",
+   "Lat": "122.1697° W"
+ },
+ {
+   "University Name": "University of Oxford",
+   "Long": "51.7548° N",
+   "Lat": "1.2544° W"
+ },
+ {
+   "University Name": "MIT",
+   "Long": "42.3601° N",
+   "Lat": "71.0942° W"
+ },
+ {
+   "University Name": "University of Cambridge",
+   "Long": "52.2043° N",
+   "Lat": "0.1149° E"
+ },
+ {
+   "University Name": "Columbia University",
+   "Long": "40.8075° N",
+   "Lat": "73.9626° W"
+ },
+ {
+   "University Name": "University of California, USA",
+   "Long": "34.0689° N",
+   "Lat": "118.4452° W"
+ },
+ {
+   "University Name": "Princeton University",
+   "Long": "40.3431° N",
+   "Lat": "74.6551° W"
+ },
+ {
+   "University Name": "University of Chicago",
+   "Long": "41.7886° N",
+   "Lat": "87.5987° W"
+ },
+ {
+   "University Name": "Yale University",
+   "Long": "41.3163° N",
+   "Lat": "72.9223° W"
+ },
+ {
+   "University Name": "Cornell University",
+   "Long": "42.4534° N",
+   "Lat": "76.4735° W"
+ },
+ {
+   "University Name": "Imperial College London",
+   "Long": "51.4988° N",
+   "Lat": "0.1749° W"
+ }
+]
