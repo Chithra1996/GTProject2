@@ -2,21 +2,22 @@
 function init(){
 
   //Read the data
-  d3.json("samples.json").then((data)=> {
-     console.log(data);
-
+  d3.json("data/times.json").then((timedata)=> {
+     console.log(timedata);
+     var newdata = [2012, 2013, 2014, 2015]
+     console.log(newdata)
      // Appending ids on dropdown
-     data.names.forEach((id) => {
+     newdata.forEach((id) => {
          d3.select("#selDataset")
          .append("option")
          .text(id)
          .property("value");
      });
      // Choosing the first subject 
-     console.log(data.names[0]);
-     buildbar(data.names[0]);
-     buildbubble(data.names[0]);
-     demographics(data.names[0])
+     console.log(newdata[1]);
+     buildbar(newdata[1]);
+     buildbubble(newdata[1]);
+     demographics(newdata[1])
 
  });
 };
