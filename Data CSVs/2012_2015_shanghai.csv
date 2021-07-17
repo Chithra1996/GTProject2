@@ -1,0 +1,1384 @@
+world_rank,university_name,national_rank,total_score,alumni,award,hici,ns,pub,pcp,year
+1,Harvard University,1,100.0,100.0,100.0,100.0,100.0,100.0,71.1,2012
+2,Stanford University,2,72.8,38.0,79.7,88.9,71.6,69.6,49.2,2012
+3,Massachusetts Institute of Technology (MIT),3,71.8,69.0,83.2,68.2,69.2,61.6,64.1,2012
+4,"University of California, Berkeley",4,71.6,67.5,80.9,69.7,68.5,68.1,53.4,2012
+5,University of Cambridge,1,69.8,80.3,97.2,54.6,55.0,65.9,52.1,2012
+6,California Institute of Technology,5,64.1,48.5,68.8,57.4,64.8,46.2,100.0,2012
+7,Princeton University,6,62.1,52.3,91.3,62.2,44.4,44.5,66.3,2012
+8,Columbia University,7,60.1,64.2,68.0,57.4,51.2,67.8,31.0,2012
+9,University of Chicago,8,57.2,61.8,85.3,52.2,40.6,49.2,38.9,2012
+10,University of Oxford,2,56.1,51.2,56.6,48.9,52.1,68.9,40.3,2012
+11,Yale University,9,54.8,45.7,45.5,59.7,58.0,62.3,35.9,2012
+12,"University of California, Los Angeles",10,52.2,27.7,43.4,57.7,51.5,72.2,30.1,2012
+13,Cornell University,11,50.8,38.7,51.3,54.9,47.0,55.5,37.2,2012
+14,University of Pennsylvania,12,50.5,33.4,34.9,57.9,49.3,67.9,37.0,2012
+15,"University of California, San Diego",13,49.6,20.3,36.6,60.3,52.8,64.0,34.1,2012
+16,University of Washington,14,48.4,22.4,32.5,55.1,51.2,71.3,27.2,2012
+17,The Johns Hopkins University,15,47.4,39.9,34.6,42.2,49.9,69.5,28.3,2012
+18,"University of California, San Francisco",16,46.6,0.0,41.2,53.7,54.1,60.6,33.1,2012
+19,University of Wisconsin - Madison,17,45.4,32.5,35.9,52.1,39.8,64.2,24.7,2012
+20,The University of Tokyo,1,43.8,32.5,14.6,42.5,52.0,73.7,27.7,2012
+21,University College London,3,43.7,29.7,30.4,39.6,44.6,67.1,30.8,2012
+22,University of Michigan - Ann Arbor,18,43.4,33.9,0.0,60.5,44.6,76.2,24.8,2012
+23,Swiss Federal Institute of Technology Zurich,1,43.3,31.2,36.6,36.7,44.6,53.9,45.6,2012
+24,"The Imperial College of Science, Technology and Medicine",4,42.4,15.3,36.9,41.6,39.6,62.5,35.6,2012
+25,University of Illinois at Urbana-Champaign,19,41.9,31.6,37.4,43.3,36.9,56.1,27.8,2012
+26,Kyoto University,2,41.3,31.2,35.1,38.9,36.4,63.0,23.0,2012
+27,New York University,20,40.8,29.7,32.9,42.2,41.0,55.7,22.6,2012
+27,University of Toronto,1,40.8,21.0,17.7,39.0,38.4,79.1,27.0,2012
+29,"University of Minnesota, Twin Cities",21,39.7,27.7,16.8,51.1,33.5,65.0,24.9,2012
+30,Northwestern University,22,38.8,16.3,22.8,48.5,37.9,58.1,26.4,2012
+31,Washington University in St. Louis,23,37.6,19.6,25.7,39.0,43.7,52.1,24.7,2012
+32,Rockefeller University,24,37.0,18.0,61.6,28.9,41.8,20.2,36.0,2012
+33,University of Colorado at Boulder,25,36.6,13.3,31.6,39.6,39.9,44.1,31.8,2012
+34,"University of California, Santa Barbara",26,36.5,15.3,36.2,42.7,32.4,40.0,37.0,2012
+35,The University of Texas at Austin,27,35.8,17.1,16.8,45.7,34.6,56.0,24.9,2012
+36,Duke University,28,35.2,16.3,0.0,46.5,42.1,62.7,22.3,2012
+37,University of Paris Sud (Paris 11),1,34.9,32.1,55.9,16.2,20.0,48.8,25.4,2012
+38,"University of Maryland, College Park",29,34.7,20.3,20.6,41.5,31.9,51.7,25.9,2012
+39,University of British Columbia,2,34.6,16.3,19.4,32.4,32.6,64.2,22.8,2012
+40,The University of Manchester,5,33.9,19.6,33.6,27.7,25.3,56.5,23.7,2012
+41,University of North Carolina at Chapel Hill,30,33.5,9.4,16.8,39.6,30.8,59.2,22.9,2012
+42,Karolinska Institute,1,33.4,23.6,27.4,32.4,23.2,49.5,35.6,2012
+42,Pierre and Marie  Curie University - Paris 6,2,33.4,32.5,19.4,25.1,31.0,59.9,21.5,2012
+44,University of Copenhagen,1,33.1,23.0,19.4,25.9,29.3,58.6,32.3,2012
+45,"University of California, Irvine",31,32.2,0.0,30.2,36.9,29.5,46.4,26.6,2012
+46,University of Southern California,32,31.9,0.0,27.4,39.6,26.3,52.1,19.2,2012
+47,"University of California, Davis",33,31.8,0.0,0.0,47.3,33.9,60.4,25.3,2012
+48,The University of Texas Southwestern Medical Center at Dallas,34,31.6,19.6,35.5,30.6,29.5,37.0,21.9,2012
+49,Pennsylvania State University - University Park,35,31.5,10.8,0.0,47.1,34.7,54.8,22.1,2012
+50,Vanderbilt University,36,31.4,16.3,29.9,32.4,21.9,51.0,18.8,2012
+51,Carnegie Mellon University,37,30.6,33.4,32.5,30.7,16.7,35.1,33.4,2012
+51,The University of Edinburgh,6,30.6,21.7,13.7,27.1,34.8,50.0,24.7,2012
+53,Technical University Munich,1,30.5,36.8,22.2,24.6,21.3,47.2,28.8,2012
+53,The Hebrew University of Jerusalem,1,30.5,33.9,29.1,25.1,23.0,40.2,28.0,2012
+53,Utrecht University,1,30.5,24.3,20.6,29.9,26.0,47.3,24.8,2012
+56,Purdue University - West Lafayette,38,30.2,14.3,23.8,28.9,25.6,50.8,20.8,2012
+57,University of Melbourne,1,30.1,18.0,13.7,24.0,22.7,63.0,27.1,2012
+58,University of Pittsburgh,39,30.0,19.6,0.0,42.2,23.5,60.9,18.0,2012
+59,University of Zurich,2,29.9,5.4,24.7,25.9,29.2,50.1,25.0,2012
+60,University of Munich,2,29.7,27.1,19.7,16.2,28.8,51.4,28.9,2012
+61,"Rutgers, The State University of New Jersey - New Brunswick",40,29.6,10.8,19.4,38.9,26.0,43.2,21.9,2012
+62,University of Heidelberg,3,29.5,14.3,26.1,19.1,27.0,49.4,28.4,2012
+63,McGill University,3,29.3,32.1,0.0,31.5,24.6,57.8,24.5,2012
+64,The Australian National University,2,29.1,14.3,19.8,32.3,24.4,43.1,28.9,2012
+65,Brown University,41,29.0,15.3,13.7,32.4,28.3,42.9,31.9,2012
+65,The Ohio State University - Columbus,41,29.0,13.3,0.0,40.5,25.5,59.5,17.7,2012
+67,University of Oslo,1,28.9,18.8,33.6,17.7,15.9,51.1,25.4,2012
+68,King's College London,7,28.6,13.3,21.7,30.7,17.7,50.9,22.3,2012
+69,University of Geneva,3,28.5,23.0,29.1,20.5,26.7,37.0,26.9,2012
+70,University of Bristol,8,28.4,7.7,16.8,28.9,29.6,45.3,27.3,2012
+71,Boston University,43,28.0,12.1,11.9,29.8,26.6,51.2,20.8,2012
+72,University of Florida,44,27.9,18.0,0.0,37.4,20.0,60.4,17.1,2012
+73,Ecole Normale Superieure - Paris,3,27.6,50.0,24.4,12.4,17.4,27.3,55.0,2012
+73,Leiden University,2,27.6,18.8,9.7,28.9,22.2,47.6,32.0,2012
+73,University of Helsinki,1,27.6,13.3,16.8,24.0,20.0,52.7,27.7,2012
+73,Uppsala University,2,27.6,18.8,28.3,14.5,22.0,48.1,23.9,2012
+77,University of Arizona,45,27.4,15.3,0.0,29.8,35.9,49.3,20.7,2012
+78,Technion-Israel Institute of Technology,2,26.9,21.0,38.8,16.2,16.9,35.3,25.6,2012
+79,Arizona State University - Tempe,46,26.6,0.0,20.6,27.1,29.2,43.1,18.6,2012
+80,Moscow State University,1,26.3,43.7,34.1,0.0,9.1,48.1,29.0,2012
+81,Stockholm University,3,26.1,25.4,28.3,16.2,19.8,38.2,23.1,2012
+82,University of Utah,47,26.0,0.0,11.9,30.7,25.9,46.4,23.0,2012
+83,Osaka University,3,25.9,9.4,0.0,27.1,28.7,55.2,20.5,2012
+84,Indiana University Bloomington,48,25.7,10.8,22.2,27.1,21.1,39.1,19.6,2012
+85,University of Basel,4,25.6,20.3,16.8,24.9,17.9,37.7,33.3,2012
+86,Aarhus University,2,25.5,12.1,22.8,7.2,23.9,50.8,26.6,2012
+86,University of Nottingham,9,25.5,12.1,20.6,24.0,17.7,45.8,19.9,2012
+86,University of Rochester,49,25.5,26.0,7.9,28.0,22.4,41.5,21.7,2012
+89,Ghent University,1,25.4,5.4,13.7,17.7,18.7,55.6,30.0,2012
+90,The University of Queensland,3,25.3,13.3,0.0,21.7,23.1,58.7,25.7,2012
+91,Rice University,50,25.1,17.1,22.4,21.5,23.9,30.6,30.0,2012
+92,McMaster University,4,25.0,13.3,19.4,24.0,15.6,45.2,21.5,2012
+93,Texas A&M University - College Station,51,24.6,0.0,0.0,33.9,22.5,53.2,19.2,2012
+93,University of Sydney,4,24.6,15.3,0.0,19.1,18.7,62.3,23.7,2012
+93,Weizmann Institute of Science,3,24.6,13.3,16.8,24.0,32.0,28.4,22.8,2012
+96,Michigan State University,52,24.4,9.4,0.0,36.9,16.3,51.5,18.0,2012
+96,Nagoya University,4,24.4,23.0,14.6,16.2,21.5,44.7,20.0,2012
+96,The University of Western Australia,5,24.4,14.3,14.6,25.8,13.3,44.2,26.7,2012
+99,Case Western Reserve University,53,24.3,32.1,11.2,21.7,18.7,39.3,22.2,2012
+99,University of Freiburg,4,24.3,19.6,19.4,15.9,24.0,37.5,22.9,2012
+101-150,Aix Marseille University,4-7,0.0,14.3,0.0,16.2,22.1,44.3,15.3,2012
+101-150,Baylor College of Medicine,54-67,0.0,0.0,0.0,19.1,32.3,39.0,19.3,2012
+101-150,Catholic University of Leuven,2-3,0.0,0.0,0.0,22.9,15.2,53.3,25.0,2012
+101-150,Catholic University of Louvain,2-3,0.0,10.8,13.7,17.7,10.8,39.8,26.6,2012
+101-150,Emory University,54-67,0.0,0.0,0.0,32.4,24.3,49.4,17.5,2012
+101-150,Georgia Institute of Technology,54-67,0.0,13.3,0.0,26.0,19.3,44.2,25.1,2012
+101-150,Hokkaido University,5-7,0.0,12.1,16.8,14.5,18.0,45.3,18.8,2012
+101-150,Joseph Fourier University (Grenoble 1),4-7,0.0,0.0,15.3,10.2,22.8,39.4,18.1,2012
+101-150,London School of Economics and Political Science,10-14,0.0,21.0,16.8,16.2,0.0,28.5,26.0,2012
+101-150,Lund University,4,0.0,22.4,0.0,25.1,14.1,48.9,19.5,2012
+101-150,Mayo Medical School,54-67,0.0,0.0,0.0,25.1,14.8,47.5,24.0,2012
+101-150,Monash University,6-7,0.0,0.0,0.0,14.5,20.4,53.8,21.7,2012
+101-150,National Taiwan University,1,0.0,12.1,0.0,17.7,12.7,59.5,19.5,2012
+101-150,National University of Singapore,1,0.0,0.0,0.0,10.2,17.1,57.5,26.3,2012
+101-150,Radboud University Nijmegen,3-7,0.0,17.1,0.0,7.2,17.8,50.0,30.3,2012
+101-150,Seoul National University,1,0.0,0.0,0.0,7.2,16.2,66.4,21.2,2012
+101-150,Swiss Federal Institute of Technology of Lausanne,5,0.0,0.0,0.0,24.0,23.5,40.8,33.1,2012
+101-150,Tel Aviv University,4,0.0,0.0,0.0,24.0,16.6,48.4,24.4,2012
+101-150,The University of Georgia,54-67,0.0,0.0,0.0,27.0,21.0,41.2,17.9,2012
+101-150,The University of Sheffield,10-14,0.0,18.8,13.7,19.5,18.8,44.0,21.8,2012
+101-150,Tohoku University,5-7,0.0,15.3,0.0,21.4,23.2,55.1,20.7,2012
+101-150,Tokyo Institute of Technology,5-7,0.0,13.3,0.0,21.7,20.2,40.3,25.1,2012
+101-150,Tufts University,54-67,0.0,15.3,16.8,22.9,14.1,36.6,24.7,2012
+101-150,University of Alberta,5-6,0.0,12.1,0.0,21.4,22.1,55.0,20.7,2012
+101-150,University of Amsterdam,3-7,0.0,5.4,0.0,19.1,18.0,52.8,25.8,2012
+101-150,University of Birmingham,10-14,0.0,19.6,9.7,21.6,16.1,44.7,20.5,2012
+101-150,University of Bonn,5-8,0.0,16.3,20.4,14.7,21.1,40.9,23.2,2012
+101-150,"University of California, Riverside",54-67,0.0,13.3,0.0,27.1,27.4,33.5,27.2,2012
+101-150,"University of California, Santa Cruz",54-67,0.0,0.0,0.0,28.9,34.8,30.5,32.1,2012
+101-150,University of Delaware,54-67,0.0,10.8,16.8,22.9,11.6,31.4,18.6,2012
+101-150,University of Frankfurt,5-8,0.0,32.1,0.0,19.1,21.3,38.5,22.9,2012
+101-150,University of Goettingen,5-8,0.0,28.7,15.3,16.2,18.9,39.6,23.0,2012
+101-150,University of Groningen,3-7,0.0,0.0,19.4,17.7,18.3,48.2,26.9,2012
+101-150,University of Hawaii at Manoa,54-67,0.0,0.0,0.0,26.1,26.3,36.1,18.1,2012
+101-150,University of Iowa,54-67,0.0,0.0,0.0,30.7,23.2,43.9,17.8,2012
+101-150,University of Liverpool,10-14,0.0,18.0,13.7,12.5,18.4,39.8,20.4,2012
+101-150,University of Massachusetts Amherst,54-67,0.0,14.3,0.0,33.9,15.1,36.1,22.0,2012
+101-150,University of Massachusetts Medical School - Worcester,54-67,0.0,0.0,20.6,14.5,27.6,27.5,20.1,2012
+101-150,University of Montreal,5-6,0.0,12.1,0.0,14.5,19.9,50.4,19.8,2012
+101-150,University of Muenster,5-8,0.0,20.3,13.7,12.2,15.7,36.4,19.9,2012
+101-150,University of New South Wales,6-7,0.0,0.0,0.0,20.4,14.2,53.5,20.8,2012
+101-150,University of Paris Diderot (Paris 7),4-7,0.0,12.1,9.7,12.5,26.8,44.3,17.1,2012
+101-150,University of Pisa,1-2,0.0,14.3,23.8,14.5,5.4,37.0,20.3,2012
+101-150,University of Roma - La Sapienza,1-2,0.0,12.1,13.7,10.2,15.3,48.9,15.5,2012
+101-150,University of Sao Paulo,1,0.0,0.0,0.0,10.2,10.8,72.8,14.9,2012
+101-150,University of Strasbourg,4-7,0.0,26.6,22.1,17.7,17.6,36.0,19.3,2012
+101-150,University of Sussex,10-14,0.0,0.0,23.1,20.5,13.9,28.5,26.3,2012
+101-150,University of Virginia,54-67,0.0,0.0,0.0,33.9,29.0,45.1,19.1,2012
+101-150,University of Wageningen,3-7,0.0,0.0,0.0,28.2,17.4,39.3,30.5,2012
+101-150,VU University Amsterdam,3-7,0.0,0.0,0.0,24.0,16.8,51.3,28.3,2012
+151-200,Cardiff University,15-19,0.0,0.0,16.8,7.2,20.0,40.6,17.9,2012
+151-200,Colorado State University,68-85,0.0,0.0,0.0,30.7,13.0,34.8,19.8,2012
+151-200,Dartmouth College,68-85,0.0,18.8,0.0,24.0,16.4,29.0,21.5,2012
+151-200,Erasmus University,8,0.0,0.0,15.3,21.7,6.3,35.1,24.5,2012
+151-200,George Mason University,68-85,0.0,0.0,32.9,10.2,10.2,27.6,17.6,2012
+151-200,Iowa State University,68-85,0.0,0.0,0.0,22.9,17.8,41.8,19.9,2012
+151-200,Kyushu University,8-9,0.0,0.0,0.0,16.2,17.8,46.0,17.5,2012
+151-200,Mount Sinai School of Medicine,68-85,0.0,0.0,0.0,20.5,23.5,34.8,18.6,2012
+151-200,National Autonomous University of Mexico,1,0.0,13.3,0.0,6.6,11.6,47.3,21.6,2012
+151-200,North Carolina State University - Raleigh,68-85,0.0,0.0,0.0,28.0,12.3,41.6,18.1,2012
+151-200,Oregon Health and Science University,68-85,0.0,0.0,0.0,19.1,22.0,35.2,20.9,2012
+151-200,Oregon State University,68-85,0.0,10.8,0.0,26.1,20.5,33.6,21.4,2012
+151-200,Peking University,1-4,0.0,0.0,0.0,0.0,15.2,61.9,17.4,2012
+151-200,Shanghai Jiao Tong University,1-4,0.0,0.0,0.0,7.9,9.1,58.8,17.9,2012
+151-200,State University of New York at Stony Brook,68-85,0.0,0.0,0.0,19.6,21.7,36.4,16.8,2012
+151-200,Technical University of Denmark,3,0.0,5.4,11.9,17.6,14.6,38.3,20.0,2012
+151-200,The Chinese University of Hong Kong,1-2,0.0,0.0,14.6,16.1,6.5,42.6,21.6,2012
+151-200,The University of Auckland,1,0.0,14.3,0.0,10.2,16.7,38.5,19.4,2012
+151-200,The University of Glasgow,15-19,0.0,7.7,0.0,21.5,17.2,41.1,20.1,2012
+151-200,The University of Hong Kong,1-2,0.0,0.0,0.0,12.7,14.3,46.0,21.6,2012
+151-200,The University of Texas Health Science Center at Houston,68-85,0.0,0.0,15.8,17.7,13.7,30.5,26.9,2012
+151-200,The University of Texas M. D. Anderson Cancer Center,68-85,0.0,0.0,0.0,21.7,19.3,41.9,27.4,2012
+151-200,Tsinghua University,1-4,0.0,10.8,0.0,0.0,17.3,57.0,16.4,2012
+151-200,University Libre Bruxelles,4,0.0,17.1,16.8,12.5,13.5,31.8,25.0,2012
+151-200,University of Bern,6,0.0,13.3,0.0,12.5,21.0,39.6,24.8,2012
+151-200,University of Buenos Aires,1,0.0,15.3,24.7,0.0,8.0,36.0,19.7,2012
+151-200,University of Gothenburg,5,0.0,0.0,15.8,7.2,10.9,40.4,17.0,2012
+151-200,University of Hamburg,9-14,0.0,12.1,0.0,17.7,16.9,34.9,18.8,2012
+151-200,University of Illinois at Chicago,68-85,0.0,0.0,0.0,27.8,13.7,44.6,17.4,2012
+151-200,University of Kiel,9-14,0.0,10.8,13.7,10.2,15.2,31.6,17.2,2012
+151-200,University of Koeln,9-14,0.0,0.0,11.9,7.2,19.8,35.9,18.7,2012
+151-200,University of Leeds,15-19,0.0,18.0,0.0,14.5,19.3,43.9,18.8,2012
+151-200,University of Mainz,9-14,0.0,0.0,7.9,17.7,16.1,37.1,19.4,2012
+151-200,"University of Maryland, Baltimore",68-85,0.0,0.0,0.0,24.0,17.2,37.1,16.7,2012
+151-200,University of Miami,68-85,0.0,0.0,0.0,24.0,20.0,41.2,14.9,2012
+151-200,University of Milan,3-4,0.0,18.0,0.0,18.4,11.2,44.8,19.2,2012
+151-200,University of Nebraska - Lincoln,68-85,0.0,18.0,0.0,16.2,14.9,34.7,15.8,2012
+151-200,University of Padua,3-4,0.0,0.0,0.0,12.5,18.1,47.5,19.4,2012
+151-200,University of Paris Descartes (Paris 5),8,0.0,12.1,9.7,10.2,17.6,42.1,15.3,2012
+151-200,University of Southampton,15-19,0.0,0.0,0.0,19.3,19.3,43.2,21.3,2012
+151-200,University of Tennessee - Knoxville,68-85,0.0,10.8,0.0,21.7,14.3,38.2,14.4,2012
+151-200,University of Tsukuba,8-9,0.0,0.0,20.2,11.7,10.8,36.5,15.2,2012
+151-200,University of Tuebingen,9-14,0.0,23.6,0.0,14.5,18.6,39.9,21.3,2012
+151-200,University of Vienna,1,0.0,14.3,0.0,14.5,20.7,37.3,21.7,2012
+151-200,University of Warwick,15-19,0.0,0.0,0.0,25.1,15.3,37.7,20.9,2012
+151-200,University of Waterloo,7,0.0,0.0,0.0,19.1,12.3,41.0,20.5,2012
+151-200,University of Wuerzburg,9-14,0.0,20.3,0.0,23.6,16.0,34.0,20.2,2012
+151-200,Virginia Commonwealth University,68-85,0.0,10.8,14.6,17.7,11.7,33.5,14.1,2012
+151-200,Virginia Polytechnic Institute and State University,68-85,0.0,12.1,0.0,22.9,12.3,40.2,17.5,2012
+151-200,Zhejiang University,1-4,0.0,0.0,0.0,0.0,12.3,61.8,17.1,2012
+201-300,Autonomous University of Madrid,1-3,0.0,0.0,0.0,12.5,13.7,39.0,16.6,2012
+201-300,Brandeis University,86-109,0.0,20.3,0.0,7.2,19.9,18.8,23.6,2012
+201-300,Charles University in Prague,1,0.0,9.4,0.0,0.0,12.3,42.9,18.1,2012
+201-300,City University of Hong Kong,3-5,0.0,0.0,0.0,16.2,0.0,38.4,21.1,2012
+201-300,Claude Bernard University Lyon 1,9-13,0.0,10.8,0.0,0.0,19.9,40.4,13.8,2012
+201-300,Complutense University of Madrid,1-3,0.0,20.3,0.0,0.0,8.2,42.9,11.0,2012
+201-300,Dalhousie University,8-17,0.0,0.0,0.0,14.5,14.2,33.6,16.8,2012
+201-300,Delft University of Technology,9-10,0.0,12.1,0.0,7.2,18.2,37.7,19.5,2012
+201-300,Dresden University of Technology,15-24,0.0,0.0,0.0,7.2,12.3,37.9,17.5,2012
+201-300,Florida State University,86-109,0.0,0.0,0.0,19.1,14.7,38.5,18.3,2012
+201-300,Fudan University,5-7,0.0,0.0,0.0,7.1,13.1,51.5,18.3,2012
+201-300,Karlsruhe Institute of Technology (KIT),15-24,0.0,0.0,0.0,9.8,14.7,36.1,17.3,2012
+201-300,King Saud University,1,0.0,0.0,0.0,31.6,5.2,39.6,11.4,2012
+201-300,Korea Advanced Institute of Science and Technology,2-4,0.0,0.0,0.0,6.6,15.2,39.8,27.2,2012
+201-300,Lancaster University,20-30,0.0,0.0,0.0,17.7,9.6,29.4,18.8,2012
+201-300,Laval University,8-17,0.0,0.0,0.0,15.9,9.5,36.5,15.0,2012
+201-300,Louisiana State University - Baton Rouge,86-109,0.0,0.0,0.0,17.3,16.7,35.4,14.5,2012
+201-300,Macquarie University,8-9,0.0,0.0,0.0,16.2,12.3,30.1,21.2,2012
+201-300,Medical University of Vienna,2-3,0.0,9.4,9.7,7.2,7.5,32.2,16.5,2012
+201-300,Nanjing University,5-7,0.0,0.0,0.0,1.4,10.0,47.1,16.3,2012
+201-300,Nanyang Technological University,2,0.0,0.0,0.0,0.0,7.0,48.5,21.1,2012
+201-300,National Cheng Kung University,2-3,0.0,0.0,0.0,10.2,2.1,45.9,18.0,2012
+201-300,National Tsing Hua University,2-3,0.0,13.3,0.0,10.2,8.5,34.4,20.5,2012
+201-300,Newcastle University,20-30,0.0,0.0,0.0,14.5,18.7,36.4,17.5,2012
+201-300,Norwegian University of Science and Technology,2-3,0.0,14.3,0.0,10.2,14.3,36.1,16.5,2012
+201-300,Paul Sabatier University (Toulouse 3),9-13,0.0,0.0,0.0,7.2,19.2,37.7,12.7,2012
+201-300,Polytechnic Institute of Milan,5-9,0.0,7.7,15.3,0.0,7.1,30.4,17.1,2012
+201-300,"Queen Mary, U. of London",20-30,0.0,18.8,0.0,16.2,14.3,30.2,18.9,2012
+201-300,Queen's University,8-17,0.0,0.0,0.0,16.2,13.7,33.9,18.7,2012
+201-300,Rensselaer Polytechnic Institute,86-109,0.0,13.3,0.0,17.7,12.0,23.3,22.1,2012
+201-300,Royal Institute of Technology,6-7,0.0,0.0,15.3,7.2,10.8,35.8,21.4,2012
+201-300,RWTH Aachen University,15-24,0.0,0.0,0.0,10.2,9.2,40.2,18.4,2012
+201-300,Scuola Normale Superiore - Pisa,5-9,0.0,0.0,0.0,14.5,7.5,17.3,57.9,2012
+201-300,Simon Fraser University,8-17,0.0,0.0,0.0,14.5,12.1,34.0,18.1,2012
+201-300,State University of Campinas,2,0.0,0.0,0.0,7.2,8.0,42.0,18.7,2012
+201-300,State University of New York at Buffalo,86-109,0.0,0.0,0.0,16.2,6.2,39.0,14.8,2012
+201-300,Sungkyunkwan University,2-4,0.0,0.0,0.0,0.0,11.1,44.7,19.3,2012
+201-300,Technical University of Berlin,15-24,0.0,17.1,0.0,15.6,6.0,29.4,15.5,2012
+201-300,The George Washington University,86-109,0.0,12.1,0.0,12.5,10.4,33.8,15.9,2012
+201-300,The Hong Kong Polytechnic University,3-5,0.0,0.0,0.0,12.5,3.4,41.0,19.6,2012
+201-300,The Hong Kong University of Science and Technology,3-5,0.0,0.0,0.0,17.6,8.3,30.8,22.2,2012
+201-300,The University of Adelaide,8-9,0.0,15.3,0.0,10.2,10.7,37.7,21.4,2012
+201-300,The University of Alabama at Birmingham,86-109,0.0,0.0,0.0,16.2,18.0,40.8,14.7,2012
+201-300,The University of Calgary,8-17,0.0,0.0,0.0,10.2,18.4,44.1,16.4,2012
+201-300,The University of Connecticut - Storrs,86-109,0.0,12.1,0.0,15.9,10.2,34.2,13.2,2012
+201-300,The University of New Mexico - Albuquerque,86-109,0.0,0.0,0.0,12.5,17.9,34.9,14.5,2012
+201-300,The University of Reading,20-30,0.0,0.0,0.0,14.5,14.8,27.7,17.9,2012
+201-300,Thomas Jefferson University,86-109,0.0,0.0,0.0,17.7,6.9,27.3,27.2,2012
+201-300,Trinity College Dublin,1,0.0,10.8,13.7,7.2,12.2,31.4,16.3,2012
+201-300,Umea University,6-7,0.0,0.0,0.0,14.5,13.0,33.1,15.9,2012
+201-300,University of Aberdeen,20-30,0.0,0.0,13.7,10.2,12.3,32.3,19.3,2012
+201-300,University of Antwerp,5-6,0.0,0.0,0.0,10.2,10.6,35.8,25.6,2012
+201-300,University of Barcelona,1-3,0.0,0.0,0.0,10.2,10.6,50.4,15.7,2012
+201-300,University of Bergen,2-3,0.0,0.0,0.0,7.2,15.7,36.8,18.3,2012
+201-300,University of Bochum,15-24,0.0,0.0,0.0,12.5,8.3,36.1,16.9,2012
+201-300,University of Bologna,5-9,0.0,0.0,0.0,10.2,11.3,46.4,15.8,2012
+201-300,University of Cape Town,1,0.0,19.6,0.0,10.2,13.0,34.1,17.4,2012
+201-300,University of Central Florida,86-109,0.0,0.0,0.0,17.1,11.5,28.8,16.5,2012
+201-300,University of Cincinnati,86-109,0.0,0.0,0.0,22.9,8.2,39.4,14.2,2012
+201-300,University of Colorado at Denver,86-109,0.0,0.0,0.0,17.7,9.9,37.2,13.1,2012
+201-300,University of Duesseldorf,15-24,0.0,12.1,0.0,12.1,10.6,30.7,15.4,2012
+201-300,University of Durham,20-30,0.0,0.0,0.0,19.1,17.3,32.9,20.6,2012
+201-300,University of East Anglia,20-30,0.0,14.3,0.0,16.0,16.4,28.6,21.2,2012
+201-300,University of Erlangen-Nuremberg,15-24,0.0,0.0,0.0,14.5,15.6,40.3,19.7,2012
+201-300,University of Exeter,20-30,0.0,0.0,0.0,7.2,18.9,30.7,19.1,2012
+201-300,University of Florence,5-9,0.0,0.0,0.0,16.2,13.8,37.3,16.3,2012
+201-300,University of Guelph,8-17,0.0,0.0,0.0,17.7,12.8,31.9,18.3,2012
+201-300,University of Houston,86-109,0.0,0.0,0.0,20.5,12.5,35.0,18.9,2012
+201-300,University of Innsbruck,2-3,0.0,0.0,9.7,7.2,14.3,24.7,20.3,2012
+201-300,University of Kansas - Lawrence,86-109,0.0,12.1,0.0,12.5,9.9,40.0,13.8,2012
+201-300,University of Kentucky,86-109,0.0,10.8,0.0,7.2,10.8,40.6,13.1,2012
+201-300,University of Lausanne,7,0.0,0.0,0.0,12.4,21.7,32.5,19.2,2012
+201-300,University of Leicester,20-30,0.0,0.0,0.0,19.1,18.2,33.6,19.9,2012
+201-300,University of Leipzig,15-24,0.0,12.1,13.7,0.0,8.0,33.9,16.6,2012
+201-300,University of Liege,5-6,0.0,7.7,0.0,10.2,14.7,31.5,22.4,2012
+201-300,University of Lorraine,9-13,0.0,12.1,16.8,0.0,11.3,32.4,11.4,2012
+201-300,University of Maastricht,9-10,0.0,0.0,0.0,7.2,7.8,40.2,22.3,2012
+201-300,University of Manitoba,8-17,0.0,0.0,0.0,16.2,7.8,34.8,15.3,2012
+201-300,University of Marburg,15-24,0.0,10.8,0.0,14.5,14.9,30.0,16.1,2012
+201-300,University of Medicine and Dentistry New Jersey,86-109,0.0,0.0,0.0,21.7,12.1,30.0,14.0,2012
+201-300,University of Missouri - Columbia,86-109,0.0,9.4,0.0,7.2,14.9,38.1,13.2,2012
+201-300,University of Montpellier 2,9-13,0.0,10.8,0.0,12.5,15.5,30.2,16.5,2012
+201-300,University of Notre Dame,86-109,0.0,13.3,0.0,17.7,13.7,31.9,18.9,2012
+201-300,University of Oregon,86-109,0.0,9.0,0.0,0.0,0.0,0.0,0.0,2012
+1,Harvard University,1.0,100.0,100.0,100.0,100.0,100.0,100.0,72.5,2013
+2,Stanford University,2.0,72.6,40.0,80.7,88.9,68.7,69.4,50.4,2013
+3,"University of California, Berkeley",3.0,71.3,67.8,79.0,69.7,68.5,68.1,54.7,2013
+4,Massachusetts Institute of Technology (MIT),4.0,71.1,68.0,81.3,68.2,69.7,60.1,65.0,2013
+5,University of Cambridge,1.0,69.6,79.1,97.3,54.6,54.0,66.2,53.3,2013
+6,California Institute of Technology,5.0,62.9,47.8,67.2,57.4,62.0,45.2,100.0,2013
+7,Princeton University,6.0,61.9,52.9,89.2,62.2,45.8,44.0,66.9,2013
+8,Columbia University,7.0,59.8,66.1,66.4,57.4,49.8,68.0,31.9,2013
+9,University of Chicago,8.0,57.1,60.9,83.4,52.2,41.9,49.8,39.5,2013
+10,University of Oxford,2.0,55.9,51.8,55.3,48.9,51.3,69.9,41.2,2013
+11,Yale University,9.0,55.4,47.5,44.5,59.7,60.7,62.4,36.3,2013
+12,"University of California, Los Angeles",10.0,52.9,27.3,47.4,57.7,51.7,71.2,31.1,2013
+13,Cornell University,11.0,50.0,38.2,50.2,54.9,45.0,55.2,37.6,2013
+14,"University of California, San Diego",12.0,49.9,20.0,35.8,60.3,55.5,63.4,35.5,2013
+15,University of Pennsylvania,13.0,49.6,33.0,34.1,57.9,47.4,66.7,37.7,2013
+16,University of Washington,14.0,48.3,22.0,31.8,55.1,52.3,70.8,27.9,2013
+17,The Johns Hopkins University,15.0,46.9,39.3,33.9,42.2,49.7,68.8,27.4,2013
+18,"University of California, San Francisco",16.0,46.2,0.0,40.2,53.7,54.1,59.3,34.1,2013
+19,University of Wisconsin - Madison,17.0,44.9,32.1,35.0,52.1,39.3,63.3,25.1,2013
+20,Swiss Federal Institute of Technology Zurich,1.0,43.5,30.7,35.8,36.7,46.6,54.7,44.4,2013
+21,The University of Tokyo,1.0,43.0,32.1,14.2,42.5,50.0,72.2,27.8,2013
+21,University College London,3.0,43.0,29.3,29.7,39.6,42.1,67.5,31.3,2013
+23,University of Michigan - Ann Arbor,18.0,42.6,33.4,0.0,60.5,42.0,75.7,24.7,2013
+24,"The Imperial College of Science, Technology and Medicine",4.0,41.6,15.1,36.1,41.6,39.0,60.4,35.7,2013
+25,University of Illinois at Urbana-Champaign,19.0,41.1,31.2,36.5,43.3,35.9,54.2,28.4,2013
+26,Kyoto University,2.0,40.8,30.7,37.5,38.9,35.1,60.2,23.2,2013
+27,New York University,20.0,40.5,29.3,32.2,42.2,40.8,55.5,22.8,2013
+28,University of Toronto,1.0,40.3,20.7,17.3,39.0,38.2,77.6,27.4,2013
+29,"University of Minnesota, Twin Cities",21.0,39.7,27.3,16.4,51.1,34.7,64.3,25.5,2013
+30,Northwestern University,22.0,38.9,16.0,22.2,48.5,39.1,57.5,27.1,2013
+31,Duke University,23.0,38.1,16.0,15.0,46.5,42.8,61.6,22.5,2013
+32,Washington University in St. Louis,24.0,37.5,19.3,25.1,39.0,44.2,52.1,24.9,2013
+33,University of Colorado at Boulder,25.0,37.3,13.1,34.3,39.6,39.2,45.0,33.6,2013
+34,Rockefeller University,26.0,37.1,17.7,60.2,28.9,43.1,20.4,38.1,2013
+35,"University of California, Santa Barbara",27.0,35.9,15.1,35.4,42.7,30.9,39.3,37.2,2013
+36,The University of Texas at Austin,28.0,35.4,16.9,16.4,45.7,34.9,54.2,25.5,2013
+37,Pierre and Marie  Curie University - Paris 6,1.0,35.3,35.1,27.6,25.1,30.8,59.1,22.8,2013
+38,"University of Maryland, College Park",29.0,34.7,20.0,20.1,41.5,31.5,52.6,26.3,2013
+39,University of Paris Sud (Paris 11),2.0,34.5,31.6,54.7,16.2,19.7,48.7,25.7,2013
+40,University of British Columbia,2.0,34.2,16.0,19.0,32.4,31.9,63.6,22.9,2013
+41,The University of Manchester,5.0,34.0,19.3,32.8,27.7,26.0,57.0,24.4,2013
+42,University of Copenhagen,1.0,33.8,22.7,19.0,25.9,30.3,60.2,35.0,2013
+43,University of North Carolina at Chapel Hill,30.0,33.7,9.3,16.4,39.6,32.8,58.6,23.5,2013
+44,Karolinska Institute,1.0,32.7,23.3,26.8,32.4,20.9,49.2,35.9,2013
+45,"University of California, Irvine",31.0,32.4,0.0,29.5,36.9,30.7,46.8,27.1,2013
+46,The University of Texas Southwestern Medical Center at Dallas,32.0,31.4,19.3,34.7,30.6,32.9,34.6,20.6,2013
+47,"University of California, Davis",33.0,31.3,0.0,0.0,47.3,33.6,58.6,25.8,2013
+47,University of Southern California,33.0,31.3,0.0,26.8,39.6,25.1,51.3,19.1,2013
+49,Vanderbilt University,35.0,31.0,16.0,29.2,32.4,21.0,50.9,18.4,2013
+50,Technical University Munich,1.0,30.6,36.3,21.7,24.6,22.4,46.7,30.4,2013
+51,The University of Edinburgh,6.0,30.5,21.4,13.4,27.1,33.6,50.9,25.3,2013
+52,Carnegie Mellon University,36.0,30.4,33.0,31.8,30.7,18.1,34.0,33.6,2013
+52,Utrecht University,1.0,30.4,23.9,20.1,29.9,25.9,47.1,25.1,2013
+54,Pennsylvania State University - University Park,37.0,30.2,10.7,0.0,47.1,31.4,52.0,21.8,2013
+54,University of Heidelberg,2.0,30.2,14.1,25.5,19.1,28.5,51.1,30.9,2013
+54,University of Melbourne,1.0,30.2,17.7,13.4,24.0,24.4,62.5,27.1,2013
+57,Purdue University - West Lafayette,38.0,30.1,14.1,23.2,28.9,26.7,49.6,21.7,2013
+58,McGill University,3.0,29.9,31.6,0.0,31.5,26.1,58.8,25.9,2013
+59,The Hebrew University of Jerusalem,1.0,29.8,33.4,28.4,25.1,21.5,38.7,28.8,2013
+60,University of Zurich,2.0,29.7,5.3,24.2,25.9,28.1,50.9,25.3,2013
+61,"Rutgers, The State University of New Jersey - New Brunswick",39.0,29.5,10.7,19.0,38.9,26.2,43.0,22.1,2013
+61,University of Munich,3.0,29.5,26.7,19.3,16.2,28.1,51.2,30.4,2013
+61,University of Pittsburgh,39.0,29.5,19.3,0.0,42.2,21.8,60.8,18.0,2013
+64,University of Bristol,7.0,29.2,7.6,16.4,28.9,32.8,45.7,28.8,2013
+65,The Ohio State University - Columbus,41.0,29.0,13.1,0.0,40.5,25.9,58.9,18.0,2013
+66,The Australian National University,2.0,28.9,14.1,19.4,32.3,24.0,43.0,29.3,2013
+67,Brown University,42.0,28.8,15.1,13.4,32.4,27.7,42.6,32.6,2013
+67,King's College London,8.0,28.8,13.1,21.2,30.7,17.4,52.5,23.2,2013
+69,University of Geneva,3.0,28.7,22.7,28.4,20.5,27.9,37.7,27.5,2013
+69,University of Oslo,1.0,28.7,18.5,32.8,17.7,16.5,50.6,25.6,2013
+71,Ecole Normale Superieure - Paris,3.0,28.5,51.0,28.2,12.4,16.7,26.7,58.3,2013
+71,University of Florida,43.0,28.5,17.7,0.0,37.4,22.5,61.0,17.6,2013
+73,Uppsala University,2.0,28.0,18.5,27.6,14.5,24.7,47.9,24.7,2013
+74,Leiden University,2.0,27.8,18.5,9.5,28.9,23.0,47.9,33.1,2013
+75,Boston University,44.0,27.4,12.0,11.6,29.8,24.7,50.8,20.9,2013
+76,University of Helsinki,1.0,27.2,13.1,16.4,24.0,19.9,51.1,28.8,2013
+77,Technion-Israel Institute of Technology,2.0,26.6,20.7,37.9,16.2,16.8,34.6,26.7,2013
+78,University of Arizona,45.0,26.5,15.1,0.0,29.8,32.4,49.0,20.4,2013
+79,Arizona State University - Tempe,46.0,26.1,0.0,20.1,27.1,27.5,42.5,18.9,2013
+79,Moscow State University,1.0,26.1,43.1,33.3,0.0,8.8,48.1,30.5,2013
+81,Aarhus University,2.0,26.0,12.0,22.2,7.2,25.6,50.9,28.5,2013
+82,Stockholm University,3.0,25.8,25.1,27.6,16.2,19.1,38.3,23.5,2013
+83,University of Basel,4.0,25.6,20.0,16.4,24.9,18.6,37.5,34.1,2013
+83,University of Nottingham,9.0,25.6,12.0,20.1,24.0,17.9,46.1,20.5,2013
+85,Ghent University,1.0,25.5,5.3,13.4,17.7,19.6,55.3,30.2,2013
+85,Indiana University Bloomington,47.0,25.5,10.7,21.7,27.1,20.4,39.7,19.9,2013
+85,Osaka University,3.0,25.5,9.3,0.0,27.1,29.0,53.3,20.6,2013
+85,The University of Queensland,3.0,25.5,13.1,0.0,21.7,22.5,60.0,26.5,2013
+85,University of Utah,47.0,25.5,0.0,11.6,30.7,26.9,45.6,18.1,2013
+90,University of Rochester,49.0,25.4,25.6,7.7,28.0,22.6,41.8,21.2,2013
+91,The University of Western Australia,4.0,25.0,14.1,14.2,25.8,14.8,45.8,27.3,2013
+92,McMaster University,4.0,24.9,13.1,19.0,24.0,16.0,44.7,21.6,2013
+92,Michigan State University,50.0,24.9,9.3,0.0,36.9,18.7,51.5,18.6,2013
+92,Rice University,50.0,24.9,16.9,21.9,21.5,24.1,29.5,30.9,2013
+92,University of Groningen,3.0,24.9,0.0,19.0,17.7,18.7,51.4,28.8,2013
+92,Weizmann Institute of Science,3.0,24.9,13.1,16.4,24.0,33.5,28.4,24.5,2013
+97,University of Strasbourg,4.0,24.7,26.2,26.3,17.7,18.5,34.6,20.3,2013
+97,University of Sydney,5.0,24.7,15.1,0.0,19.1,19.2,62.5,23.9,2013
+99,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2013
+1,Harvard University,1,100.0,100.0,100.0,100.0,100.0,100.0,75.3,2014
+2,Stanford University,2,72.1,41.8,82.8,79.8,71.1,70.9,51.9,2014
+3,Massachusetts Institute of Technology (MIT),3,70.5,68.4,80.7,60.6,73.6,61.5,67.1,2014
+4,University of California-Berkeley,4,70.1,66.8,79.4,65.3,67.5,68.1,55.9,2014
+5,University of Cambridge,1,69.2,79.1,96.6,50.8,56.2,66.5,55.2,2014
+6,Princeton University,5,60.7,52.1,88.5,57.1,46.2,44.2,68.1,2014
+7,California Institute of Technology,6,60.5,48.5,66.7,49.3,60.0,44.9,100.0,2014
+8,Columbia University,7,59.6,65.1,65.9,51.6,55.0,69.1,33.1,2014
+9,University of Chicago,8,57.4,61.4,86.3,48.4,43.0,50.7,41.5,2014
+9,University of Oxford,2,57.4,51.0,54.9,52.8,52.7,72.7,43.0,2014
+11,Yale University,9,55.2,48.8,50.4,51.0,61.5,62.9,37.7,2014
+12,"University of California, Los Angeles",10,51.9,30.2,47.1,52.8,50.9,71.3,31.7,2014
+13,Cornell University,11,50.6,37.6,49.8,50.4,46.9,61.0,39.7,2014
+14,"University of California, San Diego",12,49.3,19.7,35.5,56.1,55.7,65.0,36.5,2014
+15,University of Washington,13,48.1,21.7,31.6,53.0,53.1,71.6,29.0,2014
+16,University of Pennsylvania,14,47.1,32.4,33.8,49.6,44.6,66.9,37.3,2014
+17,The Johns Hopkins University,15,47.0,38.7,33.6,44.0,47.8,70.2,28.7,2014
+18,"University of California, San Francisco",16,45.2,0.0,39.9,46.8,56.5,59.9,34.9,2014
+19,Swiss Federal Institute of Technology Zurich,1,43.9,30.2,35.5,38.4,46.7,55.6,45.8,2014
+20,University College London,3,43.3,28.8,29.5,39.2,40.7,71.6,31.5,2014
+21,The University of Tokyo,1,43.2,31.6,14.1,40.6,52.6,73.0,29.2,2014
+22,"The Imperial College of Science, Technology and Medicine",4,42.3,14.9,35.8,43.7,38.0,62.5,38.0,2014
+22,University of Michigan-Ann Arbor,17,42.3,35.3,0.0,56.2,42.4,77.3,25.6,2014
+24,University of Toronto,1,41.8,20.4,17.2,38.8,42.2,80.5,29.6,2014
+24,University of Wisconsin - Madison,18,41.8,31.6,34.8,40.2,37.4,63.2,24.5,2014
+26,Kyoto University,2,39.9,30.2,37.2,34.4,35.0,61.2,23.8,2014
+27,New York University,19,39.6,28.8,31.9,36.1,42.4,56.6,23.4,2014
+28,Northwestern University,20,39.4,15.8,22.1,50.3,39.5,58.2,28.7,2014
+28,University of Illinois at Urbana-Champaign,20,39.4,30.7,36.2,35.8,36.0,54.4,28.5,2014
+30,"University of Minnesota, Twin Cities",22,39.3,30.2,16.3,47.3,34.5,65.1,26.2,2014
+31,Duke University,23,38.4,15.8,14.9,50.2,40.6,61.9,23.7,2014
+32,Washington University in St. Louis,24,37.8,19.0,24.9,40.7,44.2,52.1,26.1,2014
+33,Rockefeller University,25,37.6,17.5,59.8,30.3,44.2,20.8,38.9,2014
+34,University of Colorado at Boulder,26,37.2,12.9,34.1,37.1,40.1,46.1,34.8,2014
+35,Pierre and Marie  Curie University - Paris 6,1,35.4,34.5,27.4,25.8,30.2,60.0,23.8,2014
+36,University of North Carolina at Chapel Hill,27,35.2,9.1,16.3,40.4,36.3,61.1,25.6,2014
+37,University of British Columbia,2,35.1,15.8,18.8,34.2,34.0,63.9,24.4,2014
+38,The University of Manchester,5,34.7,19.0,32.6,28.0,28.2,57.8,25.9,2014
+39,The University of Texas at Austin,28,34.5,16.6,16.3,38.6,36.3,55.7,26.0,2014
+39,University of Copenhagen,1,34.5,22.3,18.8,27.1,32.0,61.1,36.2,2014
+41,"University of California, Santa Barbara",29,34.3,14.9,35.1,38.7,28.8,38.6,36.9,2014
+42,University of Paris Sud (Paris 11),2,34.2,31.1,54.3,16.8,18.5,48.4,26.5,2014
+43,"University of Maryland, College Park",30,32.7,19.7,20.0,31.9,32.5,52.5,26.0,2014
+44,The University of Melbourne,1,32.6,17.5,13.3,29.3,26.7,65.9,29.7,2014
+45,The University of Edinburgh,6,32.5,21.1,24.9,25.8,32.5,51.8,25.8,2014
+45,The University of Texas Southwestern Medical Center at Dallas,31,32.5,19.0,34.5,30.3,37.2,35.8,22.2,2014
+47,Karolinska Institute,1,31.9,22.9,26.6,24.8,22.4,51.8,37.0,2014
+47,"University of California, Irvine",32,31.9,0.0,29.3,35.0,31.5,46.0,27.8,2014
+49,Heidelberg University,1,31.1,13.9,25.3,23.7,27.5,52.2,32.2,2014
+49,University of Munich,1,31.1,26.3,19.1,20.3,31.7,51.3,32.1,2014
+51,University of Southern California,33,31.0,0.0,31.7,34.8,22.8,52.3,19.7,2014
+52,"Rutgers, The State University of New Jersey - New Brunswick",34,30.9,10.5,18.8,34.5,30.1,49.8,24.5,2014
+53,Technical University Munich,3,30.7,35.7,21.6,22.3,23.7,48.6,31.2,2014
+54,Vanderbilt University,35,30.6,15.8,29.0,28.4,22.8,51.5,18.9,2014
+55,"University of California, Davis",36,30.4,0.0,0.0,41.0,35.1,59.3,26.1,2014
+56,University of Zurich,2,30.3,5.3,24.0,27.1,29.3,52.1,25.1,2014
+57,Utrecht University,1,30.2,23.5,20.0,30.0,24.6,47.7,27.0,2014
+58,Pennsylvania State University - University Park,37,30.0,10.5,0.0,42.3,33.0,54.7,22.6,2014
+59,King's College London,7,29.7,21.7,21.0,27.6,19.3,53.7,24.9,2014
+60,Purdue University - West Lafayette,38,29.5,13.9,23.1,27.7,25.8,49.5,22.2,2014
+60,Uppsala University,2,29.5,18.2,27.4,18.4,25.8,49.5,26.7,2014
+62,Carnegie Mellon University,39,29.4,32.4,31.6,28.6,15.6,34.4,34.0,2014
+63,University of Bristol,8,28.9,7.4,16.3,25.7,34.2,46.3,29.5,2014
+64,The Ohio State University - Columbus,40,28.7,12.9,0.0,38.3,25.5,60.6,18.8,2014
+65,University of Pittsburgh-Pittsburgh Campus,41,28.6,19.0,0.0,39.8,19.2,61.9,18.5,2014
+66,University of Geneva,3,28.5,22.3,28.2,18.9,29.0,37.8,28.3,2014
+67,Ecole Normale Superieure - Paris,3,28.3,50.2,28.0,11.2,16.8,26.8,59.8,2014
+67,McGill University,3,28.3,31.1,0.0,22.8,27.1,59.4,26.2,2014
+69,University of Oslo,1,28.1,18.2,32.6,15.9,16.5,50.0,25.9,2014
+70,Ghent University,1,28.0,5.3,13.3,26.9,19.6,57.1,33.9,2014
+70,The Hebrew University of Jerusalem,1,28.0,32.9,28.2,19.6,21.3,37.2,27.8,2014
+72,Boston University,42,27.8,11.8,11.5,29.9,27.0,50.3,21.9,2014
+73,University of Helsinki,1,27.5,12.9,16.3,24.2,20.0,52.3,29.6,2014
+74,Aarhus University,2,27.4,11.8,22.1,12.3,26.7,51.9,29.8,2014
+74,Brown University,43,27.4,14.9,13.3,26.2,26.7,43.6,32.6,2014
+74,The Australian National University,2,27.4,13.9,19.2,24.8,22.8,45.1,29.1,2014
+77,Leiden University,2,27.3,18.2,9.4,25.7,23.7,48.4,33.3,2014
+78,Osaka University,3,26.8,9.1,0.0,30.9,29.9,54.4,22.3,2014
+78,Stockholm University,3,26.8,24.7,27.4,18.1,20.3,39.9,25.3,2014
+78,Technion-Israel Institute of Technology,2,26.8,24.1,37.6,15.2,19.1,33.3,27.1,2014
+78,University of Florida,44,26.8,17.5,0.0,30.9,22.0,60.4,17.5,2014
+82,Rice University,45,26.7,16.6,21.7,28.1,24.6,30.0,34.6,2014
+82,University of Groningen,3,26.7,0.0,18.8,23.0,19.9,52.6,32.0,2014
+84,Moscow State University,1,26.1,42.4,33.0,0.0,9.7,47.9,30.7,2014
+85,The University of Queensland,3,25.7,12.9,0.0,22.0,21.7,61.4,27.8,2014
+86,University of Arizona,46,25.4,14.9,0.0,27.2,30.7,48.4,20.5,2014
+87,University of Utah,47,25.0,0.0,11.5,26.5,27.2,47.3,18.7,2014
+88,Arizona State University,48,24.9,0.0,20.0,22.2,27.3,42.5,19.1,2014
+88,The University of Western Australia,4,24.9,13.9,14.1,22.9,15.3,47.9,28.4,2014
+90,McMaster University,4,24.8,12.9,18.8,23.2,15.5,45.7,22.6,2014
+90,University of Basel,4,24.8,19.7,16.3,17.4,20.8,39.4,34.4,2014
+90,University of Rochester,49,24.8,25.2,7.7,25.2,24.0,40.7,21.5,2014
+93,"University of California, Santa Cruz",50,24.7,0.0,0.0,37.9,34.3,29.4,37.3,2014
+94,University of Bonn,4,24.6,15.8,19.8,17.4,21.9,40.5,25.2,2014
+95,University of Strasbourg,4,24.5,25.8,28.8,13.9,17.7,35.5,21.2,2014
+96,KU Leuven,2,24.2,0.0,0.0,29.5,19.1,54.9,29.1,2014
+96,Swiss Federal Institute of Technology Lausanne,5,24.2,0.0,0.0,26.1,29.5,43.3,38.6,2014
+96,Texas A & M University,51,24.2,0.0,0.0,34.3,23.2,50.2,20.8,2014
+99,Georgia Institute of Technology,52,24.1,12.9,0.0,31.0,22.2,43.9,28.0,2014
+100,VU University Amsterdam,4,24.0,0.0,0.0,27.8,17.5,55.3,32.6,2014
+101-150,Aix Marseille University,5-7,0.0,13.9,0.0,16.8,19.5,50.0,26.5,2014
+101-150,Baylor College of Medicine,53-64,0.0,0.0,0.0,23.7,29.8,40.3,19.9,2014
+101-150,Cardiff University,9-17,0.0,0.0,16.3,13.6,18.8,42.4,21.2,2014
+101-150,Case Western Reserve University,53-64,0.0,31.1,10.9,17.9,22.0,39.0,23.0,2014
+101-150,Catholic University of Louvain,3-4,0.0,10.5,13.3,15.9,9.4,42.4,29.1,2014
+101-150,Emory University,53-64,0.0,0.0,0.0,28.4,23.7,51.2,17.9,2014
+101-150,Hokkaido University,4-6,0.0,11.8,16.3,7.2,16.6,44.0,19.1,2014
+101-150,Indiana University Bloomington,53-64,0.0,10.5,21.6,18.5,21.4,38.2,19.4,2014
+101-150,Joseph Fourier University (Grenoble 1),5-7,0.0,0.0,14.9,17.4,22.4,39.6,20.2,2014
+101-150,London School of Economics and Political Science,9-17,0.0,20.4,16.3,15.2,0.0,30.5,28.0,2014
+101-150,Lund University,4,0.0,21.7,0.0,22.5,14.7,50.4,20.9,2014
+101-150,Mayo Medical School,53-64,0.0,0.0,0.0,34.9,14.1,47.8,28.6,2014
+101-150,Michigan State University,53-64,0.0,9.1,0.0,30.7,21.3,50.5,18.5,2014
+101-150,Monash University,5-7,0.0,0.0,0.0,18.4,22.9,58.6,25.1,2014
+101-150,Nagoya University,4-6,0.0,22.3,14.1,16.8,18.0,45.2,21.1,2014
+101-150,National Taiwan University,1,0.0,11.8,0.0,13.9,13.1,57.9,19.9,2014
+101-150,National University of Singapore,1,0.0,0.0,0.0,18.3,20.2,60.2,30.9,2014
+101-150,Peking University,1-3,0.0,0.0,0.0,11.2,20.2,63.6,19.0,2014
+101-150,Radboud University Nijmegen,5-7,0.0,16.6,0.0,12.3,18.1,51.7,32.1,2014
+101-150,Seoul National University,1,0.0,0.0,0.0,12.3,18.9,67.8,23.4,2014
+101-150,Shanghai Jiao Tong University,1-3,0.0,0.0,0.0,12.6,11.5,65.9,21.8,2014
+101-150,Technical University of Denmark,3,0.0,5.3,11.5,21.1,15.5,39.0,22.6,2014
+101-150,The University of Glasgow,9-17,0.0,7.4,0.0,24.9,18.7,42.3,22.6,2014
+101-150,The University of New South Wales,5-7,0.0,0.0,0.0,20.2,17.3,57.8,23.2,2014
+101-150,The University of Sheffield,9-17,0.0,18.2,13.3,18.4,17.4,43.7,21.6,2014
+101-150,The University of Texas M. D. Anderson Cancer Center,53-64,0.0,0.0,0.0,28.9,21.2,41.6,32.2,2014
+101-150,Tohoku University,4-6,0.0,14.9,0.0,20.7,21.8,53.2,21.3,2014
+101-150,Tsinghua University,1-3,0.0,10.5,0.0,10.0,26.2,62.7,19.5,2014
+101-150,Tufts University,53-64,0.0,19.0,16.3,20.1,16.4,35.1,25.6,2014
+101-150,University Libre Bruxelles,3-4,0.0,20.4,26.6,11.3,11.8,34.6,30.8,2014
+101-150,University of Alberta,5-6,0.0,11.8,0.0,23.9,20.1,55.5,22.7,2014
+101-150,University of Amsterdam,5-7,0.0,5.3,0.0,20.8,19.5,53.7,28.0,2014
+101-150,University of Birmingham,9-17,0.0,19.0,9.4,20.8,14.5,45.7,20.7,2014
+101-150,"University of California, Riverside",53-64,0.0,12.9,0.0,24.7,27.2,32.7,28.2,2014
+101-150,University of Frankfurt,5-7,0.0,31.1,0.0,19.6,21.8,38.6,24.7,2014
+101-150,University of Freiburg,5-7,0.0,19.0,18.8,13.0,25.0,37.8,24.4,2014
+101-150,University of Goettingen,5-7,0.0,31.6,14.9,13.1,17.9,40.2,24.7,2014
+101-150,University of Leeds,9-17,0.0,17.5,0.0,18.4,20.5,43.3,20.1,2014
+101-150,University of Liverpool,9-17,0.0,17.5,13.3,16.3,19.4,42.0,22.7,2014
+101-150,University of Massachusetts Amherst,53-64,0.0,13.9,0.0,32.8,17.3,36.0,23.2,2014
+101-150,University of Massachusetts Medical School - Worcester,53-64,0.0,0.0,20.0,14.3,28.4,27.7,24.4,2014
+101-150,University of Montreal,5-6,0.0,11.8,0.0,15.9,17.5,50.9,21.4,2014
+101-150,University of Nottingham,9-17,0.0,11.8,20.0,17.0,17.3,46.5,19.9,2014
+101-150,University of Sao Paulo,1,0.0,0.0,0.0,12.2,12.0,72.9,15.4,2014
+101-150,University of Southampton,9-17,0.0,0.0,0.0,24.6,21.3,46.8,24.4,2014
+101-150,University of Sydney,5-7,0.0,14.9,0.0,9.6,17.9,64.1,24.7,2014
+101-150,University of Virginia,53-64,0.0,0.0,0.0,27.0,27.9,43.4,18.8,2014
+101-150,University of Wageningen,5-7,0.0,0.0,0.0,22.8,19.9,41.8,32.1,2014
+101-150,University Paris Diderot - Paris 7,5-7,0.0,11.8,9.4,14.9,32.2,44.5,19.4,2014
+101-150,Weizmann Institute of Science,3,0.0,18.2,16.3,17.0,34.4,27.3,24.1,2014
+151-200,Erasmus University,8,0.0,0.0,14.9,22.0,7.5,34.8,26.4,2014
+151-200,Fudan University,4-6,0.0,0.0,0.0,12.2,15.0,56.3,21.3,2014
+151-200,George Mason University,65-77,0.0,0.0,31.9,5.1,9.3,27.9,18.1,2014
+151-200,Icahn School of Medicine at Mount Sinai,65-77,0.0,0.0,0.0,26.0,25.2,35.9,20.8,2014
+151-200,Iowa State University,65-77,0.0,0.0,0.0,18.5,20.0,38.9,19.6,2014
+151-200,King Abdulaziz University,1-2,0.0,0.0,0.0,33.1,5.1,39.0,12.2,2014
+151-200,King Saud University,1-2,0.0,0.0,0.0,34.5,6.0,40.5,13.8,2014
+151-200,Kyushu University,7-8,0.0,0.0,0.0,13.1,14.8,45.8,18.0,2014
+151-200,Nanyang Technological University,2,0.0,0.0,0.0,11.2,10.6,50.4,25.0,2014
+151-200,North Carolina State University - Raleigh,65-77,0.0,0.0,0.0,24.0,14.6,41.5,18.9,2014
+151-200,Oregon Health and Science University,65-77,0.0,0.0,0.0,20.8,22.3,34.5,22.0,2014
+151-200,Oregon State University,65-77,0.0,10.5,0.0,23.0,20.8,35.3,22.4,2014
+151-200,Tel Aviv University,4,0.0,0.0,0.0,20.7,14.4,47.4,24.9,2014
+151-200,The Chinese University of Hong Kong,1-2,0.0,0.0,14.1,15.1,5.1,43.3,21.7,2014
+151-200,The University of Adelaide,8,0.0,14.9,0.0,15.1,10.9,41.4,24.5,2014
+151-200,The University of Calgary,7,0.0,0.0,0.0,13.8,15.3,45.0,18.0,2014
+151-200,The University of Georgia,65-77,0.0,0.0,0.0,20.6,20.6,42.1,18.3,2014
+151-200,The University of Hong Kong,1-2,0.0,0.0,0.0,17.5,15.5,44.0,22.4,2014
+151-200,Tokyo Institute of Technology,7-8,0.0,12.9,0.0,15.9,17.6,38.4,24.4,2014
+151-200,Trinity College Dublin,1,0.0,10.5,13.3,10.7,13.2,32.0,18.3,2014
+151-200,University of Barcelona,1,0.0,0.0,0.0,15.1,11.5,51.8,18.4,2014
+151-200,University of Bern,6-7,0.0,12.9,0.0,16.3,21.7,40.3,26.5,2014
+151-200,University of Bologna,1-6,0.0,0.0,0.0,13.8,11.2,48.1,18.4,2014
+151-200,University of Buenos Aires,1,0.0,14.9,24.0,0.0,9.0,36.3,21.2,2014
+151-200,University of Delaware,65-77,0.0,10.5,16.3,20.1,11.7,32.2,19.4,2014
+151-200,University of East Anglia,18-20,0.0,13.9,0.0,19.2,15.4,29.9,23.5,2014
+151-200,University of Gothenburg,5,0.0,0.0,15.4,12.3,13.9,42.7,19.7,2014
+151-200,University of Hamburg,8-13,0.0,11.8,0.0,13.9,20.0,36.6,20.8,2014
+151-200,University of Hawaii at Manoa,65-77,0.0,0.0,0.0,20.1,23.8,36.3,18.7,2014
+151-200,University of Illinois at Chicago,65-77,0.0,0.0,0.0,18.9,14.4,43.9,17.4,2014
+151-200,University of Iowa,65-77,0.0,0.0,0.0,20.3,21.2,45.3,17.7,2014
+151-200,University of Kiel,8-13,0.0,10.5,13.3,12.2,13.4,31.2,18.2,2014
+151-200,University of Koeln,8-13,0.0,0.0,11.5,8.6,17.5,37.2,20.2,2014
+151-200,University of Lausanne,6-7,0.0,0.0,0.0,14.9,23.3,33.9,21.5,2014
+151-200,University of Miami,65-77,0.0,0.0,0.0,22.0,18.9,41.0,15.3,2014
+151-200,University of Milan,1-6,0.0,17.5,0.0,14.2,10.5,46.0,20.8,2014
+151-200,University of Muenster,8-13,0.0,19.7,13.3,13.2,15.2,36.5,21.3,2014
+151-200,University of Padua,1-6,0.0,0.0,0.0,11.3,17.7,48.7,22.0,2014
+151-200,University of Paris Descartes (Paris 5),8,0.0,11.8,9.4,12.2,16.2,42.0,16.3,2014
+151-200,University of Pisa,1-6,0.0,13.9,23.1,7.2,6.7,38.1,22.2,2014
+151-200,University of Roma - La Sapienza,1-6,0.0,11.8,13.3,5.1,11.6,53.4,17.9,2014
+151-200,University of Science and Technology of China,4-6,0.0,0.0,0.0,15.9,15.2,47.5,23.9,2014
+151-200,University of Sussex,18-20,0.0,0.0,22.4,15.2,13.5,29.0,25.6,2014
+151-200,University of Tuebingen,8-13,0.0,22.9,0.0,12.2,18.7,42.5,23.5,2014
+151-200,University of Turin,1-6,0.0,15.8,0.0,16.2,9.5,40.3,20.1,2014
+151-200,University of Vienna,1,0.0,13.9,0.0,17.2,21.9,37.0,24.2,2014
+151-200,University of Warwick,18-20,0.0,0.0,0.0,22.5,13.1,38.9,21.9,2014
+151-200,University of Wuerzburg,8-13,0.0,19.7,0.0,18.9,15.0,34.4,20.7,2014
+151-200,Virginia Commonwealth University,65-77,0.0,10.5,14.1,15.9,11.8,34.0,14.6,2014
+151-200,Zhejiang University,4-6,0.0,0.0,0.0,7.1,12.5,66.5,19.0,2014
+201-300,Autonomous University of Barcelona,2-4,0.0,0.0,0.0,5.0,13.7,45.3,20.3,2014
+201-300,Autonomous University of Madrid,2-4,0.0,0.0,0.0,11.3,12.0,39.0,17.1,2014
+201-300,Beijing Normal University,7-12,0.0,15.8,0.0,5.0,7.8,37.2,15.4,2014
+201-300,Charles University in Prague,1,0.0,9.1,0.0,0.0,10.4,43.6,19.3,2014
+201-300,City University of Hong Kong,3-4,0.0,0.0,0.0,18.1,1.5,37.9,21.5,2014
+201-300,Claude Bernard University Lyon 1,9-14,0.0,10.5,0.0,0.0,17.4,41.0,14.5,2014
+201-300,Colorado State University,78-104,0.0,0.0,0.0,20.3,13.6,35.5,19.5,2014
+201-300,Dalhousie University,8-16,0.0,0.0,0.0,12.2,15.2,34.1,17.9,2014
+201-300,Dartmouth College,78-104,0.0,18.2,0.0,20.7,14.1,25.6,20.3,2014
+201-300,Delft University of Technology,9-10,0.0,11.8,0.0,8.6,18.3,38.6,21.3,2014
+201-300,Durham University,21-29,0.0,0.0,0.0,19.6,15.5,34.1,21.0,2014
+201-300,Ecole Normale Superieure - Lyon,9-14,0.0,0.0,20.0,3.6,11.7,21.0,28.4,2014
+201-300,Florida State University,78-104,0.0,0.0,0.0,14.6,16.0,37.9,19.1,2014
+201-300,Harbin Institute of Technology,7-12,0.0,0.0,0.0,10.0,2.9,47.5,14.7,2014
+201-300,Huazhong University of Science and Technology,7-12,0.0,0.0,0.0,0.0,7.7,50.4,15.7,2014
+201-300,Karlsruhe Institute of Technology (KIT),14-22,0.0,0.0,0.0,12.0,15.1,38.0,19.8,2014
+201-300,Kobe University,9-10,0.0,14.9,0.0,5.1,14.7,30.9,15.4,2014
+201-300,Korea Advanced Institute of Science and Technology,2-5,0.0,0.0,0.0,8.3,16.8,38.7,28.8,2014
+201-300,Korea University,2-5,0.0,0.0,0.0,8.7,10.2,49.1,21.2,2014
+201-300,Laval University,8-16,0.0,0.0,0.0,15.0,9.3,36.9,16.0,2014
+201-300,Louisiana State University - Baton Rouge,78-104,0.0,0.0,0.0,13.6,12.6,34.0,14.3,2014
+201-300,Maastricht University,9-10,0.0,0.0,0.0,10.7,6.6,41.5,24.8,2014
+201-300,Macquarie University,9,0.0,0.0,0.0,18.1,13.0,32.8,24.3,2014
+201-300,Medical University of Vienna,2-3,0.0,9.1,9.4,8.6,9.7,32.9,18.0,2014
+201-300,Nanjing University,7-12,0.0,0.0,0.0,0.7,6.9,51.5,17.8,2014
+201-300,National Autonomous University of Mexico,1,0.0,12.9,0.0,3.3,10.4,47.7,23.2,2014
+201-300,National Cheng Kung University,2-3,0.0,0.0,0.0,10.1,2.7,43.6,17.9,2014
+201-300,National Tsing Hua University,2-3,0.0,12.9,0.0,5.1,12.6,32.7,20.8,2014
+201-300,Newcastle University,21-29,0.0,0.0,0.0,12.2,16.0,38.5,18.8,2014
+201-300,Northeastern University,78-104,0.0,0.0,0.0,15.9,18.1,28.8,20.2,2014
+201-300,Norwegian University of Science and Technology - NTNU,2-3,0.0,13.9,0.0,10.1,13.4,37.3,18.0,2014
+201-300,Paul Sabatier University (Toulouse 3),9-14,0.0,0.0,0.0,12.3,20.6,38.1,14.3,2014
+201-300,Polytechnic Institute of Milan,7-8,0.0,7.4,14.9,5.0,8.4,33.1,20.3,2014
+201-300,"Queen Mary, University of London",21-29,0.0,18.2,0.0,18.1,11.6,31.7,19.9,2014
+201-300,Queen's University,8-16,0.0,0.0,0.0,13.1,11.8,33.9,19.2,2014
+201-300,Rensselaer Polytechnic Institute,78-104,0.0,12.9,0.0,13.9,12.2,23.1,23.8,2014
+201-300,Royal Institute of Technology,6-8,0.0,0.0,14.9,3.6,9.9,38.0,23.5,2014
+201-300,RWTH Aachen University,14-22,0.0,0.0,0.0,15.1,8.1,41.1,20.8,2014
+201-300,Simon Fraser University,8-16,0.0,0.0,0.0,12.2,12.9,33.3,18.8,2014
+201-300,State University of New York at Buffalo,78-104,0.0,0.0,0.0,13.1,8.1,38.8,15.5,2014
+201-300,Stony Brook University,78-104,0.0,0.0,0.0,14.8,18.9,36.9,16.8,2014
+201-300,Sun Yat-sen University,7-12,0.0,0.0,0.0,8.7,8.8,53.2,17.0,2014
+201-300,Sungkyunkwan University,2-5,0.0,0.0,0.0,0.0,12.2,47.2,21.3,2014
+201-300,Swedish University of Agricultural Sciences,6-8,0.0,0.0,0.0,13.3,13.3,30.0,24.0,2014
+201-300,The George Washington University,78-104,0.0,11.8,0.0,6.3,11.1,34.4,17.0,2014
+201-300,The Hong Kong University of Science and Technology,3-4,0.0,0.0,0.0,17.4,8.1,30.1,22.8,2014
+201-300,The University of Alabama at Birmingham,78-104,0.0,0.0,0.0,18.1,13.6,41.3,15.5,2014
+201-300,The University of Auckland,1-2,0.0,13.9,0.0,10.1,13.5,40.0,20.8,2014
+201-300,The University of Dundee,21-29,0.0,0.0,0.0,16.8,16.0,26.1,20.3,2014
+201-300,The University of New Mexico - Albuquerque,78-104,0.0,0.0,0.0,14.9,16.8,34.2,15.3,2014
+201-300,The University of Texas Health Science Center at Houston,78-104,0.0,0.0,15.4,13.9,9.7,32.2,16.5,2014
+201-300,TU Dresden,14-22,0.0,0.0,0.0,10.7,16.0,39.9,20.6,2014
+201-300,Umea University,6-8,0.0,0.0,0.0,12.2,11.3,33.8,16.7,2014
+201-300,University College Dublin,2,0.0,0.0,0.0,10.7,12.3,34.8,17.9,2014
+201-300,University of Aberdeen,21-29,0.0,0.0,13.3,12.2,12.6,31.9,21.2,2014
+201-300,University of Bergen,2-3,0.0,0.0,0.0,10.7,14.6,36.9,19.5,2014
+201-300,University of Bochum,14-22,0.0,0.0,0.0,13.3,9.9,36.5,18.6,2014
+201-300,University of Bordeaux,9-14,0.0,0.0,0.0,14.3,16.6,40.0,15.4,2014
+201-300,University of Cape Town,1-2,0.0,19.0,0.0,12.2,10.0,35.6,19.1,2014
+201-300,University of Cincinnati,78-104,0.0,0.0,0.0,22.6,9.3,39.7,15.3,2014
+201-300,University of Erlangen-Nuremberg,14-22,0.0,0.0,0.0,15.9,14.6,39.3,20.8,2014
+201-300,University of Exeter,21-29,0.0,0.0,0.0,17.8,18.8,33.6,22.7,2014
+201-300,University of Florence,7-8,0.0,0.0,0.0,16.8,10.5,38.9,18.6,2014
+201-300,University of Guelph,8-16,0.0,0.0,0.0,17.5,9.7,31.1,18.7,2014
+201-300,University of Houston,78-104,0.0,0.0,0.0,17.3,11.4,36.7,19.9,2014
+201-300,University of Innsbruck,2-3,0.0,0.0,9.4,14.8,17.1,24.8,24.5,2014
+201-300,University of Kansas,78-104,0.0,11.8,0.0,11.3,13.3,39.5,14.5,2014
+201-300,University of Kentucky,78-104,0.0,10.5,0.0,3.6,12.5,39.7,13.5,2014
+201-300,University of Leicester,21-29,0.0,0.0,0.0,14.6,18.8,32.7,20.4,2014
+201-300,University of Leipzig,14-22,0.0,11.8,13.3,5.0,9.6,34.6,18.5,2014
+201-300,University of Liege,5,0.0,7.4,0.0,10.1,14.6,31.5,23.9,2014
+201-300,University of Lisbon,1,0.0,0.0,8.1,5.0,10.8,46.8,22.8,2014
+201-300,University of Lorraine,9-14,0.0,11.8,16.3,0.0,7.9,33.7,18.2,2014
+201-300,University of Mainz,14-22,0.0,0.0,7.7,8.9,16.8,37.1,20.1,2014
+201-300,University of Marburg,14-22,0.0,10.5,0.0,14.3,12.1,29.5,16.6,2014
+201-300,"University of Maryland, Baltimore",78-104,0.0,0.0,0.0,19.1,15.6,38.3,16.8,2014
+201-300,University of Missouri - Columbia,78-104,0.0,9.1,0.0,3.6,15.2,37.2,13.5,2014
+201-300,University of Montpellier 2,9-14,0.0,10.5,0.0,6.3,15.0,31.1,17.3,2014
+201-300,University of Nebraska - Lincoln,78-104,0.0,17.5,0.0,16.8,12.5,34.3,16.8,2014
+201-300,University of Notre Dame,78-104,0.0,12.9,0.0,17.5,13.0,32.1,19.7,2014
+201-300,University of Oregon,78-104,0.0,9.1,0.0,10.1,17.0,27.1,18.5,2014
+201-300,University of Otago,1-2,0.0,0.0,0.0,12.2,11.3,34.6,27.2,2014
+201-300,University of Ottawa,8-16,0.0,0.0,0.0,8.6,13.4,43.3,18.8,2014
+201-300,University of South Carolina - Columbia,78-104,0.0,0.0,0.0,16.8,6.9,35.2,15.5,2014
+201-300,University of South Florida,78-104,0.0,0.0,0.0,16.3,9.7,40.0,18.1,2014
+201-300,University of St Andrews,21-29,0.0,10.5,0.0,3.8,17.7,29.0,20.4,2014
+201-300,University of Stuttgart,14-22,0.0,19.0,0.0,10.1,11.7,27.0,15.7,2014
+201-300,University of Tennessee - Knoxville,78-104,0.0,10.5,0.0,15.9,13.1,39.1,14.6,2014
+201-300,University of the Witwatersrand,1-2,0.0,19.0,0.0,7.1,16.3,31.9,18.3,2014
+201-300,University of Tsukuba,9-10,0.0,0.0,19.6,5.8,10.9,35.7,15.6,2014
+201-300,University of Valencia,2-4,0.0,0.0,0.0,8.6,9.4,41.8,14.4,2014
+201-300,University of Victoria,8-16,0.0,0.0,0.0,17.2,8.2,30.6,19.5,2014
+201-300,University of Waterloo,8-16,0.0,0.0,0.0,14.6,12.6,41.6,21.3,2014
+201-300,University of York,21-29,0.0,0.0,0.0,13.9,16.2,33.0,20.4,2014
+201-300,Virginia Polytechnic Institute and State University,78-104,0.0,11.8,0.0,11.4,8.4,40.4,16.7,2014
+201-300,Washington State University,78-104,0.0,0.0,0.0,17.3,10.0,30.0,16.1,2014
+201-300,Western University (The University of Western Ontario),8-16,0.0,0.0,0.0,5.1,15.0,41.9,18.0,2014
+201-300,Xian Jiao Tong University,7-12,0.0,0.0,0.0,8.7,8.1,46.4,17.4,2014
+201-300,Yeshiva University,78-104,0.0,0.0,0.0,6.3,21.8,32.9,21.9,2014
+201-300,Yonsei University,2-5,0.0,0.0,0.0,8.6,6.6,51.1,20.8,2014
+301-400,Beihang University,13-25,0.0,0.0,0.0,8.6,4.1,37.1,15.0,2014
+301-400,Brandeis University,105-125,0.0,19.7,0.0,3.6,20.3,18.4,24.6,2014
+301-400,Brigham Young University,105-125,0.0,9.1,0.0,12.2,6.7,26.2,12.5,2014
+301-400,Central South University,13-25,0.0,0.0,0.0,7.1,1.5,45.3,15.3,2014
+301-400,Chalmers University of Technology,9-10,0.0,0.0,0.0,8.9,11.1,30.2,20.0,2014
+301-400,Chiba University,11-14,0.0,0.0,0.0,8.7,10.1,29.0,15.7,2014
+301-400,China Agricultural University,13-25,0.0,0.0,0.0,0.0,13.1,39.2,16.6,2014
+301-400,City University of New York City College,105-125,0.0,29.3,0.0,5.1,8.4,17.9,18.4,2014
+301-400,Complutense University of Madrid,5-8,0.0,19.7,0.0,0.0,5.5,42.9,12.1,2014
+301-400,Curtin University,10-18,0.0,0.0,0.0,7.1,12.1,34.8,21.4,2014
+301-400,Dalian University of Technology,13-25,0.0,0.0,0.0,5.0,4.6,42.1,16.7,2014
+301-400,Drexel University,105-125,0.0,0.0,0.0,12.3,8.8,28.6,18.2,2014
+301-400,Ecole Polytechnique,15-17,0.0,17.5,0.0,5.1,9.7,27.0,21.3,2014
+301-400,Eindhoven University of Technology,11-12,0.0,0.0,0.0,12.3,8.4,31.9,22.5,2014
+301-400,Eotvos Lorand University,1,0.0,13.9,0.0,10.1,8.6,23.7,13.4,2014
+301-400,ESPCI ParisTech,15-17,0.0,7.4,18.8,0.0,9.5,15.5,28.9,2014
+301-400,Federal University of Minas Gerais,2-5,0.0,0.0,0.0,3.6,4.9,37.9,17.9,2014
+301-400,Federal University of Rio de Janeiro,2-5,0.0,0.0,0.0,0.0,8.1,40.5,19.2,2014
+301-400,Flinders University,10-18,0.0,15.8,0.0,5.1,4.1,28.5,21.3,2014
+301-400,Georgetown University,105-125,0.0,0.0,0.0,11.1,9.1,31.9,17.9,2014
+301-400,Griffith University,10-18,0.0,0.0,0.0,3.6,7.6,35.1,18.3,2014
+301-400,Hannover Medical School,23-30,0.0,0.0,0.0,8.7,7.5,31.5,16.1,2014
+301-400,Hanyang University,6-8,0.0,0.0,0.0,0.0,6.7,39.8,20.8,2014
+301-400,Hiroshima University,11-14,0.0,0.0,0.0,4.8,13.6,33.1,14.9,2014
+301-400,Indian Institute of Science,1,0.0,0.0,0.0,7.2,2.9,35.7,17.3,2014
+301-400,Indiana University-Purdue University at Indianapolis,105-125,0.0,0.0,0.0,7.1,11.9,38.2,13.6,2014
+301-400,Jagiellonian University,1-2,0.0,10.5,0.0,3.6,6.8,34.0,16.6,2014
+301-400,James Cook University,10-18,0.0,0.0,0.0,10.1,15.7,27.3,23.5,2014
+301-400,Jilin University,13-25,0.0,0.0,0.0,0.0,9.9,48.9,12.8,2014
+301-400,Keio University,11-14,0.0,0.0,0.0,5.1,13.0,34.0,13.5,2014
+301-400,Kyung Hee University,6-8,0.0,0.0,0.0,5.0,3.1,40.0,18.1,2014
+301-400,Lancaster University,30-33,0.0,0.0,0.0,13.9,7.5,29.3,18.5,2014
+301-400,Lanzhou University,13-25,0.0,0.0,0.0,7.1,2.2,36.6,17.5,2014
+301-400,Linkoping University,9-10,0.0,0.0,0.0,10.7,9.5,35.1,17.7,2014
+301-400,London School of Hygiene & Tropical Medicine,30-33,0.0,7.4,0.0,7.1,5.8,31.9,20.8,2014
+301-400,Nankai University,13-25,0.0,0.0,0.0,5.0,6.8,36.5,13.9,2014
+301-400,National and Kapodistrian University of Athens,1,0.0,0.0,0.0,10.6,3.8,39.8,19.2,2014
+301-400,National Chiao Tung University,4,0.0,0.0,0.0,8.6,9.3,34.7,20.4,2014
+301-400,Pohang University of Science and Technology,6-8,0.0,0.0,0.0,7.1,11.1,30.6,32.6,2014
+301-400,Polytechnic University of Valencia,5-8,0.0,0.0,0.0,10.4,12.2,33.4,15.2,2014
+301-400,Queen's University Belfast,30-33,0.0,18.2,0.0,0.0,10.9,32.4,18.0,2014
+301-400,Saint Petersburg State University,2,0.0,27.3,0.0,0.0,6.1,28.0,16.0,2014
+301-400,San Diego State University,105-125,0.0,0.0,0.0,14.3,11.5,25.0,16.6,2014
+301-400,Scuola Normale Superiore - Pisa,9-12,0.0,0.0,0.0,7.2,7.1,18.0,58.9,2014
+301-400,Shandong University,13-25,0.0,0.0,0.0,0.0,3.6,50.6,14.3,2014
+301-400,Sichuan University,13-25,0.0,0.0,0.0,0.0,3.1,50.8,14.1,2014
+301-400,South China University of Technology,13-25,0.0,0.0,0.0,7.1,5.7,37.6,14.2,2014
+301-400,Southeast University,13-25,0.0,0.0,0.0,8.7,7.5,40.2,14.9,2014
+301-400,SUNY at Albany,105-125,0.0,0.0,0.0,13.1,7.2,26.3,18.2,2014
+301-400,Swinburne University of Technology,10-18,0.0,0.0,0.0,11.3,13.1,21.4,22.4,2014
+301-400,Technical University of Berlin,23-30,0.0,16.6,0.0,7.8,6.6,29.4,15.9,2014
+301-400,Temple University,105-125,0.0,0.0,0.0,13.3,7.1,33.4,12.2,2014
+301-400,The Hong Kong Polytechnic University,5,0.0,0.0,0.0,11.3,3.8,39.8,19.0,2014
+301-400,The University of Montana - Missoula,105-125,0.0,5.3,0.0,15.9,15.0,16.0,17.3,2014
+301-400,The University of Reading,30-33,0.0,0.0,0.0,14.3,10.8,28.9,19.7,2014
+301-400,The University of Texas at Dallas,105-125,0.0,0.0,0.0,10.1,11.5,27.5,21.5,2014
+301-400,The University of Texas Health Science Center at San Antonio,105-125,0.0,0.0,0.0,20.1,9.5,27.7,15.6,2014
+301-400,Thomas Jefferson University,105-125,0.0,0.0,0.0,8.9,8.8,27.7,27.9,2014
+301-400,Tokyo Medical and Dental University,11-14,0.0,0.0,0.0,8.6,11.4,24.2,24.5,2014
+301-400,Tongji University,13-25,0.0,0.0,0.0,0.0,7.9,43.2,14.4,2014
+301-400,Tulane University,105-125,0.0,0.0,0.0,12.2,8.4,26.6,14.9,2014
+301-400,UNESP,2-5,0.0,0.0,0.0,0.0,7.9,43.9,20.7,2014
+301-400,University of Antwerp,6-7,0.0,0.0,0.0,5.1,11.0,35.8,26.5,2014
+301-400,University of Belgrade,1,0.0,0.0,0.0,0.0,2.2,44.9,20.9,2014
+301-400,University of Campinas,2-5,0.0,0.0,0.0,3.6,4.6,42.6,20.0,2014
+301-400,University of Central Florida,105-125,0.0,0.0,0.0,13.6,10.8,29.3,16.6,2014
+301-400,University of Colorado at Denver,105-125,0.0,0.0,0.0,15.9,8.3,33.2,12.1,2014
+301-400,University of Connecticut,105-125,0.0,11.8,0.0,8.0,7.8,34.6,13.0,2014
+301-400,University of Duesseldorf,23-30,0.0,11.8,0.0,6.1,11.0,31.0,16.3,2014
+301-400,University of Duisburg-Essen,23-30,0.0,0.0,0.0,8.6,9.5,30.8,15.5,2014
+301-400,University of Giessen,23-30,0.0,0.0,0.0,12.3,10.1,30.9,16.3,2014
+301-400,University of Granada,5-8,0.0,0.0,0.0,7.1,9.4,39.9,13.3,2014
+301-400,University of Halle-Wittenberg,23-30,0.0,0.0,6.7,3.6,11.3,25.7,13.6,2014
+301-400,University of Konstanz,23-30,0.0,0.0,0.0,12.1,12.5,22.7,13.3,2014
+301-400,University of Malaya,1,0.0,0.0,0.0,5.0,3.4,39.1,18.5,2014
+301-400,University of Manitoba,17-18,0.0,0.0,0.0,8.1,8.8,35.4,15.9,2014
+301-400,University of Milan - Bicocca,9-12,0.0,0.0,0.0,5.0,6.9,31.4,21.5,2014
+301-400,University of Naples Federico II,9-12,0.0,0.0,0.0,8.6,5.1,42.4,16.8,2014
+301-400,University of Newcastle,10-18,0.0,0.0,0.0,11.1,7.1,31.4,21.3,2014
+301-400,University of Oulu,2-3,0.0,11.8,0.0,8.6,8.2,28.8,15.0,2014
+301-400,University of Paris Dauphine (Paris 9),15-17,0.0,15.8,26.6,3.6,0.0,13.6,23.1,2014
+301-400,University of Pompeu Fabra,5-8,0.0,0.0,0.0,5.0,17.2,26.2,31.4,2014
+301-400,University of Porto,2,0.0,0.0,0.0,0.0,9.4,42.7,20.3,2014
+301-400,University of Rhode Island,105-125,0.0,0.0,0.0,15.2,9.3,21.5,16.4,2014
+301-400,University of Roma - Tor Vergata,9-12,0.0,0.0,0.0,0.0,10.7,34.1,19.4,2014
+301-400,University of Saskatchewan,17-18,0.0,9.1,0.0,7.9,7.7,32.7,15.5,2014
+301-400,University of Southern Denmark,4,0.0,0.0,0.0,7.2,11.7,35.5,18.0,2014
+301-400,University of Tasmania,10-18,0.0,0.0,0.0,10.1,15.6,27.6,22.0,2014
+301-400,"University of Technology, Sydney",10-18,0.0,0.0,0.0,14.3,4.1,28.0,18.6,2014
+301-400,University of Tehran,1,0.0,12.9,0.0,10.0,0.0,38.8,19.6,2014
+301-400,University of Turku,2-3,0.0,0.0,0.0,6.3,8.4,32.9,16.3,2014
+301-400,University of Twente,11-12,0.0,0.0,0.0,5.1,10.4,32.5,20.8,2014
+301-400,University of Ulm,23-30,0.0,0.0,0.0,12.3,12.5,31.3,16.8,2014
+301-400,University of Vermont,105-125,0.0,13.9,0.0,12.2,9.0,26.4,14.2,2014
+301-400,University of Warsaw,1-2,0.0,15.8,0.0,0.0,8.6,30.6,15.6,2014
+301-400,University of Wollongong,10-18,0.0,0.0,0.0,12.2,7.5,31.9,21.7,2014
+301-400,Vrije University Brussel,6-7,0.0,13.9,0.0,5.0,9.6,30.0,25.6,2014
+301-400,Wake Forest University,105-125,0.0,0.0,0.0,14.9,7.5,25.8,12.0,2014
+301-400,Wayne State University,105-125,0.0,0.0,0.0,3.6,10.1,37.8,13.9,2014
+301-400,Xiamen University,13-25,0.0,0.0,0.0,5.5,8.8,37.3,13.8,2014
+401-500,Aalborg University,5,0.0,0.0,0.0,12.2,3.4,27.6,15.2,2014
+401-500,Aalto University,4-5,0.0,0.0,0.0,0.0,9.6,32.0,15.5,2014
+401-500,Aristotle University of Thessaloniki,2,0.0,0.0,0.0,4.9,2.2,33.8,16.0,2014
+401-500,Auburn University,126-146,0.0,0.0,0.0,8.6,6.0,28.2,13.1,2014
+401-500,Bar-Ilan University,5-6,0.0,0.0,0.0,7.2,7.4,28.1,14.3,2014
+401-500,Ben-Gurion University of the Negev,5-6,0.0,0.0,0.0,3.6,7.2,33.8,16.2,2014
+401-500,Bielefeld University,31-39,0.0,0.0,0.0,11.8,7.1,24.4,13.0,2014
+401-500,Boston College,126-146,0.0,0.0,0.0,8.6,12.9,22.5,14.6,2014
+401-500,Brunel University,34-38,0.0,0.0,0.0,12.2,3.8,25.4,16.1,2014
+401-500,Cairo University,1,0.0,19.7,0.0,0.0,3.8,29.7,15.3,2014
+401-500,Capital University of Medical Sciences,26-32,0.0,0.0,0.0,0.0,0.0,33.1,29.1,2014
+401-500,Carleton University,19-21,0.0,0.0,0.0,12.2,5.3,26.2,15.4,2014
+401-500,Catholic University of Chile,1-2,0.0,0.0,0.0,3.6,8.6,30.0,14.7,2014
+401-500,Catholic University of Korea,9-10,0.0,0.0,0.0,0.0,1.5,30.3,34.8,2014
+401-500,Catholic University of the Sacred Heart,13-21,0.0,0.0,0.0,3.6,7.5,30.1,18.0,2014
+401-500,Chang Gung University,5-7,0.0,0.0,0.0,3.6,3.3,35.1,21.6,2014
+401-500,Clemson University,126-146,0.0,0.0,0.0,6.3,8.7,26.8,14.5,2014
+401-500,Deakin University,19,0.0,0.0,0.0,0.0,8.4,34.1,19.9,2014
+401-500,East China University of Science and Technology,26-32,0.0,0.0,0.0,5.0,4.9,33.5,15.1,2014
+401-500,Ewha Womans University,9-10,0.0,0.0,0.0,5.0,9.0,27.8,15.8,2014
+401-500,Federal University of Rio Grande do Sul,6,0.0,0.0,0.0,0.0,4.7,38.9,18.2,2014
+401-500,Istanbul University,1,0.0,13.9,0.0,0.0,3.3,34.9,16.9,2014
+401-500,Kanazawa University,15-19,0.0,0.0,0.0,5.1,10.5,25.4,14.4,2014
+401-500,Kansas State University,126-146,0.0,0.0,0.0,7.1,11.2,28.0,13.8,2014
+401-500,Kent State University,126-146,0.0,0.0,0.0,5.1,13.0,22.4,14.0,2014
+401-500,King Abdullah University of Science and Technology,3-4,0.0,0.0,0.0,16.8,9.6,20.0,12.9,2014
+401-500,King Fahd University of Petroleum & Minerals,3-4,0.0,0.0,0.0,17.9,4.9,20.3,16.3,2014
+401-500,Medical University of Graz,4-6,0.0,0.0,9.4,3.6,4.4,24.8,22.0,2014
+401-500,Medical University of South Carolina,126-146,0.0,0.0,0.0,7.2,6.0,29.8,19.7,2014
+401-500,MINES ParisTech,18-21,0.0,13.9,24.9,0.0,3.8,8.1,13.1,2014
+401-500,Nanjing Medical University,26-32,0.0,0.0,0.0,0.0,4.1,31.3,26.3,2014
+401-500,National Sun Yat-Sen University,5-7,0.0,0.0,0.0,12.3,2.4,27.5,19.9,2014
+401-500,National Yang Ming University,5-7,0.0,0.0,0.0,0.0,4.2,33.3,24.1,2014
+401-500,Okayama University,15-19,0.0,0.0,0.0,3.6,10.6,29.6,12.2,2014
+401-500,Oklahoma State University,126-146,0.0,0.0,0.0,8.6,4.9,28.5,13.7,2014
+401-500,Osaka City University,15-19,0.0,15.8,0.0,3.6,6.5,21.5,13.9,2014
+401-500,Peking Union Medical College,26-32,0.0,0.0,0.0,0.0,9.9,32.6,16.2,2014
+401-500,Polytechnic University of Catalonia,9-12,0.0,0.0,0.0,5.0,8.3,28.7,14.0,2014
+401-500,Rush University,126-146,0.0,0.0,0.0,10.7,6.6,24.7,16.3,2014
+401-500,Saint Louis University,126-146,0.0,0.0,11.5,5.1,4.6,24.2,11.5,2014
+401-500,Soochow University,26-32,0.0,0.0,0.0,0.0,4.2,39.5,14.4,2014
+401-500,State University of New York Health Science Center at Brooklyn,126-146,0.0,0.0,15.4,5.1,7.1,16.3,17.5,2014
+401-500,Stellenbosch University,3-4,0.0,0.0,0.0,5.0,5.8,30.2,14.6,2014
+401-500,Stockholm School of Economics,11,0.0,0.0,16.3,0.0,0.0,9.4,37.9,2014
+401-500,Syracuse University,126-146,0.0,0.0,0.0,8.1,8.1,24.8,13.1,2014
+401-500,Technical University Darmstadt,31-39,0.0,14.9,0.0,3.6,7.9,27.4,14.3,2014
+401-500,Technical University of Braunschweig,31-39,0.0,12.9,0.0,3.6,9.3,21.3,11.8,2014
+401-500,The Open University,34-38,0.0,0.0,0.0,6.3,12.9,22.3,13.1,2014
+401-500,The University of Texas Medical Branch at Galveston,126-146,0.0,0.0,0.0,13.9,5.0,22.9,14.2,2014
+401-500,Tianjin University,26-32,0.0,0.0,0.0,0.0,1.5,43.2,16.2,2014
+401-500,Tilburg University,13,0.0,0.0,0.0,0.0,0.0,28.1,21.2,2014
+401-500,Tokyo University of Science,15-19,0.0,0.0,0.0,7.1,8.4,22.9,16.3,2014
+401-500,University College Cork,3,0.0,0.0,0.0,13.1,7.7,26.0,14.1,2014
+401-500,University of Alaska - Fairbanks,126-146,0.0,0.0,0.0,12.2,11.4,20.9,16.2,2014
+401-500,University of Arkansas at Fayetteville,126-146,0.0,0.0,0.0,12.2,6.2,24.4,13.9,2014
+401-500,University of Arkansas at Little Rock,126-146,0.0,0.0,0.0,10.7,2.2,24.7,19.8,2014
+401-500,University of Auvergne,18-21,0.0,0.0,0.0,7.1,10.9,25.6,16.2,2014
+401-500,University of Bath,34-38,0.0,0.0,0.0,5.1,11.9,27.5,18.6,2014
+401-500,University of Bayreuth,31-39,0.0,0.0,0.0,8.6,14.9,22.7,13.2,2014
+401-500,University of Bremen,31-39,0.0,0.0,0.0,0.0,13.1,29.6,15.0,2014
+401-500,University of Cagliari,13-21,0.0,0.0,0.0,10.1,3.9,24.4,16.9,2014
+401-500,University of Canterbury,3-4,0.0,0.0,0.0,3.6,9.2,25.8,19.8,2014
+401-500,University of Chile,1-2,0.0,7.4,0.0,0.0,10.1,31.1,15.4,2014
+401-500,University of Coimbra,3,0.0,0.0,0.0,0.0,8.2,33.9,16.2,2014
+401-500,University of Eastern Finland,4-5,0.0,0.0,0.0,12.3,5.3,27.9,14.6,2014
+401-500,University of Essex,34-38,0.0,19.7,0.0,8.6,1.5,20.1,19.3,2014
+401-500,University of Ferrara,13-21,0.0,0.0,0.0,10.1,6.9,25.1,21.3,2014
+401-500,University of Genova,13-21,0.0,0.0,0.0,7.2,3.1,32.3,17.5,2014
+401-500,University of Graz,4-6,0.0,7.4,9.4,0.0,6.3,19.1,16.3,2014
+401-500,University of Hannover,31-39,0.0,0.0,0.0,8.6,10.5,24.5,13.0,2014
+401-500,University of Jena,31-39,0.0,0.0,0.0,0.0,8.4,33.8,16.2,2014
+401-500,University of KwaZulu-Natal,3-4,0.0,0.0,0.0,3.6,9.0,31.0,15.2,2014
+401-500,University of Ljubljana,1,0.0,0.0,0.0,0.0,5.2,36.1,14.2,2014
+401-500,"University of Maryland, Baltimore County",126-146,0.0,0.0,0.0,17.4,7.1,17.1,16.8,2014
+401-500,University of New Hampshire - Durham,126-146,0.0,0.0,0.0,14.3,10.6,20.9,15.1,2014
+401-500,University of Nice Sophia Antipolis,18-21,0.0,0.0,0.0,3.6,14.9,25.8,12.1,2014
+401-500,University of Oklahoma - Norman,126-146,0.0,0.0,0.0,5.1,10.9,28.9,14.2,2014
+401-500,University of Palermo,13-21,0.0,0.0,0.0,6.3,6.2,28.6,14.7,2014
+401-500,University of Parma,13-21,0.0,0.0,0.0,13.6,5.0,25.3,18.8,2014
+401-500,University of Pavia,13-21,0.0,0.0,0.0,5.0,6.9,31.4,19.9,2014
+401-500,University of Perugia,13-21,0.0,0.0,0.0,3.6,9.2,28.6,18.1,2014
+401-500,University of Quebec,19-21,0.0,0.0,0.0,0.0,9.4,34.7,16.7,2014
+401-500,University of Regensburg,31-39,0.0,0.0,0.0,3.6,13.9,28.7,15.0,2014
+401-500,University of Rennes 1,18-21,0.0,0.0,0.0,3.6,9.2,28.2,11.1,2014
+401-500,University of Rostock,31-39,0.0,0.0,0.0,8.6,8.0,26.4,13.4,2014
+401-500,University of Santiago Compostela,9-12,0.0,0.0,0.0,7.1,6.2,31.8,13.2,2014
+401-500,"University of Science, Malaysia",2,0.0,0.0,0.0,5.0,3.8,31.4,15.1,2014
+401-500,University of Surrey,34-38,0.0,0.0,0.0,8.6,5.1,27.5,18.0,2014
+401-500,University of Szeged,2,0.0,0.0,13.3,3.6,5.7,21.6,12.3,2014
+401-500,University of Tennessee Health Science Center,126-146,0.0,0.0,0.0,12.3,8.4,22.1,12.6,2014
+401-500,University of the Basque Country,9-12,0.0,0.0,0.0,3.6,6.9,35.0,12.9,2014
+401-500,University of Trieste,13-21,0.0,0.0,0.0,5.0,11.5,25.4,20.1,2014
+401-500,University of Wyoming,126-146,0.0,0.0,0.0,3.6,15.5,23.4,16.5,2014
+401-500,University of Zaragoza,9-12,0.0,0.0,0.0,7.6,3.8,33.6,13.0,2014
+401-500,Utah State University,126-146,0.0,13.9,0.0,3.6,10.5,23.8,14.7,2014
+401-500,Victoria University of Wellington,3-4,0.0,11.8,0.0,0.0,8.4,25.0,18.4,2014
+401-500,Vienna University of Technology,4-6,0.0,0.0,0.0,0.0,10.3,29.0,22.2,2014
+401-500,Waseda University,15-19,0.0,0.0,0.0,6.1,7.7,28.1,10.3,2014
+401-500,Wuhan University,26-32,0.0,0.0,0.0,0.0,2.7,42.9,12.0,2014
+401-500,York University,19-21,0.0,0.0,0.0,0.0,10.1,30.6,12.4,2014
+1,Harvard University,1,100.0,100.0,100.0,100.0,100.0,100.0,76.6,2015
+2,Stanford University,2,73.3,40.7,89.6,80.1,70.1,70.6,53.8,2015
+3,Massachusetts Institute of Technology (MIT),3,70.4,68.2,80.7,60.6,73.1,61.1,68.0,2015
+4,"University of California, Berkeley",4,69.6,65.1,79.4,66.1,65.6,67.9,56.5,2015
+5,University of Cambridge,1,68.8,77.1,96.6,50.8,55.6,66.4,55.8,2015
+6,Princeton University,5,61.0,53.3,93.4,57.1,43.0,42.4,70.3,2015
+7,California Institute of Technology,6,59.6,49.5,66.7,49.3,56.4,44.0,100.0,2015
+8,Columbia University,7,58.8,63.5,65.9,52.1,51.9,68.8,33.2,2015
+9,University of Chicago,8,57.1,59.8,86.3,49.0,42.9,49.8,42.0,2015
+10,University of Oxford,2,56.6,49.7,54.9,52.3,51.9,70.9,43.1,2015
+11,Yale University,9,54.5,47.6,50.4,51.0,58.8,63.0,37.8,2015
+12,"University of California, Los Angeles",10,50.7,29.5,47.1,52.3,47.2,70.7,31.6,2015
+13,Cornell University,11,50.5,42.0,49.8,50.4,45.3,59.9,40.2,2015
+14,"University of California, San Diego",12,48.7,19.2,35.5,56.6,55.1,62.9,36.6,2015
+15,University of Washington,13,47.8,21.2,31.6,53.0,51.7,71.9,29.3,2015
+16,Johns Hopkins University,14,46.3,37.7,33.6,44.0,44.9,70.2,28.8,2015
+17,University of Pennsylvania,15,46.1,31.6,33.8,49.6,39.6,67.7,37.4,2015
+18,University College London,3,44.5,28.1,36.2,38.5,40.6,71.7,32.7,2015
+18,"University of California, San Francisco",16,44.5,0.0,39.9,46.8,53.5,59.5,34.9,2015
+20,Swiss Federal Institute of Technology Zurich,1,43.7,29.5,35.5,38.4,45.9,55.7,46.3,2015
+21,The University of Tokyo,1,42.0,30.8,14.1,41.9,48.6,70.8,28.8,2015
+22,University of Michigan-Ann Arbor,17,41.7,34.4,0.0,56.2,41.3,75.9,25.6,2015
+23,"The Imperial College of Science, Technology and Medicine",4,41.5,14.5,35.8,44.2,34.5,62.0,38.0,2015
+24,University of Wisconsin - Madison,18,41.1,30.8,34.8,40.2,35.7,62.5,24.6,2015
+25,University of Toronto,1,40.6,19.9,17.2,38.8,38.6,79.1,29.3,2015
+26,Kyoto University,2,38.9,31.6,37.2,33.6,32.6,59.0,23.5,2015
+27,New York University,19,38.8,28.1,31.9,35.2,40.3,56.2,23.3,2015
+27,Northwestern University,19,38.8,15.4,22.1,50.3,37.0,58.1,28.8,2015
+29,University of Illinois at Urbana-Champaign,21,38.6,29.9,36.2,34.9,32.4,55.5,28.6,2015
+30,"University of Minnesota, Twin Cities",22,38.5,29.5,16.3,47.3,32.5,64.0,26.2,2015
+31,Duke University,23,38.0,15.4,14.9,50.2,39.0,61.7,23.9,2015
+32,Washington University in St. Louis,24,37.4,22.9,24.9,40.7,41.8,50.5,26.0,2015
+33,Rockefeller University,25,36.5,17.0,59.8,30.3,40.9,19.0,39.6,2015
+34,University of Colorado at Boulder,26,36.0,12.6,34.1,37.1,36.0,45.0,34.2,2015
+35,University of Copenhagen,1,35.7,21.8,18.8,28.0,34.0,63.2,39.2,2015
+36,Pierre and Marie  Curie University - Paris 6,1,35.0,33.6,27.4,25.8,29.8,59.2,23.9,2015
+37,The University of Texas at Austin,27,34.8,16.2,16.3,38.6,37.5,56.0,26.6,2015
+38,"University of California, Santa Barbara",28,34.6,14.5,39.1,38.7,27.5,37.3,38.0,2015
+39,University of North Carolina at Chapel Hill,29,34.4,8.9,16.3,39.8,33.5,61.2,25.6,2015
+40,University of British Columbia,2,34.1,15.4,18.8,32.8,32.0,63.0,24.2,2015
+41,The University of Manchester,5,33.6,18.5,32.6,27.1,26.1,56.2,25.6,2015
+41,University of Paris-Sud (Paris 11),2,33.6,30.3,54.3,16.8,17.4,47.3,26.6,2015
+43,"University of Maryland, College Park",30,32.8,19.2,20.0,33.0,31.6,52.7,26.5,2015
+44,The University of Melbourne,1,32.3,17.0,13.3,28.6,25.3,66.9,30.2,2015
+44,The University of Texas Southwestern Medical Center at Dallas,31,32.3,18.5,34.5,31.1,35.6,35.8,22.4,2015
+46,Heidelberg University,1,32.2,19.9,25.3,23.7,29.4,51.7,34.2,2015
+47,The University of Edinburgh,6,32.0,20.5,24.9,25.8,30.5,51.9,25.9,2015
+48,Karolinska Institute,1,31.9,22.4,26.6,24.8,23.5,50.8,37.4,2015
+49,University of Southern California,32,31.3,0.0,31.7,35.6,22.1,53.2,20.3,2015
+50,"University of California, Irvine",33,31.0,0.0,29.3,34.3,28.9,45.3,27.5,2015
+51,Technical University Munich,2,30.5,34.8,21.6,22.3,23.2,48.3,32.3,2015
+52,University of Munich,3,30.3,25.6,19.1,20.3,28.9,50.7,32.6,2015
+53,Vanderbilt University,34,30.2,15.4,29.0,28.4,21.8,51.0,19.0,2015
+54,University of Zurich,2,30.1,5.1,24.0,27.1,29.0,51.6,25.4,2015
+55,King's College London,7,30.0,21.2,21.0,29.5,18.2,54.3,25.6,2015
+56,Utrecht University,1,29.8,22.9,20.0,29.1,25.4,46.0,26.9,2015
+57,"University of California, Davis",35,29.7,0.0,0.0,41.0,33.0,58.0,26.0,2015
+58,University of Geneva,3,29.4,27.1,28.2,21.4,27.6,38.1,29.4,2015
+58,University of Oslo,1,29.4,28.1,32.6,15.9,18.2,49.1,26.9,2015
+60,Pennsylvania State University - University Park,36,29.3,10.3,0.0,41.6,31.6,53.4,22.4,2015
+61,Carnegie Mellon University,37,29.2,31.6,31.6,28.6,15.2,34.3,34.4,2015
+61,Purdue University - West Lafayette,37,29.2,13.6,23.1,27.7,25.1,49.0,22.4,2015
+61,Uppsala University,2,29.2,17.8,27.4,18.4,24.6,49.8,27.1,2015
+64,McGill University,3,28.5,32.8,0.0,22.8,27.3,59.3,26.8,2015
+64,"Rutgers, The State University of New Jersey - New Brunswick",39,28.5,10.3,18.8,34.5,24.8,44.6,22.9,2015
+66,University of Bristol,8,28.3,7.3,16.3,25.7,32.4,45.5,29.3,2015
+67,The Hebrew University of Jerusalem,1,28.2,32.0,28.2,19.6,21.5,37.6,29.1,2015
+67,The Ohio State University - Columbus,40,28.2,12.6,0.0,38.3,22.8,60.9,18.9,2015
+67,University of Helsinki,1,28.2,12.6,16.3,25.2,22.4,51.8,31.3,2015
+70,"University of Pittsburgh, Pittsburgh Campus",41,28.1,18.5,0.0,39.8,19.2,59.6,18.3,2015
+71,Ghent University,1,27.8,5.1,13.3,26.9,18.3,57.5,34.5,2015
+72,Ecole Normale Superieure - Paris,3,27.6,48.9,28.0,6.2,19.5,26.4,60.5,2015
+73,Aarhus University,2,27.3,11.5,22.1,12.3,25.8,51.8,31.0,2015
+73,Boston University,42,27.3,11.5,11.5,29.1,26.3,49.5,21.8,2015
+75,Brown University,43,27.0,14.5,13.3,26.2,25.1,43.6,32.8,2015
+75,University of Groningen,2,27.0,0.0,18.8,23.0,21.0,52.6,32.7,2015
+77,Nagoya University,3,26.7,29.0,25.3,16.8,17.7,44.3,23.1,2015
+77,Stockholm University,3,26.7,24.1,27.4,18.1,19.4,40.4,25.6,2015
+77,Technion-Israel Institute of Technology,2,26.7,23.5,37.6,15.2,18.3,33.3,28.2,2015
+77,The Australian National University,2,26.7,13.6,19.2,24.8,20.1,45.1,29.1,2015
+77,The University of Queensland,2,26.7,12.6,0.0,22.0,24.0,63.2,29.3,2015
+82,Leiden University,3,26.5,17.8,9.4,25.7,22.0,46.9,32.9,2015
+83,University of Florida,44,26.2,17.0,0.0,30.9,21.0,58.7,17.3,2015
+84,Rice University,45,26.0,16.2,21.7,28.1,22.8,29.2,34.3,2015
+85,Osaka University,4,25.7,8.9,0.0,31.6,26.7,51.7,21.7,2015
+86,Moscow State University,1,25.3,41.4,33.0,0.0,7.7,46.4,31.3,2015
+87,The University of Western Australia,4,24.9,13.6,14.1,24.1,14.5,47.5,28.9,2015
+87,University of Basel,4,24.9,19.2,16.3,17.4,21.4,39.2,35.0,2015
+87,University of Strasbourg,4,24.9,25.1,28.8,15.9,19.0,34.6,21.7,2015
+90,KU Leuven,2,24.7,0.0,0.0,30.1,18.6,56.6,30.4,2015
+90,University of Arizona,46,24.7,14.5,0.0,27.2,27.5,48.4,20.3,2015
+92,University of Warwick,9,24.6,0.0,29.8,23.7,14.0,39.3,26.8,2015
+93,Arizona State University,47,24.5,0.0,20.0,22.2,25.5,42.6,19.1,2015
+93,"University of California, Santa Cruz",47,24.5,0.0,0.0,37.9,33.9,29.0,37.6,2015
+93,University of Utah,47,24.5,0.0,11.5,26.5,25.5,46.7,18.7,2015
+96,McMaster University,4,24.4,12.6,18.8,23.2,15.1,44.5,22.5,2015
+97,University of Bonn,4,24.3,15.4,19.8,17.4,21.1,39.8,25.9,2015
+98,VU University Amsterdam,4,24.2,0.0,0.0,27.8,18.0,55.5,33.3,2015
+99,Michigan State University,50,24.0,8.9,0.0,30.7,21.8,50.6,18.9,2015
+100,Texas A&M University,51,23.9,0.0,0.0,34.3,22.7,49.5,20.9,2015
+101-150,Aix Marseille University,5-6,0.0,13.6,0.0,15.2,20.3,50.1,27.6,2015
+101-150,Baylor College of Medicine,52-65,0.0,0.0,0.0,23.7,29.2,39.7,19.9,2015
+101-150,Case Western Reserve University,52-65,0.0,30.3,10.9,15.9,19.0,39.7,22.9,2015
+101-150,Emory University,52-65,0.0,0.0,0.0,28.4,22.0,51.3,18.0,2015
+101-150,Université libre de Bruxelles (ULB),3,0.0,19.9,26.6,11.3,11.8,32.7,30.4,2015
+101-150,Georgia Institute of Technology,52-65,0.0,12.6,0.0,30.3,22.4,43.2,28.1,2015
+101-150,Icahn School of Medicine at Mount Sinai,52-65,0.0,0.0,0.0,26.8,25.0,36.6,21.5,2015
+101-150,Indiana University Bloomington,52-65,0.0,10.3,21.6,18.5,21.9,39.6,20.2,2015
+101-150,London School of Economics and Political Science,10-17,0.0,19.9,16.3,15.2,0.0,31.2,28.7,2015
+101-150,Lund University,4,0.0,21.2,0.0,22.5,16.3,49.7,21.2,2015
+101-150,Mayo Medical School,52-65,0.0,0.0,0.0,35.4,12.8,46.5,29.5,2015
+101-150,Monash University,5-7,0.0,0.0,0.0,18.4,22.6,58.6,25.5,2015
+101-150,National University of Singapore,1,0.0,0.0,0.0,19.3,20.3,59.5,32.2,2015
+101-150,Norwegian University of Science and Technology - NTNU,2,0.0,13.6,21.0,10.1,12.9,36.4,20.0,2015
+101-150,Peking University,1-4,0.0,0.0,0.0,11.2,21.5,64.0,19.5,2015
+101-150,Radboud University Nijmegen,5-7,0.0,16.2,0.0,12.3,19.3,50.4,32.2,2015
+101-150,Seoul National University,1,0.0,0.0,0.0,12.3,17.9,67.1,23.5,2015
+101-150,Shanghai Jiao Tong University,1-4,0.0,0.0,0.0,12.6,10.6,68.5,23.0,2015
+101-150,Swiss Federal Institute of Technology Lausanne,5,0.0,0.0,0.0,26.1,29.2,41.8,38.4,2015
+101-150,Technical University of Denmark,3,0.0,5.1,11.5,21.1,14.6,39.0,23.4,2015
+101-150,The University of Glasgow,10-17,0.0,7.3,0.0,24.9,18.5,42.1,22.9,2015
+101-150,The University of New South Wales,5-7,0.0,0.0,0.0,20.2,17.8,58.6,23.9,2015
+101-150,The University of Sheffield,10-17,0.0,17.8,13.3,18.4,17.5,42.8,21.7,2015
+101-150,The University of Texas M. D. Anderson Cancer Center,52-65,0.0,0.0,0.0,28.2,21.4,41.3,32.4,2015
+101-150,Tohoku University,5,0.0,14.5,0.0,23.9,21.0,52.2,21.6,2015
+101-150,Tsinghua University,1-4,0.0,10.3,0.0,10.0,26.8,63.8,20.2,2015
+101-150,Tufts University,52-65,0.0,18.5,16.3,20.1,15.4,34.9,25.7,2015
+101-150,University of Alberta,5-6,0.0,11.5,0.0,23.9,19.2,54.2,22.5,2015
+101-150,University of Amsterdam,5-7,0.0,5.1,0.0,20.8,18.8,53.3,28.2,2015
+101-150,University of Birmingham,10-17,0.0,18.5,9.4,20.8,12.7,44.7,20.5,2015
+101-150,"University of California, Riverside",52-65,0.0,12.6,0.0,24.7,23.9,32.2,27.5,2015
+101-150,University of Frankfurt,5-8,0.0,30.3,0.0,19.6,21.2,37.7,25.3,2015
+101-150,University of Freiburg,5-8,0.0,18.5,18.8,13.0,24.4,37.9,25.3,2015
+101-150,University of Goettingen,5-8,0.0,30.8,14.9,13.1,20.0,38.9,25.6,2015
+101-150,University of Leeds,10-17,0.0,17.0,0.0,18.4,18.4,42.5,19.8,2015
+101-150,University of Liverpool,10-17,0.0,17.0,13.3,14.9,18.6,41.2,22.5,2015
+101-150,University of Massachusetts Amherst,52-65,0.0,13.6,0.0,32.0,16.9,35.5,23.2,2015
+101-150,University of Massachusetts Medical School - Worcester,52-65,0.0,0.0,20.0,15.9,24.9,27.4,23.9,2015
+101-150,University of Montreal,5-6,0.0,11.5,0.0,17.2,17.3,50.6,21.7,2015
+101-150,University of Muenster,5-8,0.0,19.2,13.3,14.8,14.7,36.0,22.2,2015
+101-150,University of Nottingham,10-17,0.0,11.5,20.0,19.1,15.9,45.9,20.1,2015
+101-150,University of Rochester,52-65,0.0,24.6,7.7,25.2,20.8,39.0,20.8,2015
+101-150,University of Sao Paulo,1,0.0,0.0,0.0,12.2,12.1,72.0,15.5,2015
+101-150,University of Southampton,10-17,0.0,0.0,0.0,24.6,19.5,46.2,24.3,2015
+101-150,University of Sydney,5-7,0.0,14.5,0.0,9.6,18.1,64.7,25.3,2015
+101-150,University of Virginia,52-65,0.0,0.0,0.0,27.0,27.7,43.7,19.1,2015
+101-150,University of Wageningen,5-7,0.0,0.0,0.0,24.1,19.8,42.0,33.0,2015
+101-150,University Paris Diderot - Paris 7,5-6,0.0,11.5,9.4,14.9,30.2,45.0,19.5,2015
+101-150,Weizmann Institute of Science,3,0.0,17.8,16.3,17.0,34.7,26.8,25.1,2015
+101-150,Zhejiang University,1-4,0.0,0.0,0.0,7.1,13.5,68.5,19.9,2015
+151-200,Cardiff University,18-21,0.0,0.0,16.3,13.6,17.8,39.2,20.3,2015
+151-200,Catholic University of Louvain,4,0.0,10.3,13.3,15.9,9.1,37.4,26.9,2015
+151-200,Erasmus University,8,0.0,0.0,14.9,22.0,8.0,33.6,26.4,2015
+151-200,Fudan University,5-7,0.0,0.0,0.0,12.2,13.1,56.1,21.5,2015
+151-200,George Mason University,66-78,0.0,0.0,31.9,5.1,8.9,28.7,18.5,2015
+151-200,Hokkaido University,6-7,0.0,11.5,16.3,7.2,15.6,42.2,18.7,2015
+151-200,Iowa State University,66-78,0.0,0.0,0.0,20.1,17.1,39.3,19.8,2015
+151-200,Joseph Fourier University (Grenoble 1),7-8,0.0,0.0,14.9,16.3,21.9,32.9,18.2,2015
+151-200,King Abdulaziz University,1-2,0.0,0.0,0.0,29.1,7.2,47.0,13.4,2015
+151-200,King Saud University,1-2,0.0,0.0,0.0,32.5,5.9,42.5,14.1,2015
+151-200,Nanyang Technological University,2,0.0,0.0,0.0,11.2,10.5,50.5,26.2,2015
+151-200,National Taiwan University,1,0.0,11.5,0.0,13.9,11.6,55.5,19.4,2015
+151-200,North Carolina State University - Raleigh,66-78,0.0,0.0,0.0,25.2,12.8,41.2,19.1,2015
+151-200,Oregon Health and Science University,66-78,0.0,0.0,0.0,20.8,22.1,34.6,22.4,2015
+151-200,Oregon State University,66-78,0.0,10.3,0.0,23.0,21.2,34.7,22.7,2015
+151-200,Queen Mary University of London,18-21,0.0,17.8,0.0,18.1,13.7,32.1,20.7,2015
+151-200,Sapienza University of Rome,1-5,0.0,11.5,13.3,5.1,12.1,52.0,17.8,2015
+151-200,Sun Yat-sen University,5-7,0.0,0.0,0.0,8.7,9.9,54.9,17.9,2015
+151-200,Tel Aviv University,4,0.0,0.0,0.0,20.7,14.8,48.1,26.4,2015
+151-200,The Chinese University of Hong Kong,1-2,0.0,0.0,14.1,15.1,5.2,43.1,22.0,2015
+151-200,The University of Adelaide,8,0.0,14.5,0.0,16.3,12.9,42.0,25.7,2015
+151-200,The University of Georgia,66-78,0.0,0.0,0.0,20.6,16.7,42.1,18.1,2015
+151-200,The University of Hong Kong,1-2,0.0,0.0,0.0,17.5,14.2,43.9,22.5,2015
+151-200,Tokyo Institute of Technology,6-7,0.0,12.6,0.0,15.9,15.3,37.8,24.0,2015
+151-200,Trinity College Dublin,1,0.0,10.3,13.3,12.3,13.1,31.0,19.0,2015
+151-200,University of Barcelona,1,0.0,0.0,0.0,15.1,11.7,51.6,18.7,2015
+151-200,University of Bern,6,0.0,12.6,0.0,16.3,19.2,41.3,26.9,2015
+151-200,University of Buenos Aires,1,0.0,14.5,24.0,0.0,9.7,34.9,21.7,2015
+151-200,University of Delaware,66-78,0.0,10.3,16.3,20.1,10.0,30.8,19.0,2015
+151-200,University of Exeter,18-21,0.0,0.0,0.0,17.8,18.4,34.9,23.5,2015
+151-200,University of Gothenburg,5,0.0,0.0,15.4,12.3,14.5,41.3,19.7,2015
+151-200,University of Hamburg,9-13,0.0,11.5,0.0,13.9,21.7,36.6,22.1,2015
+151-200,University of Hawaii at Manoa,66-78,0.0,0.0,0.0,20.1,22.9,36.0,18.7,2015
+151-200,University of Illinois at Chicago,66-78,0.0,0.0,0.0,21.0,14.5,43.7,17.8,2015
+151-200,University of Iowa,66-78,0.0,0.0,0.0,20.3,18.8,44.7,17.5,2015
+151-200,University of Kiel,9-13,0.0,10.3,13.3,13.8,13.7,29.7,18.8,2015
+151-200,University of Koeln,9-13,0.0,0.0,11.5,8.6,19.3,37.1,21.5,2015
+151-200,University of Miami,66-78,0.0,0.0,0.0,22.0,14.7,39.5,14.8,2015
+151-200,University of Milan,1-5,0.0,17.0,0.0,14.2,9.6,46.3,21.2,2015
+151-200,University of Padua,1-5,0.0,0.0,0.0,11.3,16.1,48.2,22.0,2015
+151-200,University of Paris Descartes (Paris 5),7-8,0.0,11.5,9.4,12.2,13.5,40.1,15.7,2015
+151-200,University of Pisa,1-5,0.0,13.6,23.1,7.2,6.5,37.0,22.1,2015
+151-200,University of Science and Technology of China,5-7,0.0,0.0,0.0,15.9,13.9,50.8,25.5,2015
+151-200,University of Sussex,18-21,0.0,0.0,22.4,15.2,12.1,30.3,26.4,2015
+151-200,University of Tennessee - Knoxville,66-78,0.0,10.3,0.0,17.9,14.2,39.2,15.1,2015
+151-200,University of Tuebingen,9-13,0.0,22.4,0.0,12.2,17.4,41.1,23.7,2015
+151-200,University of Turin,1-5,0.0,15.4,0.0,16.2,8.5,40.0,20.2,2015
+151-200,University of Vienna,1,0.0,13.6,0.0,15.9,21.1,36.5,23.9,2015
+151-200,University of Wuerzburg,9-13,0.0,19.2,0.0,18.9,15.0,33.3,21.1,2015
+151-200,Virginia Commonwealth University,66-78,0.0,10.3,14.1,15.9,7.8,34.3,14.6,2015
+201-300,Autonomous University of Barcelona,2-5,0.0,0.0,0.0,5.0,12.9,44.5,20.2,2015
+201-300,Autonomous University of Madrid,2-5,0.0,0.0,0.0,11.3,9.9,39.3,17.3,2015
+201-300,Beijing Normal University,8-13,0.0,15.4,0.0,5.0,7.9,38.8,16.1,2015
+201-300,Brandeis University,79-102,0.0,19.2,0.0,8.6,18.8,18.4,24.8,2015
+201-300,Charles University in Prague,1,0.0,8.9,0.0,0.0,9.0,43.9,19.7,2015
+201-300,City University of Hong Kong,3-4,0.0,0.0,0.0,18.1,1.5,38.5,22.1,2015
+201-300,Claude Bernard University Lyon 1,9-15,0.0,10.3,0.0,0.0,18.8,40.2,14.8,2015
+201-300,Colorado State University,79-102,0.0,0.0,0.0,20.3,14.2,36.2,20.1,2015
+201-300,Complutense University of Madrid,2-5,0.0,19.2,0.0,0.0,8.6,42.8,12.4,2015
+201-300,Curtin University,9-11,0.0,0.0,0.0,8.7,12.0,37.1,23.3,2015
+201-300,Dalhousie University,7-16,0.0,0.0,0.0,12.2,13.1,34.3,17.9,2015
+201-300,Dartmouth College,79-102,0.0,17.8,0.0,20.7,14.4,25.4,20.6,2015
+201-300,Delft University of Technology,9-10,0.0,11.5,0.0,8.6,18.1,38.9,21.7,2015
+201-300,Durham University,22-28,0.0,0.0,0.0,19.6,14.6,34.5,21.4,2015
+201-300,Ecole Normale Superieure - Lyon,9-15,0.0,0.0,20.0,3.6,14.5,21.8,30.5,2015
+201-300,Florida State University,79-102,0.0,0.0,0.0,14.6,16.2,37.9,19.4,2015
+201-300,Vrije Universiteit Brussel (VUB),5-6,0.0,13.6,0.0,5.0,10.0,31.3,26.9,2015
+201-300,Harbin Institute of Technology,8-13,0.0,0.0,0.0,8.7,5.4,48.7,15.2,2015
+201-300,Huazhong University of Science and Technology,8-13,0.0,0.0,0.0,0.0,8.7,53.1,16.8,2015
+201-300,Indiana University-Purdue University at Indianapolis,79-102,0.0,0.0,0.0,7.1,12.8,39.8,14.5,2015
+201-300,Jilin University,8-13,0.0,0.0,0.0,0.0,8.9,50.7,13.5,2015
+201-300,Karlsruhe Institute of Technology (KIT),14-21,0.0,0.0,0.0,12.0,14.9,37.2,20.3,2015
+201-300,Korea Advanced Institute of Science and Technology,2-5,0.0,0.0,0.0,8.3,14.1,38.8,28.7,2015
+201-300,Korea University,2-5,0.0,0.0,0.0,8.7,8.7,50.7,22.1,2015
+201-300,KTH Royal Institute of Technology,6-7,0.0,0.0,14.9,3.6,10.3,38.3,24.2,2015
+201-300,Kyushu University,8-9,0.0,0.0,0.0,13.1,12.3,44.2,17.5,2015
+201-300,Laval University,7-16,0.0,0.0,0.0,15.0,8.6,36.7,16.1,2015
+201-300,Louisiana State University - Baton Rouge,79-102,0.0,0.0,0.0,13.6,14.3,33.4,14.6,2015
+201-300,Maastricht University,9-10,0.0,0.0,0.0,10.7,5.9,41.4,25.1,2015
+201-300,Macquarie University,9-11,0.0,0.0,0.0,18.1,13.1,33.6,25.1,2015
+201-300,Medical University of Vienna,2-3,0.0,8.9,9.4,8.6,9.3,33.4,18.4,2015
+201-300,Nanjing University,8-13,0.0,0.0,0.0,0.7,9.3,53.7,19.0,2015
+201-300,National Autonomous University of Mexico,1,0.0,12.6,0.0,3.3,8.5,47.7,24.0,2015
+201-300,National Tsing Hua University,2,0.0,12.6,0.0,5.1,12.9,32.6,21.1,2015
+201-300,Newcastle University,22-28,0.0,0.0,0.0,12.2,15.2,37.6,18.6,2015
+201-300,Northeastern University,79-102,0.0,0.0,0.0,15.9,16.5,29.9,20.7,2015
+201-300,Paul Sabatier University (Toulouse 3),9-15,0.0,0.0,0.0,12.3,20.2,35.5,13.8,2015
+201-300,Polytechnic Institute of Milan,6-8,0.0,7.3,14.9,5.0,7.0,32.9,20.4,2015
+201-300,Pompeu Fabra University,2-5,0.0,0.0,0.0,5.0,19.7,26.4,33.6,2015
+201-300,Queen's University,7-16,0.0,0.0,0.0,13.1,11.9,32.6,19.0,2015
+201-300,RWTH Aachen University,14-21,0.0,0.0,0.0,16.3,6.3,40.6,21.6,2015
+201-300,Simon Fraser University,7-16,0.0,0.0,0.0,12.2,13.2,32.7,18.9,2015
+201-300,Stony Brook University,79-102,0.0,0.0,0.0,14.8,18.4,36.0,16.7,2015
+201-300,Sungkyunkwan University,2-5,0.0,0.0,0.0,0.0,11.1,47.0,21.4,2015
+201-300,Swedish University of Agricultural Sciences,6-7,0.0,0.0,0.0,13.3,14.3,29.1,24.2,2015
+201-300,The George Washington University,79-102,0.0,11.5,0.0,6.3,12.0,35.5,17.9,2015
+201-300,The Hong Kong University of Science and Technology,3-4,0.0,0.0,0.0,17.4,9.2,31.9,24.3,2015
+201-300,The University of Auckland,1-2,0.0,13.6,0.0,10.1,11.9,41.0,21.3,2015
+201-300,The University of Calgary,7-16,0.0,0.0,0.0,13.8,13.6,44.6,18.0,2015
+201-300,The University of Dundee,22-28,0.0,0.0,0.0,16.8,16.9,24.5,20.2,2015
+201-300,The University of New Mexico - Albuquerque,79-102,0.0,0.0,0.0,14.9,16.8,36.0,16.1,2015
+201-300,The University of Texas Health Science Center at Houston,79-102,0.0,0.0,15.4,13.9,11.3,31.9,16.8,2015
+201-300,Toulouse School of Economics,9-15,0.0,0.0,29.8,8.6,0.0,10.0,17.9,2015
+201-300,TU Dresden,14-21,0.0,0.0,0.0,10.7,14.6,40.8,21.7,2015
+201-300,"University at Buffalo, the State University of New York",79-102,0.0,0.0,0.0,13.1,9.3,37.5,15.3,2015
+201-300,University of Aberdeen,22-28,0.0,0.0,13.3,12.2,12.5,31.3,21.2,2015
+201-300,University of Alabama at Birmingham,79-102,0.0,0.0,0.0,18.1,11.2,40.4,15.3,2015
+201-300,University of Bergen,3,0.0,0.0,0.0,10.7,16.5,36.7,20.1,2015
+201-300,University of Bologna,6-8,0.0,0.0,0.0,13.8,10.0,48.1,18.6,2015
+201-300,University of Bordeaux,9-15,0.0,0.0,0.0,15.9,17.9,39.7,16.0,2015
+201-300,University of Cape Town,1-2,0.0,18.5,0.0,12.2,11.5,37.3,20.8,2015
+201-300,University of Cincinnati,79-102,0.0,0.0,0.0,22.6,9.2,37.9,15.0,2015
+201-300,University of East Anglia,22-28,0.0,13.6,0.0,19.2,15.6,28.3,23.2,2015
+201-300,University of Erlangen-Nuremberg,14-21,0.0,0.0,0.0,15.9,14.5,39.7,21.9,2015
+201-300,University of Florence,6-8,0.0,0.0,0.0,15.2,10.1,38.8,18.5,2015
+201-300,University of Guelph,7-16,0.0,0.0,0.0,17.5,10.4,31.8,19.4,2015
+201-300,University of Houston,79-102,0.0,0.0,0.0,17.3,13.4,35.9,20.2,2015
+201-300,University of Innsbruck,2-3,0.0,0.0,9.4,14.8,18.6,24.1,25.2,2015
+201-300,University of Kansas,79-102,0.0,11.5,0.0,11.3,14.1,39.2,14.7,2015
+201-300,University of Kentucky,79-102,0.0,10.3,0.0,3.6,12.1,39.4,13.6,2015
+201-300,University of Lausanne,7,0.0,0.0,0.0,14.9,22.0,33.2,21.2,2015
+201-300,University of Leicester,22-28,0.0,0.0,0.0,14.6,18.5,31.0,20.0,2015
+201-300,University of Leipzig,14-21,0.0,11.5,13.3,0.0,9.3,33.8,18.6,2015
+201-300,University of Liege,5-6,0.0,7.3,0.0,10.1,13.5,30.8,23.5,2015
+201-300,University of Lisbon,1,0.0,0.0,8.1,5.0,12.5,45.0,23.3,2015
+201-300,University of Lorraine,9-15,0.0,11.5,16.3,0.0,9.8,32.9,18.8,2015
+201-300,University of Mainz,14-21,0.0,0.0,7.7,8.9,15.9,35.2,20.1,2015
+201-300,University of Marburg,14-21,0.0,10.3,0.0,14.3,13.4,28.5,17.1,2015
+201-300,"University of Maryland, Baltimore",79-102,0.0,0.0,0.0,19.1,13.6,37.1,16.5,2015
+201-300,University of Montpellier,9-15,0.0,10.3,0.0,6.3,17.7,35.9,14.1,2015
+201-300,University of Nebraska - Lincoln,79-102,0.0,17.0,0.0,16.8,11.6,33.4,16.7,2015
+201-300,University of Notre Dame,79-102,0.0,12.6,0.0,17.5,13.9,31.8,20.0,2015
+201-300,University of Otago,1-2,0.0,0.0,0.0,12.2,10.1,34.1,27.1,2015
+201-300,University of Ottawa,7-16,0.0,0.0,0.0,8.6,14.9,44.0,19.5,2015
+201-300,University of South Carolina - Columbia,79-102,0.0,0.0,0.0,16.8,8.4,35.9,16.1,2015
+201-300,University of South Florida,79-102,0.0,0.0,0.0,16.3,10.4,40.2,18.5,2015
+201-300,University of Southern Denmark,4,0.0,0.0,0.0,7.2,11.9,37.6,19.8,2015
+201-300,University of Stuttgart,14-21,0.0,18.5,0.0,10.1,12.2,26.7,16.3,2015
+201-300,University of Tehran,1,0.0,12.6,0.0,10.0,0.0,40.0,21.0,2015
+201-300,University of the Witwatersrand,1-2,0.0,18.5,0.0,7.1,15.8,33.0,19.5,2015
+201-300,University of Tsukuba,8-9,0.0,0.0,19.6,5.8,10.4,34.7,15.6,2015
+201-300,University of Victoria,7-16,0.0,0.0,0.0,17.2,11.3,29.7,19.9,2015
+201-300,University of Waterloo,7-16,0.0,0.0,0.0,14.6,13.8,42.2,22.0,2015
+201-300,University of Wollongong,9-11,0.0,0.0,0.0,17.4,9.2,32.0,24.0,2015
+201-300,University of York,22-28,0.0,0.0,0.0,13.9,15.2,32.5,20.4,2015
+201-300,Virginia Polytechnic Institute and State University,79-102,0.0,11.5,0.0,11.4,11.4,40.9,17.4,2015
+201-300,Western University,7-16,0.0,0.0,0.0,5.1,13.5,41.5,18.0,2015
+201-300,Xian Jiao Tong University,8-13,0.0,0.0,0.0,8.7,7.7,50.1,18.9,2015
+201-300,Yeshiva University,79-102,0.0,0.0,0.0,6.3,21.7,31.5,21.6,2015
+201-300,Yonsei University,2-5,0.0,0.0,0.0,8.6,4.9,52.1,21.4,2015
+301-400,Aalborg University,5,0.0,0.0,0.0,11.2,4.6,30.4,16.8,2015
+301-400,Beihang University,14-27,0.0,0.0,0.0,8.6,3.9,40.3,16.5,2015
+301-400,Brigham Young University,103-125,0.0,8.9,0.0,12.2,8.4,26.3,12.9,2015
+301-400,Central South University,14-27,0.0,0.0,0.0,7.1,2.1,47.7,16.4,2015
+301-400,Chalmers University of Technology,8-10,0.0,0.0,0.0,8.9,10.7,29.7,19.9,2015
+301-400,Chiba University,10-12,0.0,0.0,0.0,10.0,9.7,29.1,16.4,2015
+301-400,China Agricultural University,14-27,0.0,0.0,0.0,0.0,13.9,39.7,17.2,2015
+301-400,China Medical University,3-5,0.0,0.0,0.0,13.6,2.1,31.3,23.2,2015
+301-400,City University of New York City College,103-125,0.0,31.2,0.0,5.1,6.9,18.0,19.1,2015
+301-400,Dalian University of Technology,14-27,0.0,0.0,0.0,5.0,5.0,41.8,16.9,2015
+301-400,Deakin University,12-19,0.0,0.0,0.0,0.0,8.6,35.4,21.0,2015
+301-400,Drexel University,103-125,0.0,0.0,0.0,12.3,10.3,29.5,19.2,2015
+301-400,Ecole Polytechnique,16-18,0.0,21.8,0.0,5.1,10.9,25.6,22.0,2015
+301-400,Eindhoven University of Technology,11-12,0.0,0.0,0.0,12.3,9.2,31.1,22.5,2015
+301-400,ESPCI ParisTech,16-18,0.0,7.3,18.8,0.0,10.3,15.0,29.3,2015
+301-400,Federal University of Rio de Janeiro,2-4,0.0,0.0,0.0,0.0,6.1,40.6,19.9,2015
+301-400,Flinders University,12-19,0.0,15.4,0.0,5.1,5.1,29.1,22.1,2015
+301-400,Georgetown University,103-125,0.0,0.0,0.0,11.1,7.5,31.7,17.9,2015
+301-400,Griffith University,12-19,0.0,0.0,0.0,3.6,8.2,37.1,19.6,2015
+301-400,Hannover Medical School,22-28,0.0,0.0,0.0,8.7,7.9,31.4,16.8,2015
+301-400,Hanyang University,6-8,0.0,0.0,0.0,0.0,6.9,40.5,21.6,2015
+301-400,Indian Institute of Science,1,0.0,0.0,0.0,7.2,2.7,36.8,18.6,2015
+301-400,Jagiellonian University,1-2,0.0,10.3,0.0,3.6,5.9,33.6,17.1,2015
+301-400,James Cook University,12-19,0.0,0.0,0.0,10.1,15.4,27.4,23.9,2015
+301-400,Keio University,10-12,0.0,0.0,0.0,10.1,12.2,32.5,13.4,2015
+301-400,King Abdullah University of Science and Technology,3,0.0,0.0,0.0,20.3,9.5,22.4,15.5,2015
+301-400,Kobe University,10-12,0.0,14.5,0.0,5.1,11.5,30.8,15.1,2015
+301-400,Kyung Hee University,6-8,0.0,0.0,0.0,5.0,4.4,38.9,18.0,2015
+301-400,Lancaster University,29-33,0.0,0.0,0.0,13.9,7.4,30.1,19.2,2015
+301-400,Lanzhou University,14-27,0.0,0.0,0.0,7.1,2.9,38.9,18.9,2015
+301-400,Linkoping University,8-10,0.0,0.0,0.0,10.7,9.3,34.0,17.5,2015
+301-400,London School of Hygiene & Tropical Medicine,29-33,0.0,7.3,0.0,7.1,7.0,32.4,21.6,2015
+301-400,Nankai University,14-27,0.0,0.0,0.0,5.0,5.6,36.9,14.2,2015
+301-400,National and Kapodistrian University of Athens,1,0.0,0.0,0.0,10.6,4.4,38.9,19.7,2015
+301-400,National Cheng Kung University,3-5,0.0,0.0,0.0,10.1,4.9,40.7,17.2,2015
+301-400,National Chiao Tung University,3-5,0.0,0.0,0.0,8.6,8.8,32.1,19.3,2015
+301-400,Paris Dauphine University (Paris 9),16-18,0.0,20.5,26.6,3.6,0.0,12.7,24.2,2015
+301-400,Pohang University of Science and Technology,6-8,0.0,0.0,0.0,7.1,9.1,29.9,31.9,2015
+301-400,Polytechnic University of Valencia,6-8,0.0,0.0,0.0,10.4,8.9,32.4,14.7,2015
+301-400,Queen's University Belfast,29-33,0.0,17.8,0.0,0.0,10.1,31.4,17.6,2015
+301-400,Rensselaer Polytechnic Institute,103-125,0.0,12.6,0.0,13.9,12.0,22.1,23.5,2015
+301-400,Saint Petersburg State University,2,0.0,26.7,0.0,0.0,6.7,29.7,17.4,2015
+301-400,San Diego State University,103-125,0.0,0.0,0.0,14.3,10.1,24.2,16.2,2015
+301-400,Scuola Normale Superiore - Pisa,9-10,0.0,0.0,0.0,7.2,6.1,17.2,57.2,2015
+301-400,Shandong University,14-27,0.0,0.0,0.0,0.0,3.4,53.1,15.3,2015
+301-400,Sichuan University,14-27,0.0,0.0,0.0,0.0,4.3,54.2,15.2,2015
+301-400,South China University of Technology,14-27,0.0,0.0,0.0,7.1,5.1,40.7,15.5,2015
+301-400,Southeast University,14-27,0.0,0.0,0.0,8.7,5.6,43.6,16.2,2015
+301-400,Swinburne University of Technology,12-19,0.0,0.0,0.0,11.3,10.7,22.3,22.6,2015
+301-400,Technical University of Berlin,22-28,0.0,16.2,0.0,7.8,7.4,29.1,16.5,2015
+301-400,Temple University,103-125,0.0,0.0,0.0,13.3,7.0,34.3,12.6,2015
+301-400,The Hong Kong Polytechnic University,5,0.0,0.0,0.0,11.3,4.9,38.7,18.9,2015
+301-400,"The University of Newcastle, Australia",12-19,0.0,0.0,0.0,11.1,5.6,33.0,22.4,2015
+301-400,The University of Reading,29-33,0.0,0.0,0.0,14.3,8.4,26.7,18.5,2015
+301-400,The University of Texas at Dallas,103-125,0.0,0.0,0.0,10.1,11.8,27.6,21.9,2015
+301-400,The University of Texas Health Science Center at San Antonio,103-125,0.0,0.0,0.0,20.1,8.5,26.5,15.4,2015
+301-400,Thomas Jefferson University,103-125,0.0,0.0,0.0,8.9,7.2,26.7,27.1,2015
+301-400,Tianjin University,14-27,0.0,0.0,0.0,0.0,1.5,46.8,17.8,2015
+301-400,Tongji University,14-27,0.0,0.0,0.0,0.0,8.4,46.3,15.7,2015
+301-400,Tulane University,103-125,0.0,0.0,0.0,12.2,8.7,26.1,15.0,2015
+301-400,Umea University,8-10,0.0,0.0,0.0,12.2,10.4,33.7,16.8,2015
+301-400,UNESP,2-4,0.0,0.0,0.0,0.0,6.6,44.5,21.8,2015
+301-400,University at Albany (State University of New York),103-125,0.0,0.0,0.0,13.1,8.7,25.6,18.4,2015
+301-400,University College Dublin,2,0.0,0.0,0.0,10.7,9.7,34.1,18.0,2015
+301-400,University of Antwerp,7,0.0,0.0,0.0,5.1,10.7,35.8,26.8,2015
+301-400,University of Belgrade,1,0.0,0.0,0.0,0.0,2.5,43.3,21.0,2015
+301-400,University of Bochum,22-28,0.0,0.0,0.0,13.3,7.4,34.9,18.5,2015
+301-400,University of Campinas,2-4,0.0,0.0,0.0,3.6,2.9,41.2,20.2,2015
+301-400,University of Central Florida,103-125,0.0,0.0,0.0,13.6,10.4,28.6,16.6,2015
+301-400,University of Chile,1,0.0,7.3,0.0,0.0,11.1,33.0,17.1,2015
+301-400,University of Colorado at Denver,103-125,0.0,0.0,0.0,15.9,10.8,32.3,12.3,2015
+301-400,University of Connecticut,103-125,0.0,11.5,0.0,8.0,8.6,35.0,13.4,2015
+301-400,University of Duesseldorf,22-28,0.0,11.5,0.0,6.1,9.6,31.5,17.0,2015
+301-400,University of Duisburg-Essen,22-28,0.0,0.0,0.0,8.6,9.7,30.6,16.1,2015
+301-400,University of Giessen,22-28,0.0,0.0,0.0,12.3,9.9,30.8,17.0,2015
+301-400,University of Granada,6-8,0.0,0.0,0.0,7.1,7.6,39.7,13.3,2015
+301-400,University of Malaya,1,0.0,0.0,0.0,5.0,0.0,43.9,21.6,2015
+301-400,University of Manitoba,17-18,0.0,0.0,0.0,8.1,8.0,34.5,15.7,2015
+301-400,University of Missouri - Columbia,103-125,0.0,8.9,0.0,3.6,12.5,38.1,13.7,2015
+301-400,University of Montana - Missoula,103-125,0.0,5.1,0.0,15.9,13.9,17.5,17.8,2015
+301-400,University of Naples Federico II,9-10,0.0,0.0,0.0,3.6,4.2,42.0,16.6,2015
+301-400,University of New Hampshire - Durham,103-125,0.0,0.0,0.0,14.3,10.3,22.0,15.8,2015
+301-400,University of Oregon,103-125,0.0,8.9,0.0,10.1,14.8,27.3,18.3,2015
+301-400,University of Oulu,2-3,0.0,11.5,0.0,8.6,7.0,28.5,15.4,2015
+301-400,University of Porto,2,0.0,0.0,0.0,0.0,10.7,42.2,21.1,2015
+301-400,University of Saskatchewan,17-18,0.0,8.9,0.0,7.9,7.6,32.3,15.6,2015
+301-400,University of St Andrews,29-33,0.0,10.3,0.0,3.8,17.5,29.3,20.8,2015
+301-400,University of Tasmania,12-19,0.0,0.0,0.0,10.1,15.1,28.9,22.9,2015
+301-400,"University of Technology, Sydney",12-19,0.0,0.0,0.0,14.3,3.9,28.5,19.1,2015
+301-400,University of Turku,2-3,0.0,0.0,0.0,6.3,8.2,33.0,17.1,2015
+301-400,University of Twente,11-12,0.0,0.0,0.0,5.1,8.3,31.4,20.1,2015
+301-400,University of Ulm,22-28,0.0,0.0,0.0,12.3,12.6,30.9,17.4,2015
+301-400,University of Valencia,6-8,0.0,0.0,0.0,8.6,7.6,41.1,14.3,2015
+301-400,University of Vermont,103-125,0.0,13.6,0.0,12.2,11.4,26.6,14.8,2015
+301-400,University of Warsaw,1-2,0.0,15.4,0.0,0.0,8.8,29.9,16.0,2015
+301-400,University of Wyoming,103-125,0.0,0.0,0.0,8.6,14.4,23.3,16.9,2015
+301-400,Washington State University,103-125,0.0,0.0,0.0,17.3,8.5,31.0,16.6,2015
+301-400,Wayne State University,103-125,0.0,0.0,0.0,3.6,9.3,38.1,14.2,2015
+301-400,Wuhan University,14-27,0.0,0.0,0.0,0.0,2.5,45.6,13.0,2015
+301-400,Xiamen University,14-27,0.0,0.0,0.0,5.5,9.2,39.4,14.7,2015
+401-500,Aalto University,4-6,0.0,0.0,0.0,0.0,10.4,33.4,17.0,2015
+401-500,Aristotle University of Thessaloniki,2,0.0,0.0,0.0,4.9,1.5,34.0,16.8,2015
+401-500,Auburn University,126-146,0.0,0.0,0.0,8.6,6.3,28.2,13.3,2015
+401-500,Bar-Ilan University,5-6,0.0,0.0,0.0,7.2,6.9,27.7,14.7,2015
+401-500,Ben-Gurion University of the Negev,5-6,0.0,0.0,0.0,3.6,5.6,32.9,16.4,2015
+401-500,Bielefeld University,29-39,0.0,0.0,0.0,11.8,8.6,24.8,14.0,2015
+401-500,Boston College,126-146,0.0,0.0,0.0,8.6,14.1,22.3,15.0,2015
+401-500,Brunel University,34-37,0.0,0.0,0.0,12.2,3.6,23.7,15.5,2015
+401-500,Cairo University,1,0.0,19.2,0.0,0.0,3.9,31.0,16.5,2015
+401-500,Capital Medical University,28-32,0.0,0.0,0.0,0.0,0.0,36.0,32.2,2015
+401-500,Carleton University,19-20,0.0,0.0,0.0,12.2,5.5,26.8,16.0,2015
+401-500,Catholic University of Chile,2,0.0,0.0,0.0,3.6,8.0,30.8,15.6,2015
+401-500,Catholic University of Korea,9-12,0.0,0.0,0.0,0.0,1.5,29.8,34.8,2015
+401-500,Catholic University of the Sacred Heart,11-20,0.0,0.0,0.0,3.6,7.0,29.8,18.1,2015
+401-500,Chang Gung University,6-7,0.0,0.0,0.0,3.6,2.7,34.6,21.7,2015
+401-500,Clemson University,126-146,0.0,0.0,0.0,6.3,7.8,26.3,14.4,2015
+401-500,East China University of Science and Technology,28-32,0.0,0.0,0.0,5.0,4.6,34.4,15.8,2015
+401-500,Eotvos Lorand University,1-2,0.0,13.6,0.0,10.1,7.0,23.5,13.7,2015
+401-500,Ewha Womans University,9-12,0.0,0.0,0.0,5.0,8.6,27.7,15.9,2015
+401-500,Federal University of Minas Gerais,5-6,0.0,0.0,0.0,3.6,4.4,37.0,18.3,2015
+401-500,Federal University of Rio Grande do Sul,5-6,0.0,0.0,0.0,0.0,5.0,38.8,19.0,2015
+401-500,Florida International University,126-146,0.0,0.0,0.0,5.0,6.2,28.3,15.8,2015
+401-500,Hiroshima University,13-18,0.0,0.0,0.0,4.8,11.0,31.1,14.0,2015
+401-500,Istanbul University,1,0.0,13.6,0.0,0.0,3.4,34.1,17.2,2015
+401-500,Kanazawa University,13-18,0.0,0.0,0.0,5.1,10.0,24.6,14.2,2015
+401-500,Kansas State University,126-146,0.0,0.0,0.0,7.1,10.5,27.9,13.9,2015
+401-500,King Fahd University of Petroleum & Minerals,4,0.0,0.0,0.0,21.1,4.6,19.9,17.1,2015
+401-500,Kyungpook National University,9-12,0.0,0.0,0.0,0.0,3.3,35.0,17.0,2015
+401-500,Medical University of Graz,4-6,0.0,0.0,9.4,3.6,4.4,23.4,21.4,2015
+401-500,Medical University of South Carolina,126-146,0.0,0.0,0.0,7.2,3.3,29.7,19.7,2015
+401-500,MINES ParisTech,19-22,0.0,13.6,24.9,0.0,3.6,7.8,13.6,2015
+401-500,Nanjing Medical University,28-32,0.0,0.0,0.0,0.0,3.9,34.9,29.7,2015
+401-500,Nara Institute of Science and Technology,13-18,0.0,0.0,0.0,13.3,13.5,13.9,11.4,2015
+401-500,National Sun Yat-Sen University,6-7,0.0,0.0,0.0,12.3,2.3,26.5,19.6,2015
+401-500,Okayama University,13-18,0.0,0.0,0.0,3.6,9.0,28.3,11.7,2015
+401-500,Oklahoma State University,126-146,0.0,0.0,0.0,8.6,4.6,27.6,13.6,2015
+401-500,Peking Union Medical College,28-32,0.0,0.0,0.0,0.0,10.8,33.6,17.1,2015
+401-500,Polytechnic University of Catalonia,9-13,0.0,0.0,0.0,5.0,9.3,27.9,14.0,2015
+401-500,Pusan National University,9-12,0.0,0.0,0.0,0.0,4.3,35.7,16.1,2015
+401-500,Queensland University of Technology,20,0.0,0.0,0.0,0.0,3.3,34.6,18.5,2015
+401-500,Rush University,126-146,0.0,0.0,0.0,10.7,6.7,24.9,16.6,2015
+401-500,Saint Louis University,126-146,0.0,0.0,11.5,5.1,5.0,24.2,11.8,2015
+401-500,Sharif University of Technology,2,0.0,15.4,0.0,3.6,0.0,29.1,15.3,2015
+401-500,Soochow University,28-32,0.0,0.0,0.0,0.0,4.0,41.3,15.3,2015
+401-500,State University of New York Health Science Center at Brooklyn,126-146,0.0,0.0,15.4,5.1,6.7,15.3,17.3,2015
+401-500,Stellenbosch University,3-4,0.0,0.0,0.0,5.0,5.3,31.2,15.7,2015
+401-500,Stockholm School of Economics,11,0.0,0.0,16.3,0.0,0.0,10.2,39.4,2015
+401-500,Syracuse University,126-146,0.0,0.0,0.0,8.1,8.0,25.2,13.4,2015
+401-500,Technical University Darmstadt,29-39,0.0,14.5,0.0,3.6,7.6,27.8,15.0,2015
+401-500,Technical University of Braunschweig,29-39,0.0,12.6,0.0,3.6,8.6,22.3,12.6,2015
+401-500,Texas Tech University,126-146,0.0,0.0,0.0,5.1,3.3,31.6,15.1,2015
+401-500,The University of Texas Medical Branch at Galveston,126-146,0.0,0.0,0.0,13.9,5.5,21.3,13.8,2015
+401-500,The University of Tokushima,13-18,0.0,13.6,0.0,5.1,8.0,19.7,14.7,2015
+401-500,Tokyo Medical and Dental University,13-18,0.0,0.0,0.0,3.6,9.2,23.9,23.2,2015
+401-500,University College Cork,3,0.0,0.0,0.0,13.1,7.5,25.3,14.4,2015
+401-500,University of Alaska - Fairbanks,126-146,0.0,0.0,0.0,12.2,11.7,19.3,15.7,2015
+401-500,University of Arkansas at Fayetteville,126-146,0.0,0.0,0.0,12.2,6.1,24.4,14.1,2015
+401-500,University of Arkansas at Little Rock,126-146,0.0,0.0,0.0,10.7,2.1,24.4,19.9,2015
+401-500,University of Auvergne,19-22,0.0,0.0,0.0,7.1,10.5,25.0,16.1,2015
+401-500,University of Bath,34-37,0.0,0.0,0.0,5.1,11.7,27.9,19.1,2015
+401-500,University of Bayreuth,29-39,0.0,0.0,0.0,8.6,13.3,21.5,13.0,2015
+401-500,University of Bremen,29-39,0.0,0.0,0.0,0.0,14.1,29.1,15.7,2015
+401-500,University of Coimbra,3,0.0,0.0,0.0,0.0,7.2,32.9,16.3,2015
+401-500,University of Eastern Finland,4-6,0.0,0.0,0.0,10.7,5.7,28.8,15.3,2015
+401-500,University of Essex,34-37,0.0,19.2,0.0,8.6,1.5,20.7,19.9,2015
+401-500,University of Ferrara,11-20,0.0,0.0,0.0,10.1,5.9,24.9,21.4,2015
+401-500,University of Genoa,11-20,0.0,0.0,0.0,7.2,4.2,31.7,17.5,2015
+401-500,University of Graz,4-6,0.0,7.3,9.4,0.0,6.2,19.9,17.0,2015
+401-500,University of Halle-Wittenberg,29-39,0.0,0.0,6.7,3.6,9.4,25.9,14.0,2015
+401-500,University of Hannover,29-39,0.0,0.0,0.0,8.6,10.6,24.8,13.8,2015
+401-500,University of Jena,29-39,0.0,0.0,0.0,0.0,9.3,34.0,17.1,2015
+401-500,University of Jyvaskyla,4-6,0.0,0.0,0.0,3.6,10.3,26.7,14.1,2015
+401-500,University of Konstanz,29-39,0.0,0.0,0.0,12.1,11.4,22.2,13.5,2015
+401-500,University of KwaZulu-Natal,3-4,0.0,0.0,0.0,3.6,8.4,32.8,16.6,2015
+401-500,University of Ljubljana,1,0.0,0.0,0.0,0.0,7.7,35.1,14.2,2015
+401-500,"University of Maryland, Baltimore County",126-146,0.0,0.0,0.0,17.4,6.5,17.8,17.3,2015
+401-500,University of Milan - Bicocca,11-20,0.0,0.0,0.0,5.0,5.6,30.9,21.4,2015
+401-500,University of Nice Sophia Antipolis,19-22,0.0,0.0,0.0,3.6,16.3,26.2,12.7,2015
+401-500,University of Oklahoma - Norman,126-146,0.0,0.0,0.0,5.1,10.0,28.0,14.0,2015
+401-500,University of Palermo,11-20,0.0,0.0,0.0,6.3,6.6,28.2,14.8,2015
+401-500,University of Parma,11-20,0.0,0.0,0.0,13.6,2.1,26.7,19.6,2015
+401-500,University of Pavia,11-20,0.0,0.0,0.0,5.0,5.7,30.7,19.7,2015
+401-500,University of Perugia,11-20,0.0,0.0,0.0,3.6,7.5,29.3,18.5,2015
+401-500,University of Quebec,19-20,0.0,0.0,0.0,0.0,9.8,33.3,16.8,2015
+401-500,University of Regensburg,29-39,0.0,0.0,0.0,3.6,13.9,27.7,15.2,2015
+401-500,University of Rennes 1,19-22,0.0,0.0,0.0,3.6,9.2,28.1,11.2,2015
+401-500,University of Rhode Island,126-146,0.0,0.0,0.0,15.2,6.1,21.1,16.0,2015
+401-500,University of Roma - Tor Vergata,11-20,0.0,0.0,0.0,0.0,8.8,33.7,19.2,2015
+401-500,University of Rostock,29-39,0.0,0.0,0.0,8.6,8.4,25.0,13.5,2015
+401-500,University of Santiago Compostela,9-13,0.0,0.0,0.0,7.1,6.1,31.1,13.2,2015
+401-500,"University of Science, Malaysia",2,0.0,0.0,0.0,7.1,3.3,30.6,15.7,2015
+401-500,University of Seville,9-13,0.0,0.0,0.0,0.0,7.5,33.7,11.3,2015
+401-500,University of Surrey,34-37,0.0,0.0,0.0,8.6,4.9,27.0,18.0,2015
+401-500,University of Szeged,1-2,0.0,0.0,13.3,3.6,3.4,21.8,12.8,2015
+401-500,University of the Basque Country,9-13,0.0,0.0,0.0,3.6,7.1,36.1,13.5,2015
+401-500,University of Trieste,11-20,0.0,0.0,0.0,5.0,10.9,25.1,20.1,2015
+401-500,University of Zaragoza,9-13,0.0,0.0,0.0,7.6,5.1,33.3,13.1,2015
+401-500,Utah State University,126-146,0.0,13.6,0.0,3.6,10.8,25.1,15.5,2015
+401-500,Vienna University of Technology,4-6,0.0,0.0,0.0,0.0,12.2,28.8,22.9,2015
+401-500,Wake Forest University,126-146,0.0,0.0,0.0,14.9,7.5,25.0,11.9,2015
