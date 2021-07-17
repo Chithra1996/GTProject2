@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Bootstrap Components</title>
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+  <link rel="stylesheet" href="static/style.css">
+
+   <!-- Leaflet CSS -->
+   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css"
+   integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ=="
+   crossorigin="" />
+
+</head>
+<body>
+  <nav class="navbar navbar-expand-md navbar-light bg-light" style="
+  padding-bottom: 0px;">
+    <a class="navbar-brand" href="#" style="padding-left: 5px; padding-right: 5px;">Project 2</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="true" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="navbar-collapse collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav ml-auto">
+    <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            Charts
+          </a>
+          <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+            <a class="dropdown-item" href="Temperature.html">Spider chart</a>
+            <a class="dropdown-item" href="Humidity.html">Bar Chart</a>
+            <a class="dropdown-item" href="Cloudiness.html">Line Chart of ranking</a>
+            <a class="dropdown-item" href="Wind_speed.html">(---)</a>
+          </div>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link" href="comparison.html">Comparison</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link" href="Data.html">Data</a>
+        </li>
+      </ul>
+      
+    </div>
+  </nav>
+</div>
+<div class="row" id="parent">
+<div class="row">
+    <div class="col-lg-12 col-md-9 col-sm-6 col-xs-6 offset-3 float-md-center " style="padding-top:20px">
+    <div class="jumbotron " id="wide" >
+      <h1 class="my-0 font-weight-normal">World Map</h1>
+      
+      <hr class="my-4">
+       <div class="paragraphs">
+  <div class="row">
+    <div class="span6"  id="map" width="200" height="200" style="float:left;padding-right: 5px;">
+      <img style="float:left;padding-right: 5px;" width="700px" height="300px">
+    </div>
+  </div>
+</div>
+      
+    </div>
+    </div>
+    
+  </div>
+  <div class="container">
+    
+  <div class="row">
+    <div class="col-md-2">
+      <div class="well" style="background-color: #80c2ff">
+        <h5>Top 10 Universities:</h5>
+        <select id="selDataset" onchange="optionChanged(this.value)">
+        </select>
+      </div>
+      <div class="panel panel-primary">
+        <div class="panel-heading">
+          <h3 class="panel-title">Demographic Info</h3>
+        </div>
+        <div id="sample-metadata" class="panel-body"></div>
+      </div>
+    </div>
+    <div class="col-md-5">
+      <div id="bar"></div>
+    </div>
+    <div class="col-md-5">
+      <div id="gauge" ></div>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-md-12">
+      <div id="bubble"></div>
+    </div>
+  </div>
+</div>
+
+</div>
+
+
+
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+
+<script src="https://d3js.org/d3.v5.min.js"></script>
+<script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+<script src="./static/app.js"></script>
+<script src="./static/bonus.js"></script>
+<script src="samples.json"></script>
+
+<!-- Leaflet JS -->
+<script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet.js"
+integrity="sha512-gZwIG9x3wUXg2hdXF6+rVkLF/0Vi9U8D2Ntg4Ga5I5BZpVkVxlJWbSQtXPSiUTtC0TjtGOmxa1AJPuV0CPthew=="
+crossorigin=""></script>
+<!-- D3 JavaScript -->
+<script src="https://d3js.org/d3.v5.min.js"></script>
+<!-- API key -->
+<script type="text/javascript" src="./static/config.js"></script>
+<!-- Our JavaScript -->
+<script type="text/javascript" src="./static/logic.js"></script>
+
+</body>
+</html>

@@ -1,0 +1,72 @@
+.bg-dark {
+  background-color: #d0515e!important;
+}
+#map,
+body {
+  margin: 0;
+  font-family:initial;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #8a1919;
+  background: whitesmoke /*radial-gradient(ellipse at bottom, #88ddd9 0%, #090a0f 100%);*/
+  }
+.container {
+    margin-top: 60px;
+}
+.navbar-light .navbar-brand {
+  color: #f8f9fa;
+  font-family: emoji;
+  font-weight: bold;
+}
+.navbar-brand {
+  background: #5a151b;
+}
+.jumbotron {
+    /* padding: 2rem 1rem; */
+    margin-bottom: 2rem;
+    background-color: #f8f9fa;
+}
+ /* Selecting elements by ID */
+  #introparagraph{
+    color: #139812;
+     }
+#parent {
+  display: flex;
+}
+#narrow {
+  background: #ffffff;
+  /* Just so it's visible */
+}
+#wide {
+background: #ffffff;
+}
+
+@media (min-width: 300px) and (max-width:768px) {
+.col-xs-3 {
+    -ms-flex: 0 0 25%;
+    flex: 0 0 25%;
+    max-width: 25%;}
+    }
+
+/* For h1 */
+    .h1, h1 {
+      font-size: 1.8rem;
+  }
+/* For h2 */
+    h2.font-weight-light {
+      text-align: center;
+      margin: auto;
+  }
+  .h2, h2 {
+    font-size: 1rem;
+}
+  /* For h3 */
+  .h3, h3 {
+    font-size: 1rem;
+    color: #f7f5f3;
+}
+
+#introparagraph {
+  color: #380a04;
+}
