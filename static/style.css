@@ -9,7 +9,7 @@ body {
   font-weight: 400;
   line-height: 1.5;
   color: #8a1919;
-  background: whitesmoke /*radial-gradient(ellipse at bottom, #88ddd9 0%, #090a0f 100%);*/
+  background: radial-gradient(ellipse at bottom, #d7dd88 0%, #d0515e 100%);
   }
 .container {
     margin-top: 60px;
