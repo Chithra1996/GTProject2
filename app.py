@@ -50,9 +50,12 @@ app = Flask(__name__)
 # Flask Routes
 # Home page. List all routes that are available.
 #################################################
+#@app.route('/',methods=['GET']) #post, put(grab user by username and update the username), delete(grab by ID and delete)
+#def home_page():
+#  return render_template('index.html')
 
 # Route to render index.html template using data from SQlite
-@app.route('/api/sql_data',methods=['GET'])
+@app.route('/sqldata',methods=['GET'])
 def home():
 
     # Find one record of data from the sqlite database
@@ -62,7 +65,12 @@ def home():
 
     # Return template and data
     return jsonify(sql_tim)
-    return render_template("index.html", mars=sql_tim)
+    #return render_template("index.html", mars=sql_tim)
 
+@app.route('/', methods=['GET'])
+def graphs():
+    return render_template("ex.html")
+
+    
 if __name__ == '__main__':
   app.run(debug=True)

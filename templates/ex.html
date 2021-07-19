@@ -2,9 +2,9 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Bootstrap Components</title>
+  <title>Universities</title>
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-  <link rel="stylesheet" href="static/style.css">
+  <link rel="stylesheet" href="../static/style.css">
 
    <!-- Leaflet CSS -->
    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css"
@@ -27,19 +27,19 @@
             Charts
           </a>
           <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-            <a class="dropdown-item" href="Temperature.html">Spider chart</a>
-            <a class="dropdown-item" href="bar.html">Bar Chart</a>
-            <a class="dropdown-item" href="line.html">Line Chart of ranking</a>
-            <a class="dropdown-item" href="Wind_speed.html">(---)</a>
+            <a class="dropdown-item" href="###">Spider chart</a>
+            <a class="dropdown-item" href="###">Bar Chart</a>
+            <a class="dropdown-item" href="###">Line Chart of ranking</a>
+            <a class="dropdown-item" href="###">(---)</a>
           </div>
         </li>
         
         <li class="nav-item">
-          <a class="nav-link" href="comparison.html">Comparison</a>
+          <a class="nav-link" href="###">Comparison</a>
         </li>
         
         <li class="nav-item">
-          <a class="nav-link" href="Data.html">Data</a>
+          <a class="nav-link" href="###">Data</a>
         </li>
       </ul>
       
@@ -55,7 +55,7 @@
        <div class="paragraphs">
   <div class="row">
     <div class="span6"  id="map" width="200" height="200" style="float:left">
-      <img style="float:left;padding-right: 5px;" width="700px" height="300px">
+      <img style="float:left;padding-right: 5px;" width="900px" height="300px">
     </div>
 </div>
       
@@ -68,7 +68,7 @@
   <div class="row">
     <div class="col-md-2 ">
       <div class="well">
-        <h5> University:</h5>
+        <h5> Year:</h5>
         <select id="selDataset" onchange="optionChanged(this.value)">
         </select>
       </div>
@@ -79,7 +79,7 @@
         <div id="sample-metadata" class="panel-body"></div>
       </div>
     </div>
-    <div class="col-md-5">
+    <div class="col-md-6">
       <div id="bar"></div>
     </div>
     <div class="col-md-5">
@@ -88,10 +88,7 @@
   </div>
   <div class="row">
     <div class="col-md-12">
-      <div id="bubble">
-        <h2> Mars Facts</h2>
-            {{mars.mars_tables|safe}}
-      </div>
+      <div id="bubble"></div>
     </div>
   </div>
 </div>
@@ -106,10 +103,7 @@
 
 <script src="https://d3js.org/d3.v5.min.js"></script>
 <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
-<script src="./static/app.js"></script>
-<script src="./static/bonus.js"></script>
-<script src="samples.json"></script>
-<script src="static/main.js"></script>
+
 
 <!-- Leaflet JS -->
 <script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet.js"
@@ -120,12 +114,10 @@ crossorigin=""></script>
 <!-- API key -->
 <script type="text/javascript" src="./static/config.js"></script>
 <!-- Our JavaScript -->
-<script type="text/javascript" src="./static/logic.js"></script>
+<script type="text/javascript" src="./static/l.js"></script>
 
+<script type="text/javascript" src="./static/main.js"></script>
 
 <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/vega@5.17.0"></script> 
- <script src="https://cdn.jsdelivr.net/npm/vega-lite@4.17.0"></script> 
- <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.12.2"></script>
 </body>
 </html>
