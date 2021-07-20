@@ -71,6 +71,20 @@ def home():
 def graphs():
     return render_template("ex.html")
 
+
+
+@app.route('/sqlmap',methods=['GET'])
+def map():
+
+    # Find one record of data from the sqlite database
+    newdf = pd.read_sql('''SELECT * FROM coordinates''', con = engine)
+    sql_map = newdf.to_dict('records')
+
+
+    # Return template and data
+    return jsonify(sql_map)
+    #return render_template("index.html", mars=sql_tim)
+
     
 if __name__ == '__main__':
   app.run(debug=True)
