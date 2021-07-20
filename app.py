@@ -71,7 +71,9 @@ def home():
 def graphs():
     return render_template("ex.html")
 
-
+@app.route('/lines', methods=['GET'])
+def linegraph():
+    return render_template("linechart.html")
 
 @app.route('/sqlmap',methods=['GET'])
 def map():
