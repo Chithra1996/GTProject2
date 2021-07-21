@@ -31,10 +31,9 @@
             Charts
           </a>
           <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-            <a class="dropdown-item" href="###">Spider chart</a>
+            <a class="dropdown-item" href="spider">Spider chart</a>
             <a class="dropdown-item" href="bars">Bar Chart</a>
             <a class="dropdown-item" href="lines">Line Chart of ranking</a>
-            <a class="dropdown-item" href="###">(---)</a>
           </div>
         </li>
         
@@ -53,7 +52,7 @@
 <div class="row" id="parent">
     <div class="col-lg-9 col-md-9 col-sm-9 col-xs-9  " style="padding-top:20px">
     <div class="jumbotron offset-3" id="wide" >
-      <h1 class="my-0 font-weight-normal" >World Map - Top 10 Universities</h1>
+      <h1 class="my-0 font-weight-normal text-center" > Bar Graph</h1>
       
     </div>
     
@@ -65,13 +64,12 @@
   <div class="row">
     <div class="col-md-2 ">
       <div class="well">
-        <h5> Year:</h5>
+        <h5 style="color:#ffff;"> Select a Year:</h5>
         <select id="selDataset" onchange="optionChanged(this.value)">
         </select>
       </div>
       <div class="panel panel-primary">
         <div class="panel-heading">
-          <h3 class="panel-title">Demographic Info</h3>
         </div>
         <div id="sample-metadata" class="panel-body"></div>
       </div>
@@ -84,9 +82,7 @@
     </div>
   </div>
   <div class="row">
-    <div class="col-md-12">
-      <div id="bubble"></div>
-    </div>
+    
   </div>
 </div>
 

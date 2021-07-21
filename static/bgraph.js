@@ -50,17 +50,27 @@ function barchart(selectedoption){
             x: countryArray2012,
             y: countryCount,
             type: "bar",
-            marker: {color: "pink"}
+            marker: {color: "green",
+            opacity: 0.6,
+            },
         };
         // Apply the group bar mode to the layout
         var layout = {
-            title: "Number of Universities per year",
+            title: "  Number of Universities  <br> per Country",
+            yaxis: {title: 'Number of Universities'},
+            font:{
+                family: 'Raleway, sans-serif'
+              },
+            xaxis: {
+                tickangle: -45
+              },
             margin: {
-                l: 100,
+                l: 200,
                 r: 100,
                 t: 100,
-                b: 100,
-            }
+                b: 110,
+            },
+    
         };
         var data = [trace1];
         Plotly.newPlot("bar", data, layout);  
