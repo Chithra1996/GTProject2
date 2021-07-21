@@ -5,7 +5,11 @@
   <title>Universities</title>
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
   <link rel="stylesheet" href="../static/style.css">
-
+  <!-- Leaflet Awesome Markers -->
+  <!-- Place your kit's code here -->
+  <link href="http://netdna.bootstrapcdn.com/font-awesome/4.0.0/css/font-awesome.css" rel="stylesheet">
+  <link rel="stylesheet" href="./static/leaflet.awesome-markers.css">
+  <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.6.4/leaflet.css">
    <!-- Leaflet CSS -->
    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css"
    integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ=="
@@ -28,8 +32,8 @@
           </a>
           <div class="dropdown-menu" aria-labelledby="navbarDropdown">
             <a class="dropdown-item" href="###">Spider chart</a>
-            <a class="dropdown-item" href="##">Bar Chart</a>
-            <a class="dropdown-item" href="##">Line Chart of ranking</a>
+            <a class="dropdown-item" href="bars">Bar Chart</a>
+            <a class="dropdown-item" href="lines">Line Chart of ranking</a>
             <a class="dropdown-item" href="###">(---)</a>
           </div>
         </li>
@@ -39,7 +43,7 @@
         </li>
         
         <li class="nav-item">
-          <a class="nav-link" href="###">Data</a>
+          <a class="nav-link" href="/sqldata">Data</a>
         </li>
       </ul>
       
@@ -63,33 +67,27 @@
     </div>
     
   </div>
+
+
+
+  
   <div class="container">
     
   <div class="row">
-    <div class="col-md-2 ">
-      <div class="well">
-        <h5> Year:</h5>
-        <select id="selDataset" onchange="optionChanged(this.value)">
-        </select>
-      </div>
-      <div class="panel panel-primary">
-        <div class="panel-heading">
-          <h3 class="panel-title">Demographic Info</h3>
-        </div>
-        <div id="sample-metadata" class="panel-body"></div>
-      </div>
+    <select id="dropdown"></select>
+    <div id="put-data-here">
+
+    <div class="table-wrapper-scroll-y my-custom-scrollbar">
+      <table class="table table-bordered table-striped mb-0">
+        <thead>
+   
+        </thead>
+        
+      </table>
     </div>
-    <div class="col-md-6">
-      <div id="bar"></div>
     </div>
-    <div class="col-md-5">
-      <div id="gauge" ></div>
     </div>
-  </div>
-  <div class="row">
-    <div class="col-md-12">
-      <div id="bubble"></div>
-    </div>
+    
   </div>
 </div>
 
@@ -103,21 +101,22 @@
 
 <script src="https://d3js.org/d3.v5.min.js"></script>
 <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+<script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
 
 
 <!-- Leaflet JS -->
 <script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet.js"
 integrity="sha512-gZwIG9x3wUXg2hdXF6+rVkLF/0Vi9U8D2Ntg4Ga5I5BZpVkVxlJWbSQtXPSiUTtC0TjtGOmxa1AJPuV0CPthew=="
 crossorigin=""></script>
+
+<script src="./static/leaflet.awesome-markers.js"></script>
 <!-- D3 JavaScript -->
 <script src="https://d3js.org/d3.v5.min.js"></script>
 <!-- API key -->
 <script type="text/javascript" src="./static/config.js"></script>
 <!-- Our JavaScript -->
 <script type="text/javascript" src="./static/l.js"></script>
-
 <script type="text/javascript" src="./static/main.js"></script>
 
-<script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
 </body>
 </html>

@@ -1,21 +1,19 @@
 
 
 function init(){
-    d3.json("data/cwurData.json").then(function(data){
-        var dropdownMenu = d3.select("#selDataset");
-        //Creating years for dropdown menu
-        var years = [2012, 2013, 2014, 2015];
-        years.forEach((year) => {
-            dropdownMenu
-            .append("option")
-            .text(year)
-            .property("value", year);
-        });
-
-        console.log(years[0])
-        barchart(years[0])
-    })
-}
+    var dropdownMenu = d3.select("#selDataset");
+    //Creating years for dropdown menu
+    var years = [2012, 2013, 2014, 2015];
+    years.forEach((year) => {
+        dropdownMenu
+        .append("option")
+        .text(year)
+        .property("value", year);
+    });
+  
+    console.log(years[0])
+    barchart(years[0])
+  }
 // Run the function
 init(); 
 

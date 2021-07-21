@@ -20,7 +20,7 @@ body {
   font-weight: bold;
 }
 .navbar-brand {
-  background: #5a151b;
+  background: #328d2f;
 }
 .jumbotron {
     /* padding: 2rem 1rem; */
@@ -70,3 +70,12 @@ background: #ffffff;
 #introparagraph {
   color: #380a04;
 }
+/* for scroll */
+.my-custom-scrollbar {
+  position: relative;
+  height: 200px;
+  overflow: auto;
+  }
+  .table-wrapper-scroll-y {
+  display: block;
+  }

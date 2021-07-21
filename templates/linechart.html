@@ -5,14 +5,15 @@
         <meta charset="utf-8">
         <!-- Bootstrap CSS -->
         <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-        <!--<link rel="stylesheet" href="style.css">-->
+        
+        <link rel="stylesheet" href="../static/style.css">
         <script src='https://cdn.jsdelivr.net/npm/chartist@0.11.4/dist/chartist.min.js'></script>
       <link rel="stylesheet" href="//cdn.jsdelivr.net/chartist.js/latest/chartist.min.css">
         <title>Line Chart</title>
       </head>
     <body>
         <nav class="navbar navbar-expand-lg navbar-light bg-light">
-            <a class="navbar-brand mr-auto" href="index.html">Latitude</a>
+            <a class="navbar-brand mr-auto" href="/">Project 2</a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
               <span class="navbar-toggler-icon"></span>
             </button>
@@ -23,16 +24,16 @@
                     Plots
                   </a>
                   <div class="dropdown-menu" aria-labelledby="dnavbarDropdownMenuLink">
-                    <a class="dropdown-item" href="max_temp.html">Bar Chart</a>
-                    <a class="dropdown-item" href="spider_chart.html">Spider Chart</a>
-                    <a class="dropdown-item" href="linechart.html">Line Chart</a>
+                    <a class="dropdown-item" href="###">Bar Chart</a>
+                    <a class="dropdown-item" href="###">Spider Chart</a>
+                    <a class="dropdown-item" href="###">Line Chart</a>
                   </div>
                 </li>
                 <li class="nav-item active">
                   <a class="nav-link" href="comparison.html">Comparison</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="data.html">Data</a>
+                  <a class="nav-link" href="/sqldata">Data</a>
                 </li>
               </ul>
             </div>
@@ -49,12 +50,14 @@
               </div>
             </div>
             <hr />
-                  <!--<div class="col-md-2">
-                    <div class="well">
-                      <h5>Select a University:</h5>
-                      <select id="selDataset"></select>
-                    </div>
-                  </div>-->
+            <div class="row col-md-12 col-sm-12">
+              <div class="well">
+                <!--<h6>Select Another University:</h6>-->
+                <select id="selDataset2">
+                  <option value="" disabled selected>Select another university</option>
+                </select>
+              </div>
+            </div><br>
             <div class="row">     
               <div class="ct-chart ct-perfect-fourth col-lg-6 col-md-6"></div>
               <p class="pformat col-lg-6 col-md-6 col-sm-12">
@@ -73,6 +76,6 @@
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
     <script src="https://d3js.org/d3.v5.min.js"></script>
   <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
-  <script src="line_chart.js"></script>
+  <script src="./static/line.js"></script>
     </body>
 </html>

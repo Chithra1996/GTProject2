@@ -1,75 +1,67 @@
-function init(){
-  var dropdownMenu = d3.select("#selDataset");
-  //Creating years for dropdown menu
-  var years = [2012, 2013, 2014, 2015];
-  years.forEach((year) => {
-      dropdownMenu
-      .append("option")
-      .text(year)
-      .property("value", year);
-  });
+// Function used to create a table upon init and drop down select
+function createDataTable(selected){
+    // This one sends a request the byCamp route we set up in app.py
+    // We're using the format to insert the bootcamp we want results for
+    d3.json('/sqldata').then(bcmp => {
+        // Logging the result for educational purposes
+        console.log(bcmp);
+        
 
-  console.log(years[0])
-  barchart(years[0])
+        // As you can see, the data is in kind of a funky format for table building,
+        //  so we're going to reformat it.
+
+        // We're going to build an array of objects, each object representing a row in the table.
+        // The object's keys will be the column name and the value will be the particular id's value for that key
+        var tabularData = []
+
+        Object.entries(bcmp).forEach(([col, rows]) => {
+            Object.entries(rows).forEach(([stu_id, stu_data]) => {
+                // findIndex will iterate through a list and find an object based on a callback function you give it
+                // like indexOf, it will return -1 if the object is not found
+                // We're using this to see whether the student has already been added to our array
+                var studentIndex = tabularData.findIndex(obj => obj.student_id == `${stu_id}`);
+
+                if (studentIndex != -1) {
+                    tabularData[studentIndex][col] = stu_data;
+                } else {
+                    var temp = {}
+                    temp["student_id"] = `${stu_id}`;
+                    
+                    if (col != "student_id") {
+                        temp[col] = stu_data;
+                    }
+                    
+                    tabularData.push(temp);
+                }
+            })
+        })
+
+        // Logging for educational purposes
+        console.log(tabularData);
+
+        // Here, we're grabbing onto the div and making sure to clear it as this table is built by appending
+        //  things and we want to ensure we're not appending to the end of an old table.
+        var dataDiv = d3.select("#put-data-here");
+        dataDiv.html("");
+
+        var dataTable = dataDiv.append("table");
+        dataTable.attr("class", "table table-striped table-hover");
+        var dataHead = dataTable.append("thead").append("tr");
+        var dataBody = dataTable.append("tbody");
+
+        // Here, we're adding the table header. 
+        // We're also assuming that all ids have the same columns and are therefore only
+        // adding the columns of the first object in tabularData
+        Object.keys(tabularData[0]).forEach(col => {
+            dataHead.append("th").text(col);
+        })
+
+        // Here, we're adding the table rows.
+        tabularData.forEach(obj => {
+            var row = dataBody.append("tr");
+            Object.values(obj).forEach(cell => {
+                row.append("td").text(cell);
+            })
+        })
+    })
 }
-// Run the function
-init(); 
-
-// Call optionChanged when a change takes place to the DOM
-d3.selectAll("body").on("change", optionChanged);
-// Function is called when a OTU is selected from dropdown menu
-function optionChanged() {
-// Use d3 to select dropdown menu
-var dropdownmenu = d3.select("#selDataset");
-// assign the value of the dropdown menu option to a variable
-var selectedoption = dropdownmenu.property("value");
-console.log(selectedoption)
-barchart(selectedoption)
-}
- 
-
-// Function for the demographics info table
-function barchart(selectedoption){
- d3.json('/sqldata').then(data=>{
-    console.log(data);
-    function chosenyear(year){
-    return year.year == selectedoption;
-  };
-  //Filtering data to where year is 2012
-  var initPlotData = data.filter(chosenyear);
-  //console.log(initPlotData);
-  //Array of countries for 2012
-  var countryArray2012 = initPlotData.map(x => x.country);
-  // console.log(countryArray2012);
-  var countryCount = [];
-  for(var i =0; i < countryArray2012.length; i++){
-     countryCount.push("1");
-  }
-  // console.log(countryCount);
-       var trace1 = {
-            x: countryArray2012,
-            y: countryCount,
-            type: "bar",
-            marker: {color: "pink"}
-        };
-        // Apply the group bar mode to the layout
-        var layout = {
-            title: "Number of Universities per year",
-            margin: {
-                l: 100,
-                r: 100,
-                t: 100,
-                b: 100,
-            }
-        };
-        var data = [trace1];
-        Plotly.newPlot("bar", data, layout);  
-      
-
-   })
-   .catch(err =>console.log(err));
-
-  }
-
-
-    
