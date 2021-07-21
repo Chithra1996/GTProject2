@@ -19,7 +19,7 @@
 <body>
   <nav class="navbar navbar-expand-md navbar-light bg-light" style="
   padding-bottom: 0px;">
-    <a class="navbar-brand" href="#" style="padding-left: 5px; padding-right: 5px;">Project 2</a>
+    <a class="navbar-brand" href="/" style="padding-left: 5px; padding-right: 5px;">Project 2</a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="true" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
@@ -31,7 +31,7 @@
             Charts
           </a>
           <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-            <a class="dropdown-item" href="spider">Spider chart</a>
+            <a class="dropdown-item" href="###">Spider chart</a>
             <a class="dropdown-item" href="bars">Bar Chart</a>
             <a class="dropdown-item" href="lines">Line Chart of ranking</a>
             <a class="dropdown-item" href="###">(---)</a>
@@ -55,39 +55,38 @@
     <div class="jumbotron offset-3" id="wide" >
       <h1 class="my-0 font-weight-normal" >World Map - Top 10 Universities</h1>
       
-      <hr class="my-4">
-       <div class="paragraphs">
-  <div class="row">
-    <div class="span6"  id="map" width="200" height="200" style="float:left">
-      <img style="float:left;padding-right: 5px;" width="900px" height="300px">
-    </div>
-</div>
-      
-    </div>
     </div>
     
   </div>
 
 
-
-  
   <div class="container">
     
   <div class="row">
-    <select id="dropdown"></select>
-    <div id="put-data-here">
-
-    <div class="table-wrapper-scroll-y my-custom-scrollbar">
-      <table class="table table-bordered table-striped mb-0">
-        <thead>
-   
-        </thead>
-        
-      </table>
+    <div class="col-md-2 ">
+      <div class="well">
+        <h5> Year:</h5>
+        <select id="selDataset" onchange="optionChanged(this.value)">
+        </select>
+      </div>
+      <div class="panel panel-primary">
+        <div class="panel-heading">
+          <h3 class="panel-title">Demographic Info</h3>
+        </div>
+        <div id="sample-metadata" class="panel-body"></div>
+      </div>
     </div>
+    <div class="col-md-6">
+      <div id="bar"></div>
     </div>
+    <div class="col-md-5">
+      <div id="gauge" ></div>
     </div>
-    
+  </div>
+  <div class="row">
+    <div class="col-md-12">
+      <div id="bubble"></div>
+    </div>
   </div>
 </div>
 
@@ -104,19 +103,14 @@
 <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
 
 
-<!-- Leaflet JS -->
-<script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet.js"
-integrity="sha512-gZwIG9x3wUXg2hdXF6+rVkLF/0Vi9U8D2Ntg4Ga5I5BZpVkVxlJWbSQtXPSiUTtC0TjtGOmxa1AJPuV0CPthew=="
-crossorigin=""></script>
 
-<script src="./static/leaflet.awesome-markers.js"></script>
 <!-- D3 JavaScript -->
 <script src="https://d3js.org/d3.v5.min.js"></script>
 <!-- API key -->
 <script type="text/javascript" src="./static/config.js"></script>
 <!-- Our JavaScript -->
-<script type="text/javascript" src="./static/l.js"></script>
-<script type="text/javascript" src="./static/main.js"></script>
+<script type="text/javascript" src="./static/bgraph.js"></script>
+
 
 </body>
 </html>

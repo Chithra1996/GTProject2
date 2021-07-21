@@ -70,9 +70,14 @@ def home():
 @app.route('/', methods=['GET'])
 def graphs():
     return render_template("ex.html")
+
 @app.route('/bars', methods=['GET'])
 def bargraph():
     return render_template("barchart.html")
+
+@app.route('/spider', methods=['GET'])
+def spidergraph():
+    return render_template("spider.html")
 
 @app.route('/lines', methods=['GET'])
 def linegraph():
