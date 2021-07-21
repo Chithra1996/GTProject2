@@ -1,0 +1,62 @@
+[
+ {
+   "University_Name": "Harvard University", 
+   "Long": "42.3770",
+   "Lat": "71.1167"
+ },
+ {
+   "University_Name": "Stanford University", 
+   "Long": "37.4275",
+   "Lat": "122.1697"
+ },
+ {
+   "University_Name": "University of Oxford", 
+   "Long": "51.7548",
+   "Lat": "1.2544"
+ },
+ {
+   "University_Name": "Massachusetts Institute of Technology", 
+   "Long": "42.3601",
+   "Lat": "71.0942"
+ },
+ {
+   "University_Name": "University of Cambridge", 
+   "Long": "52.2043",
+   "Lat": "0.1149"
+ },
+ {
+   "University_Name": "University of California, Berkeley", 
+   "Long": "37.871853",
+   "Lat": "122.258423"
+ },
+ {
+   "University_Name": "Princeton University", 
+   "Long": "40.3431",
+   "Lat": "74.6551"
+ },
+ {
+   "University_Name": "University of Chicago", 
+   "Long": "41.7886",
+   "Lat": "87.5987"
+ },
+ {
+   "University_Name": "Yale University",
+   "Long": "41.3163",
+   "Lat": "72.9223"
+ },
+ {
+   "University_Name": "Imperial College London", 
+   "Long": "51.4988",
+   "Lat": "0.1749"
+ },
+ {
+  "University_Name": "California Institute of Technology",
+  "Long": "34.1377",
+  "Lat": "118.1253"
+},
+{
+  "University_Name": "ETH Zurich – Swiss Federal Institute of Technology", 
+  "Long": "47.3764",
+  "Lat": "8.5476"
+}
+]
