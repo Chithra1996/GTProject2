@@ -21,143 +21,170 @@
 	</head>
 	<body>
     <!--Beginning of navbar-->
-    <nav class="navbar navbar-expand-lg navbar-light bg-light">
-        <a class="navbar-brand mr-auto" href="/">Project 2</a>
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
-          <span class="navbar-toggler-icon"></span>
-        </button>
-        <div class="collapse navbar-collapse" id="navbarNavDropdown">
-          <ul class="navbar-nav ml-auto">
-            <li class="nav-item dropdown">
-              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                Plots
-              </a>
-              <div class="dropdown-menu" aria-labelledby="dnavbarDropdownMenuLink">
-				<a class="dropdown-item" href="spider">Spider Chart</a>
-                <a class="dropdown-item" href="bars">Bar Chart</a>
-                <a class="dropdown-item" href="lines">Line Chart</a>
-              </div>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="/sqldata">Data</a>
-            </li>
-          </ul>
-        </div>
-      </nav>
+    <nav class="navbar navbar-expand-md navbar-light bg-light" style="
+  padding-bottom: 0px;">
+    <a class="navbar-brand" href="/" style="padding-left: 5px; padding-right: 5px;">Project 2</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="true" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="navbar-collapse collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav ml-auto">
+    <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            Charts
+          </a>
+          <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+            <a class="dropdown-item" href="spider">Spider chart</a>
+            <a class="dropdown-item" href="bars">Bar Chart</a>
+            <a class="dropdown-item" href="lines">Line Chart</a>
+          </div>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link" href="/sqldata">Data</a>
+        </li>
+      </ul>
+      
+    </div>
+  </nav>
     <!--End of navbar-->
     <h1 style="color:white;padding-top: 20px;" class="text-center">The Spider Chart</h1>
     <!--Adding dropdown box-->
     <div class="row col-md-2 col-sm-2" style=" margin-left: 25px;">
       <div class="well">
-        <h5 style="color:white">Select a Year:</h5>
+        <h5 style="color:white">Select Year:</h5>
         <select id="selDataset"></select>
       </div>
     </div>
     <!--End of dropdown box div-->
-    <script src="./static/sgraph.js"></script>
-    <div class="radarChart"></div>
-	 <script>
-	  d3.json('/sqldata').then(function(item){
-		function init(){
-		var dropdownMenu = d3.select("#selDataset");
-		//Creating years for dropdown menu
-		var years = [2011, 2012, 2013, 2014, 2015, 2016];
-		years.forEach((year) => {
-			dropdownMenu
-			.append("option")
-			.text(year)
-			.property("value", year);
-		});
-		}
-		init();
-		   function year2011(year){
-             return year.year == "2011";
-         };
-        //Filtering data to where university is Harvard
-        var initPlotData = item.filter(year2011).slice(0,3);
-        //console.log(initPlotData);
-		var data =[];
-		 initPlotData.forEach(item => {
-			 var array = [];
-			 var entries = Object.entries(item)
-			 //console.log(entries)
-			var univeristyName = entries[10][1];
-			array.push({axis:entries[0][0],value:entries[0][1]}),
-			array.push({axis:entries[3][0],value:entries[3][1]}),
-			array.push({axis:entries[4][0],value:entries[4][1]}),
-			array.push({axis:entries[7][0],value:entries[7][1]}),
-			array.push({axis:entries[8][0],value:entries[8][1]})
-			data.push(array)
-		 })
-		 console.log(data)
+	<div class= row>
+	<div class="radarChart col-md-6 " style="display: inline-flex; margin-left: 40px;"></div>
+	
+<script>
+d3.json('/sqldata').then(function(item){
+function init(){
+var dropdownMenu = d3.select("#selDataset");
+//Creating years for dropdown menu
+var years = [2011, 2012, 2013, 2014, 2015, 2016];
+years.forEach((year) => {
+    dropdownMenu
+    .append("option")
+    .text(year)
+    .property("value", year);
+});
+}
+init();
+   function year2011(year){
+     return year.year == "2011";
+ };
+//Filtering data to where university is Harvard
+var initPlotData = item.filter(year2011).slice(0,3);
+console.log(initPlotData);
+var data =[];
+ initPlotData.forEach(item => {
+     var array = [];
+     var dict = {};
+     var entries = Object.entries(item)
+     //console.log(entries)
+    var universityName = entries[11][1];
+    dict['name'] = universityName;
+    //console.log(univeristyName);
+    //data.push({name: universityName})
+    array.push({axis:entries[0][0],value:entries[0][1]}),
+    array.push({axis:entries[3][0],value:entries[3][1]}),
+    array.push({axis:entries[5][0],value:entries[5][1]}),
+    array.push({axis:entries[7][0],value:entries[7][1]}),
+    array.push({axis:entries[9][0],value:entries[9][1]})
+    dict['axes'] = array;
+    //dict['name'] = universityName;
+    data.push(dict)
+ })
+ console.log(data)
 d3.selectAll("#selDataset").on("change", buildLinePlot);
 function buildLinePlot(){
-	var dropdownMenu = d3.select("#selDataset");
-	var selectedYear = dropdownMenu.property("value");
-    //console.log(selectedUniversity);
-    //Creating function that finds data with university equal to selected dropdown
-    function filterYear(year){
-      return year.year == selectedYear;
-    };
-    var filteredYear = item.filter(filterYear).slice(0,3);
-    //console.log(correctUniversities);
-    console.log(filteredYear)
-	var data =[];
-		 filteredYear.forEach(item => {
-			 var array = [];
-			 var entries = Object.entries(item)
-			array.push({axis:entries[0][0],value:entries[0][1]}),
-			array.push({axis:entries[3][0],value:entries[3][1]}),
-			array.push({axis:entries[4][0],value:entries[4][1]}),
-			array.push({axis:entries[7][0],value:entries[7][1]}),
-			array.push({axis:entries[8][0],value:entries[8][1]})
-			data.push(array)
-		 })
-		 var margin = {top: 100, right: 100, bottom: 100, left: 100},
-				width = Math.min(700, window.innerWidth - 10) - margin.left - margin.right,
-				height = Math.min(width, window.innerHeight - margin.top - margin.bottom - 20);
-				var color = d3.scaleBand()
-				.range(["#EDC951","#CC333F","#00A0B0"]);
-			var radarChartOptions2 = {
-			  w: 290,
-			  h: 350,
-			  margin: margin,
-			  maxValue: 60,
-			  levels: 6,
-			  roundStrokes: false,
-			  color: d3.scaleOrdinal().range(["#AFC52F", "#ff6600"]),
-				format: '.0f',
-				legend: { title: 'Organization XYZ', translateX: 100, translateY: 40 },
-				unit: '$'
-			};
-		 //console.log(data)
-		 RadarChart(".radarChart", data, radarChartOptions2);
+var dropdownMenu = d3.select("#selDataset");
+var selectedYear = dropdownMenu.property("value");
+//console.log(selectedUniversity);
+//Creating function that finds data with university equal to selected dropdown
+function filterYear(year){
+return year.year == selectedYear;
 };
-      /* Radar chart design created by Nadieh Bremer - VisualCinnamon.com */
-			////////////////////////////////////////////////////////////// 
-			//////////////////////// Set-Up ////////////////////////////// 
-			////////////////////////////////////////////////////////////// 
-			var margin = {top: 100, right: 100, bottom: 100, left: 100},
-				width = Math.min(700, window.innerWidth - 10) - margin.left - margin.right,
-				height = Math.min(width, window.innerHeight - margin.top - margin.bottom - 20);
-			var color = d3.scaleBand()
-				.range(["#EDC951","#CC333F","#00A0B0"]);
-			var radarChartOptions2 = {
+var filteredYear = item.filter(filterYear).slice(0,3);
+console.log(filteredYear)
+var data =[];
+ filteredYear.forEach(item => {
+    // data.push(dict)
+     var array = [];
+     var dict = {};
+     var entries = Object.entries(item)
+	 var universityName = entries[11][1];
+	dict['name'] = universityName;
+	//console.log(univeristyName);
+    array.push({axis:entries[0][0],value:entries[0][1]}),
+    array.push({axis:entries[3][0],value:entries[3][1]}),
+    array.push({axis:entries[5][0],value:entries[5][1]}),
+    array.push({axis:entries[7][0],value:entries[7][1]}),
+    array.push({axis:entries[9][0],value:entries[9][1]})
+	dict['axes'] = array;
+    data.push(dict)
+ })
+ console.log(data)
+			var margin = { top: 80, right: 80, bottom: 10, left: 80 },
+				width = Math.min(700, window.innerWidth / 4) - margin.left - margin.right,
+				height = Math.min(width, window.innerHeight - margin.top - margin.bottom);
+			var radarChartOptions = {
 			  w: 290,
 			  h: 350,
 			  margin: margin,
 			  maxValue: 60,
 			  levels: 6,
 			  roundStrokes: false,
-			  color: d3.scaleOrdinal().range(["#AFC52F", "#ff6600"]),
+			  color: d3.scaleOrdinal().range(["#AFC52F", "orange", "#ff6600"]),
 				format: '.0f',
-				legend: { title: 'Organization XYZ', translateX: 100, translateY: 40 },
-				unit: '$'
+				legend: { title: 'Top 3 Universities', translateX: 27, translateY: 7 },
+				unit: ''
 			};
-			//Call function to draw the Radar chart
-			RadarChart(".radarChart", data, radarChartOptions2);
-		})
-		</script> 
+			// Draw the chart, get a reference the created svg element :
+			let svg_radar1 = RadarChart(".radarChart", data, radarChartOptions);
+        }
+        var margin = { top: 50, right: 80, bottom: 50, left: 80 },
+				width = Math.min(700, window.innerWidth / 4) - margin.left - margin.right,
+				height = Math.min(width, window.innerHeight - margin.top - margin.bottom);
+			var radarChartOptions = {
+			  w: 290,
+			  h: 450,
+			  margin: margin,
+			  maxValue: 60,
+			  levels: 6,
+			  roundStrokes: false,
+			  color: d3.scaleOrdinal().range(["#AFC52F", "orange","#ff6600"]),
+				format: '.0f',
+				legend: { title: 'Top 3 Universities', translateX: 27, translateY: 7 },
+				unit: ''
+			};
+			// Draw the chart, get a reference the created svg element :
+			let svg_radar2 = RadarChart(".radarChart", data, radarChartOptions);
+        })
+		</script>
+ 
+		
+		<p class="col-md-6 col-lg-4 col-sm-10 pformat" style="margin-left: 20px;">
+			<br><br><br><br>
+			<strong>Criteria:</strong> <br>
+			Teaching: the learning environemnt<br>
+			Research: volume, income, and reputation<br>
+		 	Citations: research influence<br>
+			International outlook: staff, students and research<br>
+			Industry income: knowledge transfer<br><br>
+			<strong>Analysis: <br>  </strong>
+            For more information on the criteria specifics click
+        	<a href="https://www.timeshighereducation.com/world-university-rankings/about-the-times-higher-education-world-university-rankings">here!</a>
+			
+		 
+		</p>
+	</div>
+	</div>
     <svg>
     </svg>
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
