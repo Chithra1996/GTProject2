@@ -31,10 +31,7 @@ finally:
 # Database Setup
 #################################################
 engine = create_engine("postgresql://postgres:postgres@localhost/timess")
-
-
 ## app.config['SQLALCHEMY_DATABASE_URI'] = os.environ.get('DATABASE_URL', '') or "sqlite:///db.sqlite"
-
 # reflect an existing database into a new model
 Base = automap_base()
 # reflect the tables
@@ -45,15 +42,10 @@ Base.prepare(engine, reflect=True)
 # Flask Setup
 #################################################
 app = Flask(__name__)
-
 #################################################
 # Flask Routes
 # Home page. List all routes that are available.
 #################################################
-#@app.route('/',methods=['GET']) #post, put(grab user by username and update the username), delete(grab by ID and delete)
-#def home_page():
-#  return render_template('index.html')
-
 # Route to render index.html template using data from SQlite
 @app.route('/sqldata',methods=['GET'])
 def home():
@@ -69,7 +61,7 @@ def home():
 
 @app.route('/', methods=['GET'])
 def graphs():
-    return render_template("ex.html")
+    return render_template("index.html")
 @app.route('/bars', methods=['GET'])
 def bargraph():
     return render_template("barchart.html")
@@ -77,6 +69,9 @@ def bargraph():
 @app.route('/lines', methods=['GET'])
 def linegraph():
     return render_template("linechart.html")
+@app.route('/spider', methods=['GET'])
+def spidergraph():
+    return render_template("spiderchart.html")
 
 @app.route('/sqlmap',methods=['GET'])
 def map():

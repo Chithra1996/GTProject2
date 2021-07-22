@@ -1,7 +1,7 @@
 function init(){
   var dropdownMenu = d3.select("#selDataset");
   //Creating years for dropdown menu
-  var years = [2012, 2013, 2014, 2015];
+  var years = [2011, 2012, 2013, 2014, 2015, 2016];
   years.forEach((year) => {
       dropdownMenu
       .append("option")
@@ -56,7 +56,7 @@ function barchart(selectedoption){
         };
         // Apply the group bar mode to the layout
         var layout = {
-            title: "  Number of Universities  <br> per Country",
+            title: "  Universities by Country",
             yaxis: {title: 'Number of Universities'},
             font:{
                 family: 'Raleway, sans-serif'
@@ -64,8 +64,9 @@ function barchart(selectedoption){
             xaxis: {
                 tickangle: -45
               },
+            width: 1000,
             margin: {
-                l: 200,
+                l: 100,
                 r: 100,
                 t: 100,
                 b: 110,

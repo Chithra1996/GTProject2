@@ -100,7 +100,7 @@ background: #ffffff;
   }
 
   .filter-green{
-    filter: invert(0%) sepia(20%) saturate(1290%) hue-rotate(158deg) brightness(89%) contrast(103%);
+    filter: invert(99%) sepia(20%) saturate(1290%) hue-rotate(158deg) brightness(89%) contrast(103%);
 }
 
 .hero {
@@ -115,6 +115,13 @@ background: #ffffff;
   background-size: cover;
 }
 
+.ctable{
+  position: relative;
+  height: 550px;
+  padding: 20px;
+  background: #ffffff;
+  opacity: 0.5;
+}
 .hero h1 {
   margin-top: 200px;
   font-size: 0.1rem;
