@@ -65,6 +65,9 @@ def graphs():
 @app.route('/bars', methods=['GET'])
 def bargraph():
     return render_template("barchart.html")
+@app.route('/us', methods=['GET'])
+def uspage():
+    return render_template("us.html")
 
 @app.route('/lines', methods=['GET'])
 def linegraph():
