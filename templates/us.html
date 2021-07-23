@@ -1,0 +1,172 @@
+<html lang="en"><head>
+    <meta charset="UTF-8">
+  <title>Universities</title>
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+  <link rel="stylesheet" href="../static/style.css">
+  <!-- Leaflet Awesome Markers -->
+  <!-- Place your kit's code here -->
+  <link href="http://netdna.bootstrapcdn.com/font-awesome/4.0.0/css/font-awesome.css" rel="stylesheet">
+  <link rel="stylesheet" href="./static/leaflet.awesome-markers.css">
+  <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.6.4/leaflet.css">
+   <!-- Leaflet CSS -->
+   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css"
+   integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ=="
+   crossorigin="" />
+  </head>
+
+  <body>
+
+    <nav class="navbar navbar-expand-md navbar-light bg-light" style="
+  padding-bottom: 0px;">
+    <a class="navbar-brand" href="/" style="padding-left: 5px; padding-right: 5px;">Project 2 
+      <img class="nav-edu filter-green" src="static/images/edu.svg"   width="20" height="20" ></a>
+    
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="true" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="navbar-collapse collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav ml-auto">
+    <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="/lines" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            
+            <img class="nav-edu filter-green" src="static/images/chart.svg"   width="20" height="15"> Charts 
+          </a>
+          <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+            <a class="dropdown-item" href="spider">Spider Chart</a>
+            <a class="dropdown-item" href="bars">Bar Chart</a>
+            <a class="dropdown-item" href="lines">Line Chart</a>
+          </div>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="/us">
+           About Us 
+          </a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="/sqldata">
+           Data 
+          </a>
+        </li>
+      </ul>
+    </div>
+  </nav>
+
+    <main role="main">
+
+      <section class="jumbotron text-center" style="opacity:0.7">
+        <div class="container">
+          <h1 class="jumbotron-heading">About Us</h1>
+          <p class="lead text-muted">
+            We are students from the Georgia Tech Data Analytics Bootcamp. 
+          </p>
+          <p>
+            <a href="/" class="btn btn-secondary my-2">Home Page</a>
+          </p>
+        </div>
+      </section>
+
+      <div class="album py-5 bg-light">
+        <div class="container">
+
+          <div class="row">
+            <div class="col-md-4">
+              <div class="card mb-4 box-shadow">
+                <img class="card-img-top" data-src="holder.js/100px225?theme=thumb&amp;bg=55595c&amp;fg=eceeef&amp;text=Thumbnail" alt="Thumbnail [100%x225]" style="height: 225px; width: 100%; display: block;" 
+                src="https://online.jcu.edu.au/sites/default/files/field/image/shutterstock_1085748278%20222.jpg" data-holder-rendered="true" style="height: 225px; width: 100%; display: block;">
+                <div class="card-body">
+                  <p class="card-text"> Caroline Larry </p>
+                  <div class="d-flex justify-content-between align-items-center">
+                    <div class="btn-group">
+                      <a href="https://github.com/carolinelarry" class="btn btn-sm btn-outline-secondary">Github Page</a>
+                    </div>
+                    <small class="text-muted">Data Analyst</small>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="col-md-4">
+              <div class="card mb-4 box-shadow">
+                <img class="card-img-top" data-src="holder.js/100px225?theme=thumb&amp;bg=55595c&amp;fg=eceeef&amp;text=Thumbnail" alt="Thumbnail [100%x225]" 
+                src="./static/groupimage/Chi.jpg" data-holder-rendered="true" style="height: 225px; width: 100%; display: block;">
+                <div class="card-body">
+                  <p class="card-text">Chithra Mohana Sundaram</p>
+                  <div class="d-flex justify-content-between align-items-center">
+                    <div class="btn-group">
+                      <a href="https://github.com/Chithra1996?tab=repositories" class="btn btn-sm btn-outline-secondary">Github Page</a>
+                    </div>
+                    <small class="text-muted">Data Analyst</small>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="col-md-4">
+              <div class="card mb-4 box-shadow">
+                <img class="card-img-top" data-src="holder.js/100px225?theme=thumb&amp;bg=55595c&amp;fg=eceeef&amp;text=Thumbnail" alt="Thumbnail [100%x225]" 
+                src="./static/groupimage/Wi.jpg" data-holder-rendered="true" style="height: 225px; width: 100%; display: block;">
+                <div class="card-body">
+                  <p class="card-text">William Powell</p>
+                  <div class="d-flex justify-content-between align-items-center">
+                    <div class="btn-group">
+                      <a href="https://github.com/wtpowell" class="btn btn-sm btn-outline-secondary">Github Page</a>
+                    </div>
+                    <small class="text-muted">Data Analyst</small>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div class="col-md-4">
+              <div class="card mb-4 box-shadow">
+                <img class="card-img-top" data-src="holder.js/100px225?theme=thumb&amp;bg=55595c&amp;fg=eceeef&amp;text=Thumbnail" alt="Thumbnail [100%x225]" 
+                src="./static/groupimage/Vi.jpg" data-holder-rendered="true" style="height: 225px; width: 100%; display: block;">
+                <div class="card-body">
+                  <p class="card-text">Viera Garcia</p>
+                  <div class="d-flex justify-content-between align-items-center">
+                    <div class="btn-group">
+                      <a href="https://github.com/vieravfg" class="btn btn-sm btn-outline-secondary">Github Page</a>
+                    </div>
+                    <small class="text-muted">Data Analyst</small>
+                  </div>
+                </div>
+              </div>
+            </div>
+            
+           
+
+
+            <div class="col-md-4">
+              <div class="card mb-4 box-shadow">
+                <img class="card-img-top" data-src="holder.js/100px225?theme=thumb&amp;bg=55595c&amp;fg=eceeef&amp;text=Thumbnail" alt="Thumbnail [100%x225]" 
+                src="./static/groupimage/Ting.jpg" data-holder-rendered="true" style="height: 225px; width: 100%; display: block;">
+                <div class="card-body">
+                  <p class="card-text">Ting Jennings</p>
+                  <div class="d-flex justify-content-between align-items-center">
+                    <div class="btn-group">
+                      <a href="https://github.com/tingjennings?tab=repositories" class="btn btn-sm btn-outline-secondary">Github Page</a>
+                    </div>
+                    <small class="text-muted">Data Analyst</small>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+    </main>
+
+    <footer class="text-muted">
+     \
+    </footer>
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery-slim.min.js"><\/script>')</script>
+    <script src="../../assets/js/vendor/popper.min.js"></script>
+    <script src="../../dist/js/bootstrap.min.js"></script>
+    <script src="../../assets/js/vendor/holder.min.js"></script>
+  
+
+<svg xmlns="http://www.w3.org/2000/svg" width="208" height="225" viewBox="0 0 208 225" preserveAspectRatio="none" style="display: none; visibility: hidden; position: absolute; top: -100%; left: -100%;"><defs><style type="text/css"></style></defs><text x="0" y="11" style="font-weight:bold;font-size:11pt;font-family:Arial, Helvetica, Open Sans, sans-serif">Thumbnail</text></svg></body></html>
