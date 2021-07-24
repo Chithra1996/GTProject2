@@ -13,6 +13,8 @@ Data Sources:
 https://www.kaggle.com/mylesoneill/world-university-rankings
 Manually create csv with coordinates for top 15-25 universities
 
+Details: A config.js file ,with the API key for the world map, located in the static folder was Gitignore. 
+
 Questions: 
 Which country has the highest number of ranked universities?
 How have the university rankings changed between 2012 and 2015?
