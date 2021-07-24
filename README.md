@@ -13,7 +13,7 @@ Data Sources:
 https://www.kaggle.com/mylesoneill/world-university-rankings
 Manually create csv with coordinates for top 15-25 universities
 
-Details: A config.js file that had the API key fro the world map and was located in the static folder, was Gitignore. 
+Details: A config.js file that had the API key from the world map and was located in the static folder, was Gitignore. 
 
 Questions: 
 Which country has the highest number of ranked universities?
